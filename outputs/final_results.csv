@@ -1,0 +1,4 @@
+Model,Accuracy,Known macro-F1,AUROC,F1,Recall,FPR,Precision,Softmax AUROC
+Image only,0.9472,0.9471,0.7164,0.5205,0.3667,0.0528,0.8967,0.8667
+Metadata only,0.8056,0.8011,0.7094,0.1786,0.1022,0.0528,0.7077,0.7327
+Image + Metadata,0.95,0.9498,0.7771,0.5809,0.4267,0.0528,0.91,0.8632

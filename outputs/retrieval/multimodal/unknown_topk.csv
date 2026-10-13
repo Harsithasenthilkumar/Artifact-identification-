@@ -1,0 +1,2251 @@
+query_id,query_true_category,predicted_unknown,rank,neighbour_id,neighbour_category,cosine_similarity
+322945,jug,True,1,323054,bowl,0.9361
+322945,jug,True,2,452004,bowl,0.9247
+322945,jug,True,3,240272,bowl,0.9189
+322945,jug,True,4,443163,bowl,0.9154
+322945,jug,True,5,448970,bowl,0.9102
+245348,jug,False,1,452610,vase,0.9852
+245348,jug,False,2,45857,vase,0.9805
+245348,jug,False,3,45833,vase,0.9787
+245348,jug,False,4,452064,vase,0.9757
+245348,jug,False,5,827417,vase,0.9754
+651241,jug,False,1,478721,vase,0.9914
+651241,jug,False,2,827417,vase,0.9891
+651241,jug,False,3,48359,vase,0.9886
+651241,jug,False,4,47167,vase,0.9864
+651241,jug,False,5,45857,vase,0.9851
+323160,jug,False,1,240727,vase,0.9866
+323160,jug,False,2,452610,vase,0.9841
+323160,jug,False,3,45857,vase,0.9829
+323160,jug,False,4,45833,vase,0.9817
+323160,jug,False,5,39631,vase,0.9816
+248996,jug,False,1,478721,vase,0.9878
+248996,jug,False,2,39631,vase,0.9872
+248996,jug,False,3,45857,vase,0.9869
+248996,jug,False,4,444740,vase,0.9864
+248996,jug,False,5,59847,vase,0.9859
+240297,jug,False,1,249072,vase,0.995
+240297,jug,False,2,468212,vase,0.9948
+240297,jug,False,3,246184,vase,0.9924
+240297,jug,False,4,444485,vase,0.9916
+240297,jug,False,5,451798,vase,0.9913
+240000,jug,False,1,39087,vase,0.9844
+240000,jug,False,2,240727,vase,0.9828
+240000,jug,False,3,244443,vase,0.9783
+240000,jug,False,4,250077,vase,0.978
+240000,jug,False,5,52682,vase,0.9774
+240829,jug,False,1,240727,vase,0.9919
+240829,jug,False,2,478721,vase,0.9861
+240829,jug,False,3,45857,vase,0.9827
+240829,jug,False,4,453244,vase,0.9825
+240829,jug,False,5,444463,vase,0.9823
+240090,jug,False,1,249072,vase,0.9933
+240090,jug,False,2,468212,vase,0.9914
+240090,jug,False,3,444485,vase,0.988
+240090,jug,False,4,250243,vase,0.9874
+240090,jug,False,5,453244,vase,0.9873
+239709,jug,False,1,478721,vase,0.9928
+239709,jug,False,2,45857,vase,0.9911
+239709,jug,False,3,452610,vase,0.9892
+239709,jug,False,4,240727,vase,0.9883
+239709,jug,False,5,827417,vase,0.9872
+240131,jug,False,1,45857,vase,0.9942
+240131,jug,False,2,46054,vase,0.9923
+240131,jug,False,3,452610,vase,0.9922
+240131,jug,False,4,478721,vase,0.992
+240131,jug,False,5,782098,vase,0.9915
+240029,jug,False,1,250077,vase,0.9794
+240029,jug,False,2,466579,vase,0.979
+240029,jug,False,3,444988,vase,0.9786
+240029,jug,False,4,476254,vase,0.9776
+240029,jug,False,5,444511,lamp,0.9753
+553136,jug,False,1,46054,vase,0.9942
+553136,jug,False,2,451365,vase,0.9935
+553136,jug,False,3,782098,vase,0.9935
+553136,jug,False,4,452064,vase,0.9931
+553136,jug,False,5,546254,vase,0.9924
+245398,jug,False,1,39631,vase,0.9859
+245398,jug,False,2,827417,vase,0.9858
+245398,jug,False,3,45833,vase,0.985
+245398,jug,False,4,443105,vase,0.9848
+245398,jug,False,5,478721,vase,0.9822
+240165,jug,False,1,451798,vase,0.9938
+240165,jug,False,2,246184,vase,0.9937
+240165,jug,False,3,451365,vase,0.9936
+240165,jug,False,4,468212,vase,0.9922
+240165,jug,False,5,46054,vase,0.9915
+452082,jug,False,1,453244,vase,0.9936
+452082,jug,False,2,451836,vase,0.9914
+452082,jug,False,3,444988,vase,0.9911
+452082,jug,False,4,249072,vase,0.9901
+452082,jug,False,5,46114,vase,0.99
+545041,jug,False,1,468769,vase,0.9722
+545041,jug,False,2,52682,vase,0.9599
+545041,jug,False,3,39631,vase,0.9528
+545041,jug,False,4,37703,vase,0.9502
+545041,jug,False,5,244443,vase,0.9492
+466228,jug,False,1,456219,vase,0.9887
+466228,jug,False,2,450404,vase,0.9881
+466228,jug,False,3,53749,bowl,0.9876
+466228,jug,False,4,451431,vase,0.9857
+466228,jug,False,5,451836,vase,0.9852
+323154,jug,False,1,452610,vase,0.9957
+323154,jug,False,2,452064,vase,0.9947
+323154,jug,False,3,46054,vase,0.9942
+323154,jug,False,4,45857,vase,0.9935
+323154,jug,False,5,782098,vase,0.9919
+239703,jug,False,1,453244,vase,0.989
+239703,jug,False,2,240727,vase,0.9886
+239703,jug,False,3,246184,vase,0.9883
+239703,jug,False,4,444988,vase,0.986
+239703,jug,False,5,250077,vase,0.9839
+322946,jug,False,1,452610,vase,0.9959
+322946,jug,False,2,452064,vase,0.9935
+322946,jug,False,3,46054,vase,0.9932
+322946,jug,False,4,45857,vase,0.9926
+322946,jug,False,5,40677,vase,0.9912
+240095,jug,False,1,453244,vase,0.9952
+240095,jug,False,2,468212,vase,0.9921
+240095,jug,False,3,249072,vase,0.9897
+240095,jug,False,4,246184,vase,0.9894
+240095,jug,False,5,444988,vase,0.9888
+240928,jug,False,1,240727,vase,0.9874
+240928,jug,False,2,444511,lamp,0.9843
+240928,jug,False,3,250077,vase,0.9804
+240928,jug,False,4,244443,vase,0.9783
+240928,jug,False,5,39087,vase,0.9765
+449418,jug,False,1,478721,vase,0.9845
+449418,jug,False,2,827417,vase,0.9829
+449418,jug,False,3,452610,vase,0.9829
+449418,jug,False,4,240727,vase,0.9827
+449418,jug,False,5,45857,vase,0.9817
+240464,jug,False,1,451798,vase,0.9952
+240464,jug,False,2,468212,vase,0.9941
+240464,jug,False,3,444485,vase,0.994
+240464,jug,False,4,451365,vase,0.9918
+240464,jug,False,5,549375,vase,0.9906
+239985,jug,False,1,240727,vase,0.9889
+239985,jug,False,2,39087,vase,0.9866
+239985,jug,False,3,244443,vase,0.9763
+239985,jug,False,4,444511,lamp,0.9757
+239985,jug,False,5,250077,vase,0.9756
+246620,jug,False,1,452610,vase,0.9923
+246620,jug,False,2,45857,vase,0.9868
+246620,jug,False,3,45833,vase,0.9861
+246620,jug,False,4,444741,vase,0.9835
+246620,jug,False,5,452064,vase,0.9817
+255216,jug,False,1,53749,bowl,0.9911
+255216,jug,False,2,250100,bowl,0.9903
+255216,jug,False,3,240350,vase,0.989
+255216,jug,False,4,456219,vase,0.9885
+255216,jug,False,5,451431,vase,0.9881
+240742,jug,False,1,244443,vase,0.9746
+240742,jug,False,2,240662,vase,0.9731
+240742,jug,False,3,444511,lamp,0.9728
+240742,jug,False,4,250077,vase,0.9659
+240742,jug,False,5,39087,vase,0.9641
+245269,jug,False,1,240727,vase,0.9922
+245269,jug,False,2,250077,vase,0.9886
+245269,jug,False,3,39087,vase,0.9858
+245269,jug,False,4,444511,lamp,0.9847
+245269,jug,False,5,466579,vase,0.9822
+468398,jug,False,1,466579,vase,0.9859
+468398,jug,False,2,39087,vase,0.9852
+468398,jug,False,3,240727,vase,0.9845
+468398,jug,False,4,478721,vase,0.9823
+468398,jug,False,5,250077,vase,0.9809
+477283,jug,False,1,478721,vase,0.9868
+477283,jug,False,2,240727,vase,0.9867
+477283,jug,False,3,466579,vase,0.9845
+477283,jug,False,4,39087,vase,0.9843
+477283,jug,False,5,453244,vase,0.9832
+468394,jug,False,1,478721,vase,0.988
+468394,jug,False,2,45857,vase,0.9841
+468394,jug,False,3,452610,vase,0.9837
+468394,jug,False,4,827417,vase,0.9833
+468394,jug,False,5,48359,vase,0.9824
+47270,jug,False,1,45857,vase,0.9948
+47270,jug,False,2,478721,vase,0.9948
+47270,jug,False,3,40677,vase,0.9941
+47270,jug,False,4,40706,vase,0.9941
+47270,jug,False,5,52984,vase,0.9933
+449071,jug,False,1,452610,vase,0.9927
+449071,jug,False,2,45857,vase,0.9886
+449071,jug,False,3,452064,vase,0.9882
+449071,jug,False,4,478721,vase,0.9873
+449071,jug,False,5,46054,vase,0.9842
+245654,jug,False,1,45857,vase,0.9916
+245654,jug,False,2,452610,vase,0.9911
+245654,jug,False,3,782098,vase,0.9903
+245654,jug,False,4,46054,vase,0.9898
+245654,jug,False,5,478721,vase,0.9894
+240099,jug,False,1,451431,vase,0.989
+240099,jug,False,2,249072,vase,0.9849
+240099,jug,False,3,51154,vase,0.9844
+240099,jug,False,4,453244,vase,0.9818
+240099,jug,False,5,46114,vase,0.9809
+325378,jug,False,1,240727,vase,0.9857
+325378,jug,False,2,250077,vase,0.9791
+325378,jug,False,3,246184,vase,0.9757
+325378,jug,False,4,39087,vase,0.9676
+325378,jug,False,5,244443,vase,0.9674
+245626,jug,False,1,240727,vase,0.9897
+245626,jug,False,2,452610,vase,0.9872
+245626,jug,False,3,45857,vase,0.9868
+245626,jug,False,4,478721,vase,0.9863
+245626,jug,False,5,827417,vase,0.9827
+449313,jug,False,1,452610,vase,0.9871
+449313,jug,False,2,45857,vase,0.9815
+449313,jug,False,3,478721,vase,0.9811
+449313,jug,False,4,45833,vase,0.978
+449313,jug,False,5,452064,vase,0.9769
+250083,jug,False,1,39087,vase,0.9829
+250083,jug,False,2,240727,vase,0.9825
+250083,jug,False,3,244443,vase,0.9819
+250083,jug,False,4,468769,vase,0.9793
+250083,jug,False,5,444511,lamp,0.9774
+249518,jug,False,1,452064,vase,0.9904
+249518,jug,False,2,246184,vase,0.9897
+249518,jug,False,3,468212,vase,0.9892
+249518,jug,False,4,451365,vase,0.9891
+249518,jug,False,5,782098,vase,0.9889
+323159,jug,False,1,240662,vase,0.9801
+323159,jug,False,2,546714,lamp,0.9677
+323159,jug,False,3,450375,lamp,0.9676
+323159,jug,False,4,444511,lamp,0.964
+323159,jug,False,5,244443,vase,0.9594
+479662,jug,False,1,444511,lamp,0.9778
+479662,jug,False,2,444755,vase,0.9688
+479662,jug,False,3,39087,vase,0.9687
+479662,jug,False,4,466579,vase,0.9664
+479662,jug,False,5,52682,vase,0.9644
+463710,jug,False,1,48359,vase,0.9871
+463710,jug,False,2,478721,vase,0.9857
+463710,jug,False,3,47536,vase,0.9828
+463710,jug,False,4,444463,vase,0.9825
+463710,jug,False,5,40629,vase,0.9818
+465878,jug,False,1,44346,bowl,0.9775
+465878,jug,False,2,310445,bowl,0.9763
+465878,jug,False,3,450579,bowl,0.9719
+465878,jug,False,4,309718,bowl,0.9698
+465878,jug,False,5,314521,bowl,0.9696
+252904,jug,False,1,452610,vase,0.9923
+252904,jug,False,2,478721,vase,0.992
+252904,jug,False,3,45857,vase,0.9918
+252904,jug,False,4,452064,vase,0.9912
+252904,jug,False,5,46054,vase,0.9908
+322744,jug,False,1,444463,vase,0.9881
+322744,jug,False,2,478721,vase,0.9859
+322744,jug,False,3,466579,vase,0.9846
+322744,jug,False,4,45919,vase,0.9845
+322744,jug,False,5,240727,vase,0.9836
+240084,jug,False,1,452064,vase,0.9931
+240084,jug,False,2,452610,vase,0.9921
+240084,jug,False,3,46054,vase,0.9918
+240084,jug,False,4,782098,vase,0.9911
+240084,jug,False,5,451365,vase,0.9906
+253132,jug,False,1,476254,vase,0.9863
+253132,jug,False,2,444988,vase,0.986
+253132,jug,False,3,453244,vase,0.9859
+253132,jug,False,4,446963,vase,0.9855
+253132,jug,False,5,250077,vase,0.9823
+468399,jug,False,1,452610,vase,0.9932
+468399,jug,False,2,452064,vase,0.9928
+468399,jug,False,3,46054,vase,0.9926
+468399,jug,False,4,40677,vase,0.9925
+468399,jug,False,5,782098,vase,0.9918
+250091,jug,False,1,452064,vase,0.9901
+250091,jug,False,2,46054,vase,0.9893
+250091,jug,False,3,452610,vase,0.9886
+250091,jug,False,4,782098,vase,0.988
+250091,jug,False,5,45857,vase,0.987
+478438,jug,False,1,249072,vase,0.9913
+478438,jug,False,2,451836,vase,0.9909
+478438,jug,False,3,46114,vase,0.9906
+478438,jug,False,4,453244,vase,0.9906
+478438,jug,False,5,476254,vase,0.9895
+240618,jug,False,1,549375,vase,0.9955
+240618,jug,False,2,546254,vase,0.9945
+240618,jug,False,3,451365,vase,0.9927
+240618,jug,False,4,246184,vase,0.9915
+240618,jug,False,5,46054,vase,0.9913
+240121,jug,False,1,451798,vase,0.9955
+240121,jug,False,2,468212,vase,0.9944
+240121,jug,False,3,444485,vase,0.9933
+240121,jug,False,4,451365,vase,0.9928
+240121,jug,False,5,453244,vase,0.992
+246204,jug,False,1,39631,vase,0.9875
+246204,jug,False,2,240727,vase,0.9848
+246204,jug,False,3,39087,vase,0.9829
+246204,jug,False,4,37703,vase,0.9748
+246204,jug,False,5,52682,vase,0.9743
+246161,jug,False,1,45857,vase,0.9907
+246161,jug,False,2,240727,vase,0.9898
+246161,jug,False,3,452610,vase,0.9892
+246161,jug,False,4,478721,vase,0.9892
+246161,jug,False,5,46054,vase,0.9857
+323015,jug,False,1,452610,vase,0.9925
+323015,jug,False,2,452064,vase,0.9917
+323015,jug,False,3,46054,vase,0.991
+323015,jug,False,4,45857,vase,0.9906
+323015,jug,False,5,40677,vase,0.9893
+250230,jug,False,1,451353,bowl,0.9894
+250230,jug,False,2,254726,bowl,0.9878
+250230,jug,False,3,44954,bowl,0.9872
+250230,jug,False,4,325917,bowl,0.9852
+250230,jug,False,5,309402,bowl,0.9849
+245336,jug,False,1,478721,vase,0.9926
+245336,jug,False,2,45857,vase,0.9923
+245336,jug,False,3,827417,vase,0.9909
+245336,jug,False,4,45833,vase,0.9909
+245336,jug,False,5,452610,vase,0.99
+240168,jug,False,1,453244,vase,0.9893
+240168,jug,False,2,444485,vase,0.9883
+240168,jug,False,3,468212,vase,0.9878
+240168,jug,False,4,246184,vase,0.9874
+240168,jug,False,5,249072,vase,0.9861
+323158,jug,False,1,45857,vase,0.9899
+323158,jug,False,2,45833,vase,0.9895
+323158,jug,False,3,478721,vase,0.9883
+323158,jug,False,4,452610,vase,0.9874
+323158,jug,False,5,240727,vase,0.9872
+240947,jug,False,1,240727,vase,0.989
+240947,jug,False,2,782098,vase,0.989
+240947,jug,False,3,45857,vase,0.9882
+240947,jug,False,4,46054,vase,0.9881
+240947,jug,False,5,452064,vase,0.9877
+449067,jug,False,1,250077,vase,0.9831
+449067,jug,False,2,39087,vase,0.9813
+449067,jug,False,3,244443,vase,0.9812
+449067,jug,False,4,444511,lamp,0.9797
+449067,jug,False,5,240727,vase,0.9767
+240260,jug,False,1,45857,vase,0.9947
+240260,jug,False,2,478721,vase,0.9936
+240260,jug,False,3,452610,vase,0.9933
+240260,jug,False,4,452064,vase,0.9914
+240260,jug,False,5,46054,vase,0.9901
+552297,jug,False,1,250077,vase,0.9887
+552297,jug,False,2,466579,vase,0.9876
+552297,jug,False,3,444988,vase,0.9858
+552297,jug,False,4,453244,vase,0.9848
+552297,jug,False,5,476254,vase,0.9825
+239951,jug,False,1,240727,vase,0.9893
+239951,jug,False,2,453244,vase,0.985
+239951,jug,False,3,246184,vase,0.9848
+239951,jug,False,4,466579,vase,0.9844
+239951,jug,False,5,444988,vase,0.9818
+240441,jug,False,1,45857,vase,0.9921
+240441,jug,False,2,452610,vase,0.9919
+240441,jug,False,3,478721,vase,0.9904
+240441,jug,False,4,45833,vase,0.9884
+240441,jug,False,5,827417,vase,0.9878
+240328,jug,False,1,453244,vase,0.995
+240328,jug,False,2,468212,vase,0.9928
+240328,jug,False,3,246184,vase,0.9909
+240328,jug,False,4,451798,vase,0.9905
+240328,jug,False,5,451365,vase,0.9904
+465884,jug,False,1,456219,vase,0.9827
+465884,jug,False,2,476254,vase,0.9824
+465884,jug,False,3,250077,vase,0.981
+465884,jug,False,4,466579,vase,0.9809
+465884,jug,False,5,240370,vase,0.9802
+240142,jug,False,1,478721,vase,0.9877
+240142,jug,False,2,246184,vase,0.9874
+240142,jug,False,3,240727,vase,0.9862
+240142,jug,False,4,45857,vase,0.9854
+240142,jug,False,5,452064,vase,0.985
+240013,jug,False,1,444511,lamp,0.9869
+240013,jug,False,2,240662,vase,0.9822
+240013,jug,False,3,250077,vase,0.9788
+240013,jug,False,4,466579,vase,0.9711
+240013,jug,False,5,244443,vase,0.9675
+240123,jug,False,1,453244,vase,0.9898
+240123,jug,False,2,246184,vase,0.9847
+240123,jug,False,3,444988,vase,0.9843
+240123,jug,False,4,451365,vase,0.983
+240123,jug,False,5,468212,vase,0.9828
+322999,jug,False,1,478721,vase,0.9944
+322999,jug,False,2,45857,vase,0.9941
+322999,jug,False,3,452610,vase,0.9941
+322999,jug,False,4,452064,vase,0.9927
+322999,jug,False,5,46054,vase,0.9926
+240634,jug,True,1,240662,vase,0.9708
+240634,jug,True,2,546714,lamp,0.9673
+240634,jug,True,3,250077,vase,0.965
+240634,jug,True,4,444511,lamp,0.9631
+240634,jug,True,5,240370,vase,0.9565
+250573,jug,False,1,249072,vase,0.9964
+250573,jug,False,2,450404,vase,0.991
+250573,jug,False,3,468212,vase,0.9902
+250573,jug,False,4,451836,vase,0.9901
+250573,jug,False,5,451431,vase,0.9885
+465879,jug,False,1,466579,vase,0.9888
+465879,jug,False,2,250077,vase,0.9843
+465879,jug,False,3,444511,lamp,0.9832
+465879,jug,False,4,39087,vase,0.9798
+465879,jug,False,5,444988,vase,0.9772
+477279,jug,False,1,250077,vase,0.9873
+477279,jug,False,2,466579,vase,0.9867
+477279,jug,False,3,444988,vase,0.9838
+477279,jug,False,4,39087,vase,0.9814
+477279,jug,False,5,453244,vase,0.9812
+245170,jug,False,1,452064,vase,0.9909
+245170,jug,False,2,452610,vase,0.9908
+245170,jug,False,3,478721,vase,0.989
+245170,jug,False,4,45857,vase,0.989
+245170,jug,False,5,46054,vase,0.9887
+245441,jug,False,1,443105,vase,0.9921
+245441,jug,False,2,39631,vase,0.9909
+245441,jug,False,3,45833,vase,0.9857
+245441,jug,False,4,827417,vase,0.9849
+245441,jug,False,5,444741,vase,0.9836
+240543,jug,False,1,240727,vase,0.9877
+240543,jug,False,2,39087,vase,0.9861
+240543,jug,False,3,250077,vase,0.985
+240543,jug,False,4,466579,vase,0.9826
+240543,jug,False,5,444463,vase,0.9812
+651287,jug,False,1,45857,vase,0.9925
+651287,jug,False,2,478721,vase,0.9923
+651287,jug,False,3,452610,vase,0.9922
+651287,jug,False,4,782098,vase,0.9878
+651287,jug,False,5,46054,vase,0.9877
+249332,jug,False,1,453244,vase,0.9884
+249332,jug,False,2,45919,vase,0.9853
+249332,jug,False,3,240727,vase,0.9852
+249332,jug,False,4,782098,vase,0.9839
+249332,jug,False,5,46054,vase,0.9836
+325376,jug,False,1,240727,vase,0.979
+325376,jug,False,2,45833,vase,0.9775
+325376,jug,False,3,39631,vase,0.9774
+325376,jug,False,4,45857,vase,0.974
+325376,jug,False,5,452610,vase,0.9737
+240006,jug,False,1,330046,lamp,0.982
+240006,jug,False,2,241580,lamp,0.9736
+240006,jug,False,3,478706,lamp,0.9659
+240006,jug,False,4,450381,lamp,0.9654
+240006,jug,False,5,449774,lamp,0.965
+544806,jug,False,1,246184,vase,0.9878
+544806,jug,False,2,240727,vase,0.9867
+544806,jug,False,3,478721,vase,0.9866
+544806,jug,False,4,452064,vase,0.9863
+544806,jug,False,5,451365,vase,0.9862
+245169,jug,False,1,452610,vase,0.9914
+245169,jug,False,2,45857,vase,0.986
+245169,jug,False,3,452064,vase,0.9852
+245169,jug,False,4,46054,vase,0.9843
+245169,jug,False,5,45833,vase,0.9816
+449404,jug,False,1,246184,vase,0.9841
+449404,jug,False,2,444485,vase,0.9821
+449404,jug,False,3,451798,vase,0.9793
+449404,jug,False,4,452064,vase,0.9792
+449404,jug,False,5,468212,vase,0.9781
+251561,jug,False,1,453244,vase,0.9879
+251561,jug,False,2,246184,vase,0.9877
+251561,jug,False,3,240727,vase,0.985
+251561,jug,False,4,451365,vase,0.9845
+251561,jug,False,5,549375,vase,0.983
+245335,jug,False,1,240727,vase,0.9891
+245335,jug,False,2,478721,vase,0.9883
+245335,jug,False,3,45857,vase,0.9876
+245335,jug,False,4,452610,vase,0.9872
+245335,jug,False,5,827417,vase,0.9823
+240144,jug,False,1,45857,vase,0.993
+240144,jug,False,2,478721,vase,0.9928
+240144,jug,False,3,452610,vase,0.9916
+240144,jug,False,4,46054,vase,0.9894
+240144,jug,False,5,452064,vase,0.9893
+323157,jug,False,1,39631,vase,0.99
+323157,jug,False,2,443105,vase,0.9878
+323157,jug,False,3,45833,vase,0.9841
+323157,jug,False,4,827417,vase,0.9831
+323157,jug,False,5,52682,vase,0.983
+249316,jug,False,1,240727,vase,0.9904
+249316,jug,False,2,39631,vase,0.9869
+249316,jug,False,3,444740,vase,0.983
+249316,jug,False,4,53855,vase,0.9813
+249316,jug,False,5,39087,vase,0.9796
+240453,jug,False,1,249072,vase,0.994
+240453,jug,False,2,468212,vase,0.9929
+240453,jug,False,3,451798,vase,0.9923
+240453,jug,False,4,444485,vase,0.9916
+240453,jug,False,5,549375,vase,0.9896
+243965,jug,True,1,241918,lamp,0.9753
+243965,jug,True,2,240384,vase,0.9571
+243965,jug,True,3,61050,lamp,0.9556
+243965,jug,True,4,52656,vase,0.947
+243965,jug,True,5,324404,lamp,0.9465
+254500,jug,False,1,246184,vase,0.9922
+254500,jug,False,2,453244,vase,0.9853
+254500,jug,False,3,468212,vase,0.9843
+254500,jug,False,4,549375,vase,0.9838
+254500,jug,False,5,46054,vase,0.9827
+465881,jug,False,1,466579,vase,0.9874
+465881,jug,False,2,444463,vase,0.9865
+465881,jug,False,3,453244,vase,0.9865
+465881,jug,False,4,444988,vase,0.9861
+465881,jug,False,5,45919,vase,0.9859
+310675,jug,False,1,48480,vase,0.9949
+310675,jug,False,2,51154,vase,0.9904
+310675,jug,False,3,451431,vase,0.9873
+310675,jug,False,4,53749,bowl,0.9862
+310675,jug,False,5,46114,vase,0.9855
+255006,jug,False,1,42218,vase,0.9748
+255006,jug,False,2,42074,vase,0.9608
+255006,jug,False,3,42280,vase,0.9532
+255006,jug,False,4,468666,figure,0.952
+255006,jug,False,5,52682,vase,0.9516
+468395,jug,False,1,452610,vase,0.9934
+468395,jug,False,2,45857,vase,0.9926
+468395,jug,False,3,478721,vase,0.9922
+468395,jug,False,4,827417,vase,0.9878
+468395,jug,False,5,452064,vase,0.9864
+468400,jug,False,1,478721,vase,0.9916
+468400,jug,False,2,45857,vase,0.9883
+468400,jug,False,3,827417,vase,0.9876
+468400,jug,False,4,452610,vase,0.9874
+468400,jug,False,5,53855,vase,0.9821
+449399,jug,False,1,478721,vase,0.9862
+449399,jug,False,2,827417,vase,0.9853
+449399,jug,False,3,45833,vase,0.9834
+449399,jug,False,4,452610,vase,0.9827
+449399,jug,False,5,45857,vase,0.982
+476285,jug,False,1,250077,vase,0.9894
+476285,jug,False,2,466579,vase,0.9892
+476285,jug,False,3,240727,vase,0.9891
+476285,jug,False,4,39087,vase,0.9889
+476285,jug,False,5,444511,lamp,0.9875
+240001,jug,False,1,250077,vase,0.9896
+240001,jug,False,2,444511,lamp,0.9846
+240001,jug,False,3,466579,vase,0.9787
+240001,jug,False,4,244443,vase,0.9761
+240001,jug,False,5,39087,vase,0.9746
+239716,jug,False,1,452610,vase,0.9902
+239716,jug,False,2,45857,vase,0.9893
+239716,jug,False,3,452064,vase,0.9889
+239716,jug,False,4,478721,vase,0.9886
+239716,jug,False,5,782098,vase,0.9886
+240127,jug,False,1,240662,vase,0.9882
+240127,jug,False,2,444511,lamp,0.9824
+240127,jug,False,3,250077,vase,0.9643
+240127,jug,False,4,240370,vase,0.9625
+240127,jug,False,5,466579,vase,0.9608
+244842,jug,False,1,39631,vase,0.9932
+244842,jug,False,2,45833,vase,0.9907
+244842,jug,False,3,443105,vase,0.9906
+244842,jug,False,4,827417,vase,0.9857
+244842,jug,False,5,46696,vase,0.9857
+239984,jug,False,1,246184,vase,0.9905
+239984,jug,False,2,453244,vase,0.989
+239984,jug,False,3,468212,vase,0.987
+239984,jug,False,4,451365,vase,0.9863
+239984,jug,False,5,451798,vase,0.9858
+765030,jug,False,1,40677,vase,0.9957
+765030,jug,False,2,40634,vase,0.9946
+765030,jug,False,3,46054,vase,0.9946
+765030,jug,False,4,782098,vase,0.9942
+765030,jug,False,5,45857,vase,0.9942
+322987,jug,False,1,46054,vase,0.9903
+322987,jug,False,2,452610,vase,0.9901
+322987,jug,False,3,452064,vase,0.9898
+322987,jug,False,4,40677,vase,0.9893
+322987,jug,False,5,451365,vase,0.989
+463968,jug,False,1,52682,vase,0.9757
+463968,jug,False,2,39631,vase,0.975
+463968,jug,False,3,468769,vase,0.9744
+463968,jug,False,4,39087,vase,0.9729
+463968,jug,False,5,240727,vase,0.9719
+324308,jug,False,1,249072,vase,0.9939
+324308,jug,False,2,250243,vase,0.9939
+324308,jug,False,3,468212,vase,0.9932
+324308,jug,False,4,246184,vase,0.9905
+324308,jug,False,5,549375,vase,0.9887
+245270,jug,False,1,39087,vase,0.9876
+245270,jug,False,2,240727,vase,0.9854
+245270,jug,False,3,444511,lamp,0.98
+245270,jug,False,4,244443,vase,0.979
+245270,jug,False,5,52682,vase,0.9767
+325515,jug,True,1,39631,vase,0.978
+325515,jug,True,2,37703,vase,0.9765
+325515,jug,True,3,52682,vase,0.9738
+325515,jug,True,4,468769,vase,0.9693
+325515,jug,True,5,443105,vase,0.9652
+466618,jug,False,1,52656,vase,0.9716
+466618,jug,False,2,444511,lamp,0.971
+466618,jug,False,3,39087,vase,0.9613
+466618,jug,False,4,244443,vase,0.958
+466618,jug,False,5,468769,vase,0.9567
+323232,jug,False,1,453244,vase,0.9949
+323232,jug,False,2,468212,vase,0.9946
+323232,jug,False,3,451798,vase,0.9934
+323232,jug,False,4,249072,vase,0.9921
+323232,jug,False,5,246184,vase,0.992
+240136,jug,False,1,453244,vase,0.9928
+240136,jug,False,2,468212,vase,0.9928
+240136,jug,False,3,246184,vase,0.9927
+240136,jug,False,4,451365,vase,0.9907
+240136,jug,False,5,451798,vase,0.9895
+62877,jug,False,1,53855,vase,0.9915
+62877,jug,False,2,478721,vase,0.9912
+62877,jug,False,3,827417,vase,0.9891
+62877,jug,False,4,45857,vase,0.9884
+62877,jug,False,5,444740,vase,0.988
+323152,jug,False,1,240727,vase,0.9877
+323152,jug,False,2,39087,vase,0.9827
+323152,jug,False,3,250077,vase,0.9823
+323152,jug,False,4,244443,vase,0.9779
+323152,jug,False,5,476254,vase,0.9743
+244660,jug,False,1,827417,vase,0.9895
+244660,jug,False,2,45833,vase,0.9889
+244660,jug,False,3,39631,vase,0.986
+244660,jug,False,4,45857,vase,0.9856
+244660,jug,False,5,478721,vase,0.985
+240452,jug,False,1,453244,vase,0.9942
+240452,jug,False,2,444988,vase,0.991
+240452,jug,False,3,468212,vase,0.9896
+240452,jug,False,4,246184,vase,0.9896
+240452,jug,False,5,249072,vase,0.9893
+240156,jug,False,1,468212,vase,0.9927
+240156,jug,False,2,246184,vase,0.992
+240156,jug,False,3,453244,vase,0.9911
+240156,jug,False,4,249072,vase,0.9888
+240156,jug,False,5,451836,vase,0.9866
+249473,jug,False,1,444511,lamp,0.9868
+249473,jug,False,2,240727,vase,0.9806
+249473,jug,False,3,244443,vase,0.9754
+249473,jug,False,4,250077,vase,0.9749
+249473,jug,False,5,39087,vase,0.9736
+245748,jug,False,1,45857,vase,0.9946
+245748,jug,False,2,452610,vase,0.9945
+245748,jug,False,3,478721,vase,0.993
+245748,jug,False,4,60916,vase,0.992
+245748,jug,False,5,827417,vase,0.9913
+245334,jug,False,1,443105,vase,0.987
+245334,jug,False,2,827417,vase,0.987
+245334,jug,False,3,47167,vase,0.986
+245334,jug,False,4,39631,vase,0.9849
+245334,jug,False,5,45833,vase,0.9838
+240287,jug,False,1,453244,vase,0.9929
+240287,jug,False,2,451798,vase,0.9915
+240287,jug,False,3,246184,vase,0.9915
+240287,jug,False,4,549375,vase,0.9911
+240287,jug,False,5,451365,vase,0.9909
+468555,jug,False,1,443105,vase,0.9855
+468555,jug,False,2,39631,vase,0.9843
+468555,jug,False,3,52682,vase,0.9777
+468555,jug,False,4,37703,vase,0.9759
+468555,jug,False,5,240727,vase,0.9748
+239730,jug,False,1,478721,vase,0.9909
+239730,jug,False,2,444740,vase,0.9905
+239730,jug,False,3,53855,vase,0.9901
+239730,jug,False,4,45857,vase,0.9898
+239730,jug,False,5,45919,vase,0.9895
+246732,jug,False,1,246184,vase,0.993
+246732,jug,False,2,468212,vase,0.9929
+246732,jug,False,3,451365,vase,0.9923
+246732,jug,False,4,46054,vase,0.991
+246732,jug,False,5,549375,vase,0.9908
+240069,jug,False,1,456219,vase,0.9806
+240069,jug,False,2,249072,vase,0.98
+240069,jug,False,3,450404,vase,0.9775
+240069,jug,False,4,468212,vase,0.9768
+240069,jug,False,5,250243,vase,0.9745
+463533,jug,False,1,240370,vase,0.963
+463533,jug,False,2,444511,lamp,0.9619
+463533,jug,False,3,240662,vase,0.9594
+463533,jug,False,4,450375,lamp,0.9592
+463533,jug,False,5,466579,vase,0.9572
+250572,jug,False,1,246184,vase,0.9913
+250572,jug,False,2,249072,vase,0.9908
+250572,jug,False,3,468212,vase,0.9907
+250572,jug,False,4,453244,vase,0.9884
+250572,jug,False,5,444485,vase,0.9879
+553134,jug,False,1,453244,vase,0.9911
+553134,jug,False,2,444988,vase,0.9861
+553134,jug,False,3,444463,vase,0.986
+553134,jug,False,4,246184,vase,0.9859
+553134,jug,False,5,45919,vase,0.9851
+246143,jug,False,1,250077,vase,0.9801
+246143,jug,False,2,444511,lamp,0.9777
+246143,jug,False,3,244443,vase,0.9717
+246143,jug,False,4,240662,vase,0.9712
+246143,jug,False,5,240370,vase,0.9689
+240092,jug,False,1,249072,vase,0.995
+240092,jug,False,2,468212,vase,0.9944
+240092,jug,False,3,451836,vase,0.9925
+240092,jug,False,4,453244,vase,0.9925
+240092,jug,False,5,444485,vase,0.9893
+449073,jug,False,1,478721,vase,0.9846
+449073,jug,False,2,452610,vase,0.982
+449073,jug,False,3,827417,vase,0.9819
+449073,jug,False,4,45857,vase,0.9812
+449073,jug,False,5,240727,vase,0.9803
+239712,jug,False,1,240727,vase,0.9902
+239712,jug,False,2,39087,vase,0.9872
+239712,jug,False,3,250077,vase,0.9799
+239712,jug,False,4,478721,vase,0.9773
+239712,jug,False,5,244443,vase,0.9764
+240172,jug,False,1,451365,vase,0.9939
+240172,jug,False,2,46054,vase,0.9939
+240172,jug,False,3,546254,vase,0.9936
+240172,jug,False,4,782098,vase,0.9935
+240172,jug,False,5,452064,vase,0.9924
+245694,jug,False,1,478721,vase,0.985
+245694,jug,False,2,444740,vase,0.9847
+245694,jug,False,3,45857,vase,0.9841
+245694,jug,False,4,452064,vase,0.9828
+245694,jug,False,5,782098,vase,0.9814
+475755,jug,False,1,250077,vase,0.9891
+475755,jug,False,2,466579,vase,0.9885
+475755,jug,False,3,444988,vase,0.9842
+475755,jug,False,4,444511,lamp,0.9824
+475755,jug,False,5,476254,vase,0.981
+243991,jug,False,1,444511,lamp,0.9902
+243991,jug,False,2,39087,vase,0.9892
+243991,jug,False,3,240727,vase,0.9887
+243991,jug,False,4,250077,vase,0.9862
+243991,jug,False,5,244443,vase,0.9834
+240970,jug,False,1,452610,vase,0.9951
+240970,jug,False,2,45857,vase,0.9939
+240970,jug,False,3,452064,vase,0.9937
+240970,jug,False,4,46054,vase,0.9937
+240970,jug,False,5,782098,vase,0.9928
+248808,jug,False,1,240727,vase,0.9943
+248808,jug,False,2,39087,vase,0.985
+248808,jug,False,3,478721,vase,0.9775
+248808,jug,False,4,39631,vase,0.977
+248808,jug,False,5,250077,vase,0.9764
+323716,jug,False,1,452064,vase,0.9941
+323716,jug,False,2,46054,vase,0.9936
+323716,jug,False,3,452610,vase,0.9932
+323716,jug,False,4,45857,vase,0.9919
+323716,jug,False,5,782098,vase,0.9915
+476287,jug,False,1,478721,vase,0.9891
+476287,jug,False,2,240727,vase,0.9851
+476287,jug,False,3,39087,vase,0.9849
+476287,jug,False,4,53855,vase,0.9846
+476287,jug,False,5,444463,vase,0.9831
+449403,jug,False,1,478721,vase,0.9776
+449403,jug,False,2,827417,vase,0.9766
+449403,jug,False,3,452610,vase,0.9745
+449403,jug,False,4,45857,vase,0.9731
+449403,jug,False,5,45833,vase,0.9728
+250106,jug,False,1,240727,vase,0.9942
+250106,jug,False,2,39087,vase,0.9854
+250106,jug,False,3,250077,vase,0.9847
+250106,jug,False,4,444511,lamp,0.9821
+250106,jug,False,5,444988,vase,0.9783
+244837,jug,False,1,452610,vase,0.9931
+244837,jug,False,2,45833,vase,0.9921
+244837,jug,False,3,45857,vase,0.9917
+244837,jug,False,4,827417,vase,0.9894
+244837,jug,False,5,478721,vase,0.9892
+248950,jug,False,1,240727,vase,0.9908
+248950,jug,False,2,45857,vase,0.9903
+248950,jug,False,3,478721,vase,0.9897
+248950,jug,False,4,452610,vase,0.9867
+248950,jug,False,5,444740,vase,0.9864
+468382,jug,False,1,39087,vase,0.9858
+468382,jug,False,2,466579,vase,0.9774
+468382,jug,False,3,240727,vase,0.9774
+468382,jug,False,4,250077,vase,0.9769
+468382,jug,False,5,244443,vase,0.9762
+322091,cuneiform tablet,True,1,457245,coin,0.9559
+322091,cuneiform tablet,True,2,457708,coin,0.949
+322091,cuneiform tablet,True,3,323478,coin,0.9341
+322091,cuneiform tablet,True,4,457587,coin,0.9219
+322091,cuneiform tablet,True,5,457607,coin,0.9187
+322464,cuneiform tablet,True,1,561720,cylinder seal,0.9706
+322464,cuneiform tablet,True,2,326915,cylinder seal,0.9671
+322464,cuneiform tablet,True,3,323898,cylinder seal,0.967
+322464,cuneiform tablet,True,4,325212,cylinder seal,0.9643
+322464,cuneiform tablet,True,5,321412,cylinder seal,0.9598
+321716,cuneiform tablet,False,1,561720,cylinder seal,0.9682
+321716,cuneiform tablet,False,2,323037,cylinder seal,0.9659
+321716,cuneiform tablet,False,3,326915,cylinder seal,0.9608
+321716,cuneiform tablet,False,4,327811,cylinder seal,0.9596
+321716,cuneiform tablet,False,5,323908,cylinder seal,0.9555
+321769,cuneiform tablet,True,1,457700,coin,0.9825
+321769,cuneiform tablet,True,2,323505,coin,0.981
+321769,cuneiform tablet,True,3,323510,coin,0.9798
+321769,cuneiform tablet,True,4,457667,coin,0.9789
+321769,cuneiform tablet,True,5,323501,coin,0.9786
+321541,cuneiform tablet,True,1,561727,cylinder seal,0.9418
+321541,cuneiform tablet,True,2,324128,cylinder seal,0.9416
+321541,cuneiform tablet,True,3,324500,cylinder seal,0.9416
+321541,cuneiform tablet,True,4,326978,cylinder seal,0.9414
+321541,cuneiform tablet,True,5,570788,cylinder seal,0.9393
+321951,cuneiform tablet,True,1,325212,cylinder seal,0.9686
+321951,cuneiform tablet,True,2,561720,cylinder seal,0.967
+321951,cuneiform tablet,True,3,323898,cylinder seal,0.9663
+321951,cuneiform tablet,True,4,321412,cylinder seal,0.9639
+321951,cuneiform tablet,True,5,326915,cylinder seal,0.9623
+321973,cuneiform tablet,True,1,323501,coin,0.9814
+321973,cuneiform tablet,True,2,322356,coin,0.9758
+321973,cuneiform tablet,True,3,330152,coin,0.97
+321973,cuneiform tablet,True,4,322351,coin,0.9694
+321973,cuneiform tablet,True,5,50076,coin,0.9691
+321970,cuneiform tablet,True,1,453441,coin,0.9461
+321970,cuneiform tablet,True,2,323501,coin,0.9448
+321970,cuneiform tablet,True,3,561720,cylinder seal,0.9386
+321970,cuneiform tablet,True,4,457484,coin,0.9366
+321970,cuneiform tablet,True,5,322351,coin,0.9357
+327068,cuneiform tablet,False,1,326978,cylinder seal,0.9829
+327068,cuneiform tablet,False,2,324500,cylinder seal,0.9825
+327068,cuneiform tablet,False,3,561727,cylinder seal,0.9806
+327068,cuneiform tablet,False,4,570810,cylinder seal,0.9788
+327068,cuneiform tablet,False,5,327067,cylinder seal,0.9783
+322023,cuneiform tablet,True,1,323898,cylinder seal,0.9501
+322023,cuneiform tablet,True,2,321412,cylinder seal,0.9397
+322023,cuneiform tablet,True,3,561720,cylinder seal,0.9389
+322023,cuneiform tablet,True,4,325212,cylinder seal,0.9378
+322023,cuneiform tablet,True,5,326978,cylinder seal,0.9375
+325862,cuneiform tablet,False,1,326915,cylinder seal,0.9863
+325862,cuneiform tablet,False,2,325212,cylinder seal,0.9848
+325862,cuneiform tablet,False,3,321412,cylinder seal,0.9838
+325862,cuneiform tablet,False,4,561720,cylinder seal,0.9826
+325862,cuneiform tablet,False,5,323898,cylinder seal,0.9825
+322042,cuneiform tablet,True,1,561720,cylinder seal,0.9608
+322042,cuneiform tablet,True,2,326915,cylinder seal,0.9597
+322042,cuneiform tablet,True,3,323898,cylinder seal,0.9508
+322042,cuneiform tablet,True,4,325212,cylinder seal,0.9487
+322042,cuneiform tablet,True,5,321412,cylinder seal,0.9456
+328925,cuneiform tablet,True,1,323478,coin,0.9413
+328925,cuneiform tablet,True,2,322352,coin,0.9365
+328925,cuneiform tablet,True,3,478754,coin,0.9355
+328925,cuneiform tablet,True,4,457585,coin,0.9349
+328925,cuneiform tablet,True,5,323505,coin,0.9348
+321846,cuneiform tablet,False,1,464911,coin,0.9595
+321846,cuneiform tablet,False,2,468337,coin,0.9352
+321846,cuneiform tablet,False,3,451655,lamp,0.9347
+321846,cuneiform tablet,False,4,323493,coin,0.9343
+321846,cuneiform tablet,False,5,457583,coin,0.9262
+321802,cuneiform tablet,False,1,326724,cylinder seal,0.9851
+321802,cuneiform tablet,False,2,323892,cylinder seal,0.9851
+321802,cuneiform tablet,False,3,323810,cylinder seal,0.9841
+321802,cuneiform tablet,False,4,322554,cylinder seal,0.9834
+321802,cuneiform tablet,False,5,326978,cylinder seal,0.9832
+322021,cuneiform tablet,True,1,453441,coin,0.9497
+322021,cuneiform tablet,True,2,323501,coin,0.9391
+322021,cuneiform tablet,True,3,457484,coin,0.9379
+322021,cuneiform tablet,True,4,457354,coin,0.937
+322021,cuneiform tablet,True,5,469075,coin,0.9359
+321817,cuneiform tablet,True,1,453441,coin,0.9733
+321817,cuneiform tablet,True,2,457354,coin,0.9726
+321817,cuneiform tablet,True,3,457664,coin,0.9691
+321817,cuneiform tablet,True,4,457484,coin,0.9667
+321817,cuneiform tablet,True,5,457630,coin,0.9636
+322052,cuneiform tablet,True,1,324500,cylinder seal,0.9326
+322052,cuneiform tablet,True,2,326978,cylinder seal,0.9308
+322052,cuneiform tablet,True,3,323898,cylinder seal,0.9305
+322052,cuneiform tablet,True,4,327067,cylinder seal,0.9294
+322052,cuneiform tablet,True,5,561727,cylinder seal,0.9257
+322070,cuneiform tablet,False,1,451655,lamp,0.9754
+322070,cuneiform tablet,False,2,478724,lamp,0.9668
+322070,cuneiform tablet,False,3,241527,lamp,0.9666
+322070,cuneiform tablet,False,4,241437,lamp,0.9642
+322070,cuneiform tablet,False,5,241776,lamp,0.9635
+321826,cuneiform tablet,True,1,556910,bowl,0.8917
+321826,cuneiform tablet,True,2,326136,bowl,0.8865
+321826,cuneiform tablet,True,3,323795,bowl,0.8843
+321826,cuneiform tablet,True,4,451765,bowl,0.8814
+321826,cuneiform tablet,True,5,240272,bowl,0.881
+321526,cuneiform tablet,False,1,323908,cylinder seal,0.9899
+321526,cuneiform tablet,False,2,324996,cylinder seal,0.9877
+321526,cuneiform tablet,False,3,327811,cylinder seal,0.9869
+321526,cuneiform tablet,False,4,323888,cylinder seal,0.9863
+321526,cuneiform tablet,False,5,323037,cylinder seal,0.9859
+321624,cuneiform tablet,False,1,457194,coin,0.9869
+321624,cuneiform tablet,False,2,457126,coin,0.9854
+321624,cuneiform tablet,False,3,457128,coin,0.9841
+321624,cuneiform tablet,False,4,457635,coin,0.9841
+321624,cuneiform tablet,False,5,457201,coin,0.9838
+321697,cuneiform tablet,True,1,477816,coin,0.9341
+321697,cuneiform tablet,True,2,469072,coin,0.9332
+321697,cuneiform tablet,True,3,323492,coin,0.929
+321697,cuneiform tablet,True,4,454764,coin,0.9272
+321697,cuneiform tablet,True,5,322351,coin,0.922
+321707,cuneiform tablet,True,1,552038,cylinder seal,0.9588
+321707,cuneiform tablet,True,2,327681,cylinder seal,0.9579
+321707,cuneiform tablet,True,3,327435,cylinder seal,0.9542
+321707,cuneiform tablet,True,4,327673,cylinder seal,0.9532
+321707,cuneiform tablet,True,5,327811,cylinder seal,0.953
+321685,cuneiform tablet,True,1,561720,cylinder seal,0.9506
+321685,cuneiform tablet,True,2,325212,cylinder seal,0.944
+321685,cuneiform tablet,True,3,323898,cylinder seal,0.9432
+321685,cuneiform tablet,True,4,326915,cylinder seal,0.9401
+321685,cuneiform tablet,True,5,321412,cylinder seal,0.9388
+321836,cuneiform tablet,False,1,323492,coin,0.9594
+321836,cuneiform tablet,False,2,468337,coin,0.9431
+321836,cuneiform tablet,False,3,323248,coin,0.9403
+321836,cuneiform tablet,False,4,323499,coin,0.9388
+321836,cuneiform tablet,False,5,464966,coin,0.9363
+321554,cuneiform tablet,True,1,326915,cylinder seal,0.9789
+321554,cuneiform tablet,True,2,327811,cylinder seal,0.9789
+321554,cuneiform tablet,True,3,324573,cylinder seal,0.9764
+321554,cuneiform tablet,True,4,561720,cylinder seal,0.976
+321554,cuneiform tablet,True,5,325212,cylinder seal,0.9733
+321839,cuneiform tablet,True,1,323478,coin,0.9694
+321839,cuneiform tablet,True,2,323493,coin,0.9671
+321839,cuneiform tablet,True,3,323505,coin,0.9659
+321839,cuneiform tablet,True,4,457074,coin,0.9599
+321839,cuneiform tablet,True,5,322352,coin,0.9595
+321748,cuneiform tablet,True,1,323898,cylinder seal,0.9718
+321748,cuneiform tablet,True,2,324500,cylinder seal,0.9664
+321748,cuneiform tablet,True,3,321412,cylinder seal,0.9661
+321748,cuneiform tablet,True,4,325212,cylinder seal,0.9656
+321748,cuneiform tablet,True,5,327378,cylinder seal,0.9638
+321732,cuneiform tablet,False,1,321412,cylinder seal,0.9854
+321732,cuneiform tablet,False,2,325212,cylinder seal,0.9848
+321732,cuneiform tablet,False,3,323898,cylinder seal,0.9838
+321732,cuneiform tablet,False,4,326915,cylinder seal,0.9829
+321732,cuneiform tablet,False,5,561720,cylinder seal,0.981
+321557,cuneiform tablet,False,1,323891,cylinder seal,0.9936
+321557,cuneiform tablet,False,2,327811,cylinder seal,0.9932
+321557,cuneiform tablet,False,3,326726,cylinder seal,0.9918
+321557,cuneiform tablet,False,4,324573,cylinder seal,0.9914
+321557,cuneiform tablet,False,5,326915,cylinder seal,0.9908
+321834,cuneiform tablet,True,1,323493,coin,0.9649
+321834,cuneiform tablet,True,2,323478,coin,0.9564
+321834,cuneiform tablet,True,3,457074,coin,0.9525
+321834,cuneiform tablet,True,4,323505,coin,0.9518
+321834,cuneiform tablet,True,5,478754,coin,0.9505
+322445,cuneiform tablet,False,1,325212,cylinder seal,0.9877
+322445,cuneiform tablet,False,2,323993,cylinder seal,0.9877
+322445,cuneiform tablet,False,3,327289,cylinder seal,0.9858
+322445,cuneiform tablet,False,4,321412,cylinder seal,0.9858
+322445,cuneiform tablet,False,5,324953,cylinder seal,0.9836
+321754,cuneiform tablet,True,1,322351,coin,0.9797
+321754,cuneiform tablet,True,2,469075,coin,0.9791
+321754,cuneiform tablet,True,3,457354,coin,0.9764
+321754,cuneiform tablet,True,4,457290,coin,0.9753
+321754,cuneiform tablet,True,5,322357,coin,0.9747
+322022,cuneiform tablet,True,1,469075,coin,0.9531
+322022,cuneiform tablet,True,2,322351,coin,0.9513
+322022,cuneiform tablet,True,3,477816,coin,0.9509
+322022,cuneiform tablet,True,4,453441,coin,0.9483
+322022,cuneiform tablet,True,5,454764,coin,0.9471
+322009,cuneiform tablet,True,1,556508,cylinder seal,0.9514
+322009,cuneiform tablet,True,2,558738,cylinder seal,0.9402
+322009,cuneiform tablet,True,3,552038,cylinder seal,0.9388
+322009,cuneiform tablet,True,4,558739,cylinder seal,0.937
+322009,cuneiform tablet,True,5,246189,vase,0.9343
+326712,cuneiform tablet,True,1,323492,coin,0.933
+326712,cuneiform tablet,True,2,457290,coin,0.9296
+326712,cuneiform tablet,True,3,322351,coin,0.927
+326712,cuneiform tablet,True,4,322359,coin,0.9152
+326712,cuneiform tablet,True,5,477816,coin,0.9144
+322094,cuneiform tablet,True,1,468337,coin,0.94
+322094,cuneiform tablet,True,2,323492,coin,0.9395
+322094,cuneiform tablet,True,3,457583,coin,0.9301
+322094,cuneiform tablet,True,4,448970,bowl,0.9291
+322094,cuneiform tablet,True,5,464911,coin,0.9207
+322455,cuneiform tablet,False,1,323888,cylinder seal,0.9919
+322455,cuneiform tablet,False,2,323895,cylinder seal,0.9918
+322455,cuneiform tablet,False,3,327670,cylinder seal,0.9901
+322455,cuneiform tablet,False,4,324996,cylinder seal,0.9893
+322455,cuneiform tablet,False,5,326987,cylinder seal,0.9888
+322463,cuneiform tablet,False,1,325212,cylinder seal,0.9931
+322463,cuneiform tablet,False,2,321412,cylinder seal,0.9929
+322463,cuneiform tablet,False,3,326915,cylinder seal,0.9905
+322463,cuneiform tablet,False,4,323898,cylinder seal,0.9905
+322463,cuneiform tablet,False,5,561720,cylinder seal,0.9883
+321971,cuneiform tablet,True,1,323037,cylinder seal,0.9517
+321971,cuneiform tablet,True,2,323908,cylinder seal,0.9421
+321971,cuneiform tablet,True,3,558739,cylinder seal,0.9267
+321971,cuneiform tablet,True,4,327811,cylinder seal,0.9248
+321971,cuneiform tablet,True,5,561720,cylinder seal,0.9193
+321903,cuneiform tablet,False,1,457245,coin,0.9875
+321903,cuneiform tablet,False,2,39406,coin,0.9867
+321903,cuneiform tablet,False,3,323478,coin,0.9827
+321903,cuneiform tablet,False,4,457592,coin,0.9775
+321903,cuneiform tablet,False,5,457416,coin,0.9735
+321807,cuneiform tablet,True,1,325212,cylinder seal,0.9861
+321807,cuneiform tablet,True,2,561720,cylinder seal,0.9847
+321807,cuneiform tablet,True,3,326915,cylinder seal,0.9845
+321807,cuneiform tablet,True,4,327811,cylinder seal,0.9825
+321807,cuneiform tablet,True,5,327259,cylinder seal,0.9818
+321999,cuneiform tablet,False,1,323493,coin,0.9641
+321999,cuneiform tablet,False,2,323478,coin,0.9607
+321999,cuneiform tablet,False,3,469087,coin,0.9568
+321999,cuneiform tablet,False,4,323505,coin,0.9562
+321999,cuneiform tablet,False,5,457587,coin,0.9557
+322054,cuneiform tablet,True,1,60698,figure,0.8763
+322054,cuneiform tablet,True,2,317554,figure,0.8737
+322054,cuneiform tablet,True,3,318467,figure,0.867
+322054,cuneiform tablet,True,4,323478,coin,0.867
+322054,cuneiform tablet,True,5,50076,coin,0.8646
+321988,cuneiform tablet,False,1,323510,coin,0.9929
+321988,cuneiform tablet,False,2,457074,coin,0.9921
+321988,cuneiform tablet,False,3,457180,coin,0.992
+321988,cuneiform tablet,False,4,323479,coin,0.9919
+321988,cuneiform tablet,False,5,457351,coin,0.9912
+321760,cuneiform tablet,True,1,323898,cylinder seal,0.9407
+321760,cuneiform tablet,True,2,324500,cylinder seal,0.9298
+321760,cuneiform tablet,True,3,327067,cylinder seal,0.9275
+321760,cuneiform tablet,True,4,326978,cylinder seal,0.9225
+321760,cuneiform tablet,True,5,321412,cylinder seal,0.9212
+322099,cuneiform tablet,True,1,323492,coin,0.9269
+322099,cuneiform tablet,True,2,323493,coin,0.9244
+322099,cuneiform tablet,True,3,457583,coin,0.9211
+322099,cuneiform tablet,True,4,322359,coin,0.9174
+322099,cuneiform tablet,True,5,477816,coin,0.9169
+321686,cuneiform tablet,True,1,323898,cylinder seal,0.9535
+321686,cuneiform tablet,True,2,561720,cylinder seal,0.9492
+321686,cuneiform tablet,True,3,326915,cylinder seal,0.9489
+321686,cuneiform tablet,True,4,324573,cylinder seal,0.9443
+321686,cuneiform tablet,True,5,321412,cylinder seal,0.9417
+321530,cuneiform tablet,True,1,326915,cylinder seal,0.9805
+321530,cuneiform tablet,True,2,561720,cylinder seal,0.9801
+321530,cuneiform tablet,True,3,325212,cylinder seal,0.976
+321530,cuneiform tablet,True,4,323898,cylinder seal,0.9751
+321530,cuneiform tablet,True,5,321412,cylinder seal,0.9715
+321810,cuneiform tablet,False,1,457537,coin,0.9911
+321810,cuneiform tablet,False,2,457700,coin,0.9897
+321810,cuneiform tablet,False,3,457126,coin,0.9891
+321810,cuneiform tablet,False,4,457194,coin,0.9888
+321810,cuneiform tablet,False,5,457077,coin,0.9887
+321706,cuneiform tablet,True,1,558738,cylinder seal,0.9748
+321706,cuneiform tablet,True,2,560673,cylinder seal,0.965
+321706,cuneiform tablet,True,3,552038,cylinder seal,0.9634
+321706,cuneiform tablet,True,4,327707,cylinder seal,0.9626
+321706,cuneiform tablet,True,5,327608,cylinder seal,0.9623
+321940,cuneiform tablet,False,1,39406,coin,0.9856
+321940,cuneiform tablet,False,2,323501,coin,0.9801
+321940,cuneiform tablet,False,3,457416,coin,0.9783
+321940,cuneiform tablet,False,4,457592,coin,0.9772
+321940,cuneiform tablet,False,5,50076,coin,0.9772
+321965,cuneiform tablet,True,1,322351,coin,0.9472
+321965,cuneiform tablet,True,2,453441,coin,0.9456
+321965,cuneiform tablet,True,3,469075,coin,0.9429
+321965,cuneiform tablet,True,4,457290,coin,0.9392
+321965,cuneiform tablet,True,5,477816,coin,0.937
+325500,cuneiform tablet,True,1,323478,coin,0.9834
+325500,cuneiform tablet,True,2,323505,coin,0.9766
+325500,cuneiform tablet,True,3,457245,coin,0.9676
+325500,cuneiform tablet,True,4,322352,coin,0.9668
+325500,cuneiform tablet,True,5,39386,coin,0.9655
+322083,cuneiform tablet,False,1,322359,coin,0.9832
+322083,cuneiform tablet,False,2,477816,coin,0.9781
+322083,cuneiform tablet,False,3,475175,coin,0.9762
+322083,cuneiform tablet,False,4,477817,coin,0.9761
+322083,cuneiform tablet,False,5,323499,coin,0.9759
+321786,cuneiform tablet,False,1,561720,cylinder seal,0.9813
+321786,cuneiform tablet,False,2,326915,cylinder seal,0.9809
+321786,cuneiform tablet,False,3,323898,cylinder seal,0.9785
+321786,cuneiform tablet,False,4,325212,cylinder seal,0.9782
+321786,cuneiform tablet,False,5,321412,cylinder seal,0.9767
+321691,cuneiform tablet,True,1,323898,cylinder seal,0.9334
+321691,cuneiform tablet,True,2,561720,cylinder seal,0.9306
+321691,cuneiform tablet,True,3,457354,coin,0.9288
+321691,cuneiform tablet,True,4,453441,coin,0.928
+321691,cuneiform tablet,True,5,326915,cylinder seal,0.9239
+322000,cuneiform tablet,True,1,323501,coin,0.9809
+322000,cuneiform tablet,True,2,453441,coin,0.9803
+322000,cuneiform tablet,True,3,457664,coin,0.9789
+322000,cuneiform tablet,True,4,322356,coin,0.9753
+322000,cuneiform tablet,True,5,457630,coin,0.974
+321814,cuneiform tablet,True,1,323501,coin,0.9684
+321814,cuneiform tablet,True,2,457640,coin,0.9668
+321814,cuneiform tablet,True,3,453441,coin,0.9663
+321814,cuneiform tablet,True,4,457201,coin,0.9662
+321814,cuneiform tablet,True,5,457667,coin,0.9646
+321550,cuneiform tablet,False,1,327659,cylinder seal,0.9933
+321550,cuneiform tablet,False,2,327662,cylinder seal,0.9921
+321550,cuneiform tablet,False,3,327685,cylinder seal,0.992
+321550,cuneiform tablet,False,4,322393,cylinder seal,0.9919
+321550,cuneiform tablet,False,5,321447,cylinder seal,0.9917
+321757,cuneiform tablet,False,1,323501,coin,0.9828
+321757,cuneiform tablet,False,2,322356,coin,0.9793
+321757,cuneiform tablet,False,3,39406,coin,0.9769
+321757,cuneiform tablet,False,4,50076,coin,0.9756
+321757,cuneiform tablet,False,5,457664,coin,0.9708
+322105,cuneiform tablet,True,1,318467,figure,0.9122
+322105,cuneiform tablet,True,2,61740,figure,0.9071
+322105,cuneiform tablet,True,3,241437,lamp,0.9002
+322105,cuneiform tablet,True,4,241685,lamp,0.8975
+322105,cuneiform tablet,True,5,457708,coin,0.8897
+328932,cuneiform tablet,True,1,477816,coin,0.9499
+328932,cuneiform tablet,True,2,322351,coin,0.9497
+328932,cuneiform tablet,True,3,454764,coin,0.9408
+328932,cuneiform tablet,True,4,469075,coin,0.9355
+328932,cuneiform tablet,True,5,469170,coin,0.9344
+321875,cuneiform tablet,True,1,61190,figure,0.9629
+321875,cuneiform tablet,True,2,61740,figure,0.9591
+321875,cuneiform tablet,True,3,313262,figure,0.9551
+321875,cuneiform tablet,True,4,42950,figure,0.9541
+321875,cuneiform tablet,True,5,309313,figure,0.9527
+321955,cuneiform tablet,True,1,453441,coin,0.9837
+321955,cuneiform tablet,True,2,457664,coin,0.9813
+321955,cuneiform tablet,True,3,457667,coin,0.9802
+321955,cuneiform tablet,True,4,457630,coin,0.9788
+321955,cuneiform tablet,True,5,457354,coin,0.9771
+321764,cuneiform tablet,False,1,561720,cylinder seal,0.9784
+321764,cuneiform tablet,False,2,326915,cylinder seal,0.978
+321764,cuneiform tablet,False,3,325212,cylinder seal,0.9753
+321764,cuneiform tablet,False,4,323898,cylinder seal,0.9733
+321764,cuneiform tablet,False,5,321412,cylinder seal,0.9723
+321758,cuneiform tablet,False,1,561720,cylinder seal,0.9514
+321758,cuneiform tablet,False,2,323898,cylinder seal,0.9508
+321758,cuneiform tablet,False,3,457354,coin,0.9502
+321758,cuneiform tablet,False,4,326915,cylinder seal,0.9491
+321758,cuneiform tablet,False,5,453441,coin,0.9485
+321736,cuneiform tablet,True,1,322351,coin,0.9246
+321736,cuneiform tablet,True,2,457290,coin,0.9242
+321736,cuneiform tablet,True,3,323492,coin,0.9212
+321736,cuneiform tablet,True,4,477816,coin,0.9198
+321736,cuneiform tablet,True,5,453441,coin,0.9181
+321997,cuneiform tablet,True,1,323505,coin,0.9804
+321997,cuneiform tablet,True,2,457074,coin,0.9788
+321997,cuneiform tablet,True,3,457700,coin,0.9761
+321997,cuneiform tablet,True,4,322359,coin,0.9758
+321997,cuneiform tablet,True,5,322352,coin,0.975
+321539,cuneiform tablet,False,1,327067,cylinder seal,0.9797
+321539,cuneiform tablet,False,2,326978,cylinder seal,0.979
+321539,cuneiform tablet,False,3,570807,cylinder seal,0.9755
+321539,cuneiform tablet,False,4,325831,cylinder seal,0.9754
+321539,cuneiform tablet,False,5,561727,cylinder seal,0.9738
+321939,cuneiform tablet,True,1,323501,coin,0.9372
+321939,cuneiform tablet,True,2,453441,coin,0.9367
+321939,cuneiform tablet,True,3,457100,coin,0.9355
+321939,cuneiform tablet,True,4,457667,coin,0.9342
+321939,cuneiform tablet,True,5,457375,coin,0.9326
+321735,cuneiform tablet,True,1,453441,coin,0.9378
+321735,cuneiform tablet,True,2,477816,coin,0.9365
+321735,cuneiform tablet,True,3,322351,coin,0.9359
+321735,cuneiform tablet,True,4,457290,coin,0.9338
+321735,cuneiform tablet,True,5,454764,coin,0.9331
+321987,cuneiform tablet,True,1,323501,coin,0.9333
+321987,cuneiform tablet,True,2,39406,coin,0.9314
+321987,cuneiform tablet,True,3,323478,coin,0.93
+321987,cuneiform tablet,True,4,50076,coin,0.9289
+321987,cuneiform tablet,True,5,323505,coin,0.9278
+321688,cuneiform tablet,False,1,561720,cylinder seal,0.983
+321688,cuneiform tablet,False,2,326915,cylinder seal,0.9783
+321688,cuneiform tablet,False,3,325212,cylinder seal,0.9768
+321688,cuneiform tablet,False,4,327811,cylinder seal,0.974
+321688,cuneiform tablet,False,5,324573,cylinder seal,0.9682
+322059,cuneiform tablet,False,1,457667,coin,0.9851
+322059,cuneiform tablet,False,2,323501,coin,0.9828
+322059,cuneiform tablet,False,3,322356,coin,0.9801
+322059,cuneiform tablet,False,4,457524,coin,0.9796
+322059,cuneiform tablet,False,5,457630,coin,0.9794
+321948,cuneiform tablet,True,1,323037,cylinder seal,0.9487
+321948,cuneiform tablet,True,2,558739,cylinder seal,0.9355
+321948,cuneiform tablet,True,3,323908,cylinder seal,0.9323
+321948,cuneiform tablet,True,4,556508,cylinder seal,0.9156
+321948,cuneiform tablet,True,5,561720,cylinder seal,0.9121
+322473,cuneiform tablet,False,1,324128,cylinder seal,0.984
+322473,cuneiform tablet,False,2,570788,cylinder seal,0.9817
+322473,cuneiform tablet,False,3,561727,cylinder seal,0.9794
+322473,cuneiform tablet,False,4,325831,cylinder seal,0.9784
+322473,cuneiform tablet,False,5,326978,cylinder seal,0.9776
+321680,cuneiform tablet,False,1,451751,bowl,0.9545
+321680,cuneiform tablet,False,2,243823,bowl,0.9459
+321680,cuneiform tablet,False,3,448970,bowl,0.935
+321680,cuneiform tablet,False,4,468661,bowl,0.9331
+321680,cuneiform tablet,False,5,452206,bowl,0.9324
+321874,cuneiform tablet,False,1,323505,coin,0.9943
+321874,cuneiform tablet,False,2,464810,coin,0.9881
+321874,cuneiform tablet,False,3,323510,coin,0.9878
+321874,cuneiform tablet,False,4,322349,coin,0.9869
+321874,cuneiform tablet,False,5,322359,coin,0.9856
+321870,cuneiform tablet,False,1,457587,coin,0.9657
+321870,cuneiform tablet,False,2,323493,coin,0.9652
+321870,cuneiform tablet,False,3,457588,coin,0.9614
+321870,cuneiform tablet,False,4,457585,coin,0.9612
+321870,cuneiform tablet,False,5,464911,coin,0.9598
+322095,cuneiform tablet,False,1,451655,lamp,0.9839
+322095,cuneiform tablet,False,2,241437,lamp,0.9684
+322095,cuneiform tablet,False,3,241717,lamp,0.9638
+322095,cuneiform tablet,False,4,241685,lamp,0.9623
+322095,cuneiform tablet,False,5,325887,lamp,0.9586
+321844,cuneiform tablet,False,1,464911,coin,0.9659
+321844,cuneiform tablet,False,2,323493,coin,0.9571
+321844,cuneiform tablet,False,3,457679,coin,0.944
+321844,cuneiform tablet,False,4,323492,coin,0.9438
+321844,cuneiform tablet,False,5,457209,coin,0.9434
+321742,cuneiform tablet,True,1,457290,coin,0.9829
+321742,cuneiform tablet,True,2,465758,coin,0.978
+321742,cuneiform tablet,True,3,457390,coin,0.9774
+321742,cuneiform tablet,True,4,457075,coin,0.9765
+321742,cuneiform tablet,True,5,457630,coin,0.9759
+322450,cuneiform tablet,True,1,325212,cylinder seal,0.9755
+322450,cuneiform tablet,True,2,561720,cylinder seal,0.9731
+322450,cuneiform tablet,True,3,323993,cylinder seal,0.9729
+322450,cuneiform tablet,True,4,321412,cylinder seal,0.9718
+322450,cuneiform tablet,True,5,323900,cylinder seal,0.9707
+321865,cuneiform tablet,True,1,246189,vase,0.869
+321865,cuneiform tablet,True,2,558739,cylinder seal,0.8502
+321865,cuneiform tablet,True,3,323037,cylinder seal,0.8464
+321865,cuneiform tablet,True,4,556508,cylinder seal,0.8408
+321865,cuneiform tablet,True,5,323908,cylinder seal,0.8406
+322104,cuneiform tablet,True,1,323492,coin,0.9269
+322104,cuneiform tablet,True,2,323493,coin,0.9244
+322104,cuneiform tablet,True,3,457583,coin,0.9211
+322104,cuneiform tablet,True,4,322359,coin,0.9174
+322104,cuneiform tablet,True,5,477816,coin,0.9169
+321950,cuneiform tablet,True,1,457245,coin,0.9645
+321950,cuneiform tablet,True,2,39406,coin,0.96
+321950,cuneiform tablet,True,3,457375,coin,0.9555
+321950,cuneiform tablet,True,4,50076,coin,0.9502
+321950,cuneiform tablet,True,5,457667,coin,0.948
+322103,cuneiform tablet,True,1,323493,coin,0.9582
+322103,cuneiform tablet,True,2,464911,coin,0.957
+322103,cuneiform tablet,True,3,457587,coin,0.95
+322103,cuneiform tablet,True,4,457588,coin,0.9412
+322103,cuneiform tablet,True,5,469087,coin,0.9409
+321712,cuneiform tablet,True,1,323908,cylinder seal,0.9116
+321712,cuneiform tablet,True,2,323037,cylinder seal,0.905
+321712,cuneiform tablet,True,3,324573,cylinder seal,0.905
+321712,cuneiform tablet,True,4,323898,cylinder seal,0.9047
+321712,cuneiform tablet,True,5,326915,cylinder seal,0.9044
+322453,cuneiform tablet,False,1,323993,cylinder seal,0.991
+322453,cuneiform tablet,False,2,327289,cylinder seal,0.9896
+322453,cuneiform tablet,False,3,323900,cylinder seal,0.9892
+322453,cuneiform tablet,False,4,326731,cylinder seal,0.9887
+322453,cuneiform tablet,False,5,324953,cylinder seal,0.9884
+321949,cuneiform tablet,True,1,556508,cylinder seal,0.9177
+321949,cuneiform tablet,True,2,558739,cylinder seal,0.9086
+321949,cuneiform tablet,True,3,561720,cylinder seal,0.9069
+321949,cuneiform tablet,True,4,323037,cylinder seal,0.9037
+321949,cuneiform tablet,True,5,561718,cylinder seal,0.8943
+321773,cuneiform tablet,True,1,325212,cylinder seal,0.9847
+321773,cuneiform tablet,True,2,326915,cylinder seal,0.9839
+321773,cuneiform tablet,True,3,561720,cylinder seal,0.9835
+321773,cuneiform tablet,True,4,321412,cylinder seal,0.9822
+321773,cuneiform tablet,True,5,323898,cylinder seal,0.9814
+321529,cuneiform tablet,False,1,323889,cylinder seal,0.9923
+321529,cuneiform tablet,False,2,327289,cylinder seal,0.9919
+321529,cuneiform tablet,False,3,326731,cylinder seal,0.9916
+321529,cuneiform tablet,False,4,326728,cylinder seal,0.9913
+321529,cuneiform tablet,False,5,327321,cylinder seal,0.9913
+321796,cuneiform tablet,True,1,323037,cylinder seal,0.9681
+321796,cuneiform tablet,True,2,558739,cylinder seal,0.9569
+321796,cuneiform tablet,True,3,323908,cylinder seal,0.9469
+321796,cuneiform tablet,True,4,561720,cylinder seal,0.9437
+321796,cuneiform tablet,True,5,327811,cylinder seal,0.9393
+321776,cuneiform tablet,False,1,324128,cylinder seal,0.9813
+321776,cuneiform tablet,False,2,570788,cylinder seal,0.9771
+321776,cuneiform tablet,False,3,326985,cylinder seal,0.9769
+321776,cuneiform tablet,False,4,326978,cylinder seal,0.9738
+321776,cuneiform tablet,False,5,325021,cylinder seal,0.9732
+328926,cuneiform tablet,False,1,323493,coin,0.9406
+328926,cuneiform tablet,False,2,457377,coin,0.94
+328926,cuneiform tablet,False,3,457585,coin,0.9392
+328926,cuneiform tablet,False,4,457258,coin,0.939
+328926,cuneiform tablet,False,5,323478,coin,0.9385
+321710,cuneiform tablet,False,1,323898,cylinder seal,0.9769
+321710,cuneiform tablet,False,2,324573,cylinder seal,0.9763
+321710,cuneiform tablet,False,3,326915,cylinder seal,0.9751
+321710,cuneiform tablet,False,4,327811,cylinder seal,0.9715
+321710,cuneiform tablet,False,5,561720,cylinder seal,0.971
+325503,cuneiform tablet,True,1,323505,coin,0.9867
+325503,cuneiform tablet,True,2,323510,coin,0.9845
+325503,cuneiform tablet,True,3,322352,coin,0.9842
+325503,cuneiform tablet,True,4,457074,coin,0.9819
+325503,cuneiform tablet,True,5,457700,coin,0.9818
+321725,cuneiform tablet,True,1,323898,cylinder seal,0.98
+321725,cuneiform tablet,True,2,324500,cylinder seal,0.9762
+321725,cuneiform tablet,True,3,327378,cylinder seal,0.9755
+321725,cuneiform tablet,True,4,321412,cylinder seal,0.9743
+321725,cuneiform tablet,True,5,325212,cylinder seal,0.9724
+328793,cuneiform tablet,True,1,477816,coin,0.9723
+328793,cuneiform tablet,True,2,322351,coin,0.9684
+328793,cuneiform tablet,True,3,454764,coin,0.9663
+328793,cuneiform tablet,True,4,469072,coin,0.9648
+328793,cuneiform tablet,True,5,457314,coin,0.9631
+321805,cuneiform tablet,True,1,464911,coin,0.9527
+321805,cuneiform tablet,True,2,468337,coin,0.9423
+321805,cuneiform tablet,True,3,323492,coin,0.9379
+321805,cuneiform tablet,True,4,323493,coin,0.9374
+321805,cuneiform tablet,True,5,457686,coin,0.9369
+322460,cuneiform tablet,False,1,327686,cylinder seal,0.9885
+322460,cuneiform tablet,False,2,322554,cylinder seal,0.9874
+322460,cuneiform tablet,False,3,327289,cylinder seal,0.9871
+322460,cuneiform tablet,False,4,324951,cylinder seal,0.986
+322460,cuneiform tablet,False,5,324953,cylinder seal,0.9859
+325843,cuneiform tablet,True,1,327681,cylinder seal,0.9845
+325843,cuneiform tablet,True,2,324996,cylinder seal,0.9804
+325843,cuneiform tablet,True,3,327317,cylinder seal,0.9799
+325843,cuneiform tablet,True,4,324959,cylinder seal,0.9773
+325843,cuneiform tablet,True,5,323900,cylinder seal,0.977
+321972,cuneiform tablet,True,1,323795,bowl,0.9088
+321972,cuneiform tablet,True,2,451751,bowl,0.9026
+321972,cuneiform tablet,True,3,451061,bowl,0.8898
+321972,cuneiform tablet,True,4,243823,bowl,0.8839
+321972,cuneiform tablet,True,5,447952,bowl,0.8782
+322043,cuneiform tablet,True,1,241437,lamp,0.9363
+322043,cuneiform tablet,True,2,451655,lamp,0.9324
+322043,cuneiform tablet,True,3,241685,lamp,0.9303
+322043,cuneiform tablet,True,4,464911,coin,0.9287
+322043,cuneiform tablet,True,5,323493,coin,0.9126
+321825,cuneiform tablet,False,1,323908,cylinder seal,0.9881
+321825,cuneiform tablet,False,2,323895,cylinder seal,0.9858
+321825,cuneiform tablet,False,3,323888,cylinder seal,0.9856
+321825,cuneiform tablet,False,4,327670,cylinder seal,0.9819
+321825,cuneiform tablet,False,5,323994,cylinder seal,0.9812
+325091,cuneiform tablet,True,1,561727,cylinder seal,0.9647
+325091,cuneiform tablet,True,2,324128,cylinder seal,0.9628
+325091,cuneiform tablet,True,3,326978,cylinder seal,0.9621
+325091,cuneiform tablet,True,4,327067,cylinder seal,0.9615
+325091,cuneiform tablet,True,5,570788,cylinder seal,0.9611
+321741,cuneiform tablet,True,1,561720,cylinder seal,0.9467
+321741,cuneiform tablet,True,2,326915,cylinder seal,0.9437
+321741,cuneiform tablet,True,3,323898,cylinder seal,0.9419
+321741,cuneiform tablet,True,4,325212,cylinder seal,0.9315
+321741,cuneiform tablet,True,5,322351,coin,0.9305
+321540,cuneiform tablet,True,1,322351,coin,0.9844
+321540,cuneiform tablet,True,2,469075,coin,0.9781
+321540,cuneiform tablet,True,3,477816,coin,0.9776
+321540,cuneiform tablet,True,4,454764,coin,0.9759
+321540,cuneiform tablet,True,5,469170,coin,0.973
+327384,cuneiform tablet,True,1,561720,cylinder seal,0.9663
+327384,cuneiform tablet,True,2,326915,cylinder seal,0.9619
+327384,cuneiform tablet,True,3,323898,cylinder seal,0.9571
+327384,cuneiform tablet,True,4,325212,cylinder seal,0.9532
+327384,cuneiform tablet,True,5,321412,cylinder seal,0.9475
+321867,cuneiform tablet,True,1,451655,lamp,0.947
+321867,cuneiform tablet,True,2,241717,lamp,0.9303
+321867,cuneiform tablet,True,3,241437,lamp,0.9125
+321867,cuneiform tablet,True,4,449570,lamp,0.9095
+321867,cuneiform tablet,True,5,478724,lamp,0.9087
+321791,cuneiform tablet,False,1,323501,coin,0.9856
+321791,cuneiform tablet,False,2,322356,coin,0.9806
+321791,cuneiform tablet,False,3,39406,coin,0.9795
+321791,cuneiform tablet,False,4,323505,coin,0.9754
+321791,cuneiform tablet,False,5,457667,coin,0.9741
+321772,cuneiform tablet,True,1,457354,coin,0.9647
+321772,cuneiform tablet,True,2,453441,coin,0.9603
+321772,cuneiform tablet,True,3,457484,coin,0.9558
+321772,cuneiform tablet,True,4,457664,coin,0.955
+321772,cuneiform tablet,True,5,330152,coin,0.9514
+325501,cuneiform tablet,False,1,478754,coin,0.9884
+325501,cuneiform tablet,False,2,323505,coin,0.9874
+325501,cuneiform tablet,False,3,322352,coin,0.9872
+325501,cuneiform tablet,False,4,323510,coin,0.9869
+325501,cuneiform tablet,False,5,457074,coin,0.9866
+321929,cuneiform tablet,True,1,561720,cylinder seal,0.9706
+321929,cuneiform tablet,True,2,326915,cylinder seal,0.9665
+321929,cuneiform tablet,True,3,325212,cylinder seal,0.9582
+321929,cuneiform tablet,True,4,323898,cylinder seal,0.957
+321929,cuneiform tablet,True,5,327811,cylinder seal,0.9553
+321854,cuneiform tablet,True,1,323795,bowl,0.9284
+321854,cuneiform tablet,True,2,556910,bowl,0.9278
+321854,cuneiform tablet,True,3,451765,bowl,0.9143
+321854,cuneiform tablet,True,4,569153,bowl,0.9108
+321854,cuneiform tablet,True,5,246213,bowl,0.9094
+321699,cuneiform tablet,True,1,561720,cylinder seal,0.9663
+321699,cuneiform tablet,True,2,326915,cylinder seal,0.9634
+321699,cuneiform tablet,True,3,323898,cylinder seal,0.9623
+321699,cuneiform tablet,True,4,325212,cylinder seal,0.9551
+321699,cuneiform tablet,True,5,324573,cylinder seal,0.9551
+321782,cuneiform tablet,True,1,323898,cylinder seal,0.9488
+321782,cuneiform tablet,True,2,561720,cylinder seal,0.9451
+321782,cuneiform tablet,True,3,322351,coin,0.9439
+321782,cuneiform tablet,True,4,326915,cylinder seal,0.9428
+321782,cuneiform tablet,True,5,469075,coin,0.9422
+321855,cuneiform tablet,True,1,318467,figure,0.9262
+321855,cuneiform tablet,True,2,317554,figure,0.9191
+321855,cuneiform tablet,True,3,316723,figure,0.9096
+321855,cuneiform tablet,True,4,844987,figure,0.9058
+321855,cuneiform tablet,True,5,60698,figure,0.9032
+321910,cuneiform tablet,True,1,477816,coin,0.9873
+321910,cuneiform tablet,True,2,475175,coin,0.9841
+321910,cuneiform tablet,True,3,454764,coin,0.9829
+321910,cuneiform tablet,True,4,322359,coin,0.9828
+321910,cuneiform tablet,True,5,469088,coin,0.9828
+321763,cuneiform tablet,True,1,561720,cylinder seal,0.9606
+321763,cuneiform tablet,True,2,327811,cylinder seal,0.9602
+321763,cuneiform tablet,True,3,324573,cylinder seal,0.9581
+321763,cuneiform tablet,True,4,326915,cylinder seal,0.9569
+321763,cuneiform tablet,True,5,323898,cylinder seal,0.9564
+322067,cuneiform tablet,True,1,323478,coin,0.9493
+322067,cuneiform tablet,True,2,457245,coin,0.9417
+322067,cuneiform tablet,True,3,323505,coin,0.9333
+322067,cuneiform tablet,True,4,39406,coin,0.9327
+322067,cuneiform tablet,True,5,50076,coin,0.927
+325846,cuneiform tablet,False,1,324529,cylinder seal,0.9871
+325846,cuneiform tablet,False,2,324996,cylinder seal,0.987
+325846,cuneiform tablet,False,3,327208,cylinder seal,0.9854
+325846,cuneiform tablet,False,4,324512,cylinder seal,0.9851
+325846,cuneiform tablet,False,5,327665,cylinder seal,0.9838
+325860,cuneiform tablet,True,1,327067,cylinder seal,0.9761
+325860,cuneiform tablet,True,2,324500,cylinder seal,0.9757
+325860,cuneiform tablet,True,3,326978,cylinder seal,0.9749
+325860,cuneiform tablet,True,4,561727,cylinder seal,0.973
+325860,cuneiform tablet,True,5,323898,cylinder seal,0.9718
+321794,cuneiform tablet,True,1,561720,cylinder seal,0.9754
+321794,cuneiform tablet,True,2,325212,cylinder seal,0.9741
+321794,cuneiform tablet,True,3,327811,cylinder seal,0.969
+321794,cuneiform tablet,True,4,326915,cylinder seal,0.9675
+321794,cuneiform tablet,True,5,323993,cylinder seal,0.9666
+328928,cuneiform tablet,True,1,322715,lamp,0.9493
+328928,cuneiform tablet,True,2,241717,lamp,0.935
+328928,cuneiform tablet,True,3,241685,lamp,0.9326
+328928,cuneiform tablet,True,4,241437,lamp,0.9314
+328928,cuneiform tablet,True,5,318467,figure,0.9296
+325845,cuneiform tablet,True,1,323898,cylinder seal,0.9646
+325845,cuneiform tablet,True,2,324500,cylinder seal,0.9631
+325845,cuneiform tablet,True,3,326978,cylinder seal,0.9623
+325845,cuneiform tablet,True,4,327067,cylinder seal,0.9603
+325845,cuneiform tablet,True,5,561727,cylinder seal,0.9598
+322012,cuneiform tablet,True,1,50076,coin,0.9649
+322012,cuneiform tablet,True,2,323478,coin,0.96
+322012,cuneiform tablet,True,3,457245,coin,0.9578
+322012,cuneiform tablet,True,4,39406,coin,0.9577
+322012,cuneiform tablet,True,5,61146,coin,0.9533
+321534,cuneiform tablet,False,1,327670,cylinder seal,0.9934
+321534,cuneiform tablet,False,2,327662,cylinder seal,0.992
+321534,cuneiform tablet,False,3,326987,cylinder seal,0.9916
+321534,cuneiform tablet,False,4,327668,cylinder seal,0.9914
+321534,cuneiform tablet,False,5,322390,cylinder seal,0.9913
+321981,cuneiform tablet,True,1,323898,cylinder seal,0.9576
+321981,cuneiform tablet,True,2,325212,cylinder seal,0.9515
+321981,cuneiform tablet,True,3,561720,cylinder seal,0.9504
+321981,cuneiform tablet,True,4,324573,cylinder seal,0.9467
+321981,cuneiform tablet,True,5,324500,cylinder seal,0.9464
+326715,cuneiform tablet,False,1,327317,cylinder seal,0.9956
+326715,cuneiform tablet,False,2,327681,cylinder seal,0.9944
+326715,cuneiform tablet,False,3,326731,cylinder seal,0.9928
+326715,cuneiform tablet,False,4,326987,cylinder seal,0.9927
+326715,cuneiform tablet,False,5,324959,cylinder seal,0.9925
+321731,cuneiform tablet,True,1,561720,cylinder seal,0.9536
+321731,cuneiform tablet,True,2,323898,cylinder seal,0.9535
+321731,cuneiform tablet,True,3,326915,cylinder seal,0.9473
+321731,cuneiform tablet,True,4,325212,cylinder seal,0.9471
+321731,cuneiform tablet,True,5,321412,cylinder seal,0.9439
+321944,cuneiform tablet,True,1,556508,cylinder seal,0.966
+321944,cuneiform tablet,True,2,558739,cylinder seal,0.9566
+321944,cuneiform tablet,True,3,323037,cylinder seal,0.9451
+321944,cuneiform tablet,True,4,561718,cylinder seal,0.9392
+321944,cuneiform tablet,True,5,552038,cylinder seal,0.9381
+321982,cuneiform tablet,True,1,323037,cylinder seal,0.9159
+321982,cuneiform tablet,True,2,558739,cylinder seal,0.9105
+321982,cuneiform tablet,True,3,556508,cylinder seal,0.9076
+321982,cuneiform tablet,True,4,561718,cylinder seal,0.8859
+321982,cuneiform tablet,True,5,323908,cylinder seal,0.8833
+321803,cuneiform tablet,True,1,453441,coin,0.9677
+321803,cuneiform tablet,True,2,322351,coin,0.9641
+321803,cuneiform tablet,True,3,469075,coin,0.9625
+321803,cuneiform tablet,True,4,457354,coin,0.96
+321803,cuneiform tablet,True,5,457484,coin,0.9581
+321770,cuneiform tablet,True,1,327811,cylinder seal,0.9895
+321770,cuneiform tablet,True,2,323900,cylinder seal,0.9871
+321770,cuneiform tablet,True,3,324996,cylinder seal,0.9862
+321770,cuneiform tablet,True,4,324573,cylinder seal,0.9861
+321770,cuneiform tablet,True,5,323908,cylinder seal,0.9855
+325269,cuneiform tablet,True,1,323911,cylinder seal,0.9666
+325269,cuneiform tablet,True,2,324573,cylinder seal,0.9611
+325269,cuneiform tablet,True,3,323888,cylinder seal,0.9596
+325269,cuneiform tablet,True,4,323898,cylinder seal,0.9586
+325269,cuneiform tablet,True,5,323908,cylinder seal,0.9579
+321789,cuneiform tablet,True,1,323501,coin,0.9646
+321789,cuneiform tablet,True,2,322351,coin,0.9607
+321789,cuneiform tablet,True,3,469075,coin,0.9593
+321789,cuneiform tablet,True,4,322356,coin,0.9586
+321789,cuneiform tablet,True,5,453441,coin,0.9578
+321619,cuneiform tablet,True,1,448540,bowl,0.9485
+321619,cuneiform tablet,True,2,452000,bowl,0.9485
+321619,cuneiform tablet,True,3,451359,bowl,0.9441
+321619,cuneiform tablet,True,4,452004,bowl,0.9416
+321619,cuneiform tablet,True,5,452950,bowl,0.9402
+322066,cuneiform tablet,True,1,323493,coin,0.9517
+322066,cuneiform tablet,True,2,457587,coin,0.9449
+322066,cuneiform tablet,True,3,323478,coin,0.944
+322066,cuneiform tablet,True,4,464911,coin,0.9427
+322066,cuneiform tablet,True,5,457588,coin,0.9368
+322109,cuneiform tablet,True,1,468661,bowl,0.9179
+322109,cuneiform tablet,True,2,451765,bowl,0.9176
+322109,cuneiform tablet,True,3,452004,bowl,0.913
+322109,cuneiform tablet,True,4,243823,bowl,0.913
+322109,cuneiform tablet,True,5,448540,bowl,0.9109
+322026,cuneiform tablet,True,1,309284,figure,0.9256
+322026,cuneiform tablet,True,2,457245,coin,0.9251
+322026,cuneiform tablet,True,3,50076,coin,0.9242
+322026,cuneiform tablet,True,4,39406,coin,0.9093
+322026,cuneiform tablet,True,5,457708,coin,0.8975
+324341,cuneiform tablet,True,1,556508,cylinder seal,0.949
+324341,cuneiform tablet,True,2,558739,cylinder seal,0.9271
+324341,cuneiform tablet,True,3,552038,cylinder seal,0.9235
+324341,cuneiform tablet,True,4,559752,cylinder seal,0.914
+324341,cuneiform tablet,True,5,561718,cylinder seal,0.9095
+322467,cuneiform tablet,False,1,327289,cylinder seal,0.9897
+322467,cuneiform tablet,False,2,327686,cylinder seal,0.9888
+322467,cuneiform tablet,False,3,322554,cylinder seal,0.9881
+322467,cuneiform tablet,False,4,327321,cylinder seal,0.9877
+322467,cuneiform tablet,False,5,324951,cylinder seal,0.9876
+321787,cuneiform tablet,True,1,323501,coin,0.9652
+321787,cuneiform tablet,True,2,50076,coin,0.9647
+321787,cuneiform tablet,True,3,39406,coin,0.9602
+321787,cuneiform tablet,True,4,322356,coin,0.9551
+321787,cuneiform tablet,True,5,323505,coin,0.9508
+321713,cuneiform tablet,True,1,453441,coin,0.9374
+321713,cuneiform tablet,True,2,457354,coin,0.9351
+321713,cuneiform tablet,True,3,561720,cylinder seal,0.9346
+321713,cuneiform tablet,True,4,457484,coin,0.932
+321713,cuneiform tablet,True,5,457664,coin,0.9291
+321994,cuneiform tablet,True,1,47228,vase,0.8784
+321994,cuneiform tablet,True,2,323501,coin,0.8383
+321994,cuneiform tablet,True,3,50076,coin,0.8364
+321994,cuneiform tablet,True,4,39406,coin,0.8356
+321994,cuneiform tablet,True,5,457375,coin,0.8344
+321869,cuneiform tablet,True,1,477816,coin,0.9229
+321869,cuneiform tablet,True,2,322351,coin,0.9227
+321869,cuneiform tablet,True,3,469075,coin,0.9072
+321869,cuneiform tablet,True,4,454764,coin,0.9042
+321869,cuneiform tablet,True,5,469170,coin,0.904
+321558,cuneiform tablet,False,1,323908,cylinder seal,0.9864
+321558,cuneiform tablet,False,2,323037,cylinder seal,0.9826
+321558,cuneiform tablet,False,3,323888,cylinder seal,0.9779
+321558,cuneiform tablet,False,4,324996,cylinder seal,0.9778
+321558,cuneiform tablet,False,5,323895,cylinder seal,0.976
+249638,ring,True,1,457290,coin,0.941
+249638,ring,True,2,457510,coin,0.9408
+249638,ring,True,3,457375,coin,0.9351
+249638,ring,True,4,323492,coin,0.9348
+249638,ring,True,5,323248,coin,0.9343
+50300,ring,True,1,309284,figure,0.9325
+50300,ring,True,2,39253,figure,0.9104
+50300,ring,True,3,60698,figure,0.9086
+50300,ring,True,4,457245,coin,0.9034
+50300,ring,True,5,317554,figure,0.9027
+253536,ring,True,1,451751,bowl,0.9182
+253536,ring,True,2,477816,coin,0.8926
+253536,ring,True,3,322351,coin,0.8793
+253536,ring,True,4,323492,coin,0.8785
+253536,ring,True,5,469072,coin,0.8772
+50285,ring,True,1,323037,cylinder seal,0.9439
+50285,ring,True,2,323908,cylinder seal,0.9432
+50285,ring,True,3,327811,cylinder seal,0.9234
+50285,ring,True,4,326915,cylinder seal,0.9185
+50285,ring,True,5,324573,cylinder seal,0.9181
+49980,ring,False,1,60698,figure,0.9251
+49980,ring,False,2,39253,figure,0.9202
+49980,ring,False,3,317554,figure,0.9175
+49980,ring,False,4,61740,figure,0.9107
+49980,ring,False,5,309284,figure,0.9093
+464789,ring,True,1,60698,figure,0.9094
+464789,ring,True,2,317554,figure,0.8948
+464789,ring,True,3,50076,coin,0.8927
+464789,ring,True,4,39253,figure,0.8866
+464789,ring,True,5,309284,figure,0.8834
+243488,ring,True,1,561727,cylinder seal,0.8786
+243488,ring,True,2,323898,cylinder seal,0.8726
+243488,ring,True,3,451751,bowl,0.872
+243488,ring,True,4,324500,cylinder seal,0.8692
+243488,ring,True,5,324128,cylinder seal,0.8673
+243524,ring,True,1,448977,bowl,0.9038
+243524,ring,True,2,326065,lamp,0.9026
+243524,ring,True,3,327436,bowl,0.9004
+243524,ring,True,4,451765,bowl,0.8959
+243524,ring,True,5,468661,bowl,0.8887
+60694,ring,True,1,41951,vase,0.963
+60694,ring,True,2,45892,vase,0.9599
+60694,ring,True,3,324123,vase,0.9557
+60694,ring,True,4,48704,vase,0.9496
+60694,ring,True,5,52040,vase,0.939
+253680,ring,False,1,478754,coin,0.988
+253680,ring,False,2,323478,coin,0.9878
+253680,ring,False,3,39386,coin,0.9864
+253680,ring,False,4,457288,coin,0.9863
+253680,ring,False,5,457264,coin,0.986
+464790,ring,True,1,50076,coin,0.9635
+464790,ring,True,2,39406,coin,0.9545
+464790,ring,True,3,61146,coin,0.9392
+464790,ring,True,4,323501,coin,0.9366
+464790,ring,True,5,323478,coin,0.9327
+478913,ring,False,1,465832,lamp,0.9926
+478913,ring,False,2,449338,lamp,0.9899
+478913,ring,False,3,449054,lamp,0.987
+478913,ring,False,4,449977,lamp,0.9779
+478913,ring,False,5,449774,lamp,0.9757
+50268,ring,False,1,312731,figure,0.9144
+50268,ring,False,2,39259,figure,0.9117
+50268,ring,False,3,318467,figure,0.9076
+50268,ring,False,4,316724,figure,0.9059
+50268,ring,False,5,39012,figure,0.9054
+478914,ring,False,1,452684,lamp,0.9815
+478914,ring,False,2,478706,lamp,0.9759
+478914,ring,False,3,447231,lamp,0.9748
+478914,ring,False,4,447068,lamp,0.9737
+478914,ring,False,5,449130,lamp,0.9722
+477773,ring,False,1,452950,bowl,0.9629
+477773,ring,False,2,449350,bowl,0.9611
+477773,ring,False,3,449359,bowl,0.9601
+477773,ring,False,4,45969,bowl,0.9589
+477773,ring,False,5,451765,bowl,0.9555
+246055,ring,False,1,241602,lamp,0.9382
+246055,ring,False,2,451655,lamp,0.9284
+246055,ring,False,3,241597,lamp,0.9215
+246055,ring,False,4,451135,lamp,0.9115
+246055,ring,False,5,448723,lamp,0.9097
+51925,ring,True,1,452004,bowl,0.9251
+51925,ring,True,2,240272,bowl,0.9241
+51925,ring,True,3,323054,bowl,0.919
+51925,ring,True,4,241602,lamp,0.9173
+51925,ring,True,5,448970,bowl,0.9138
+50274,ring,True,1,50076,coin,0.9491
+50274,ring,True,2,39406,coin,0.9286
+50274,ring,True,3,323501,coin,0.9253
+50274,ring,True,4,61151,coin,0.9191
+50274,ring,True,5,453441,coin,0.9184
+245930,ring,False,1,457209,coin,0.9729
+245930,ring,False,2,322352,coin,0.971
+245930,ring,False,3,457510,coin,0.9709
+245930,ring,False,4,457457,coin,0.9695
+245930,ring,False,5,323493,coin,0.9692
+50380,ring,True,1,50076,coin,0.9155
+50380,ring,True,2,39406,coin,0.8732
+50380,ring,True,3,323908,cylinder seal,0.871
+50380,ring,True,4,61146,coin,0.8701
+50380,ring,True,5,323037,cylinder seal,0.8662
+323884,ring,True,1,322352,coin,0.9269
+323884,ring,True,2,457510,coin,0.9269
+323884,ring,True,3,457100,coin,0.9268
+323884,ring,True,4,457290,coin,0.9264
+323884,ring,True,5,457074,coin,0.9259
+256677,ring,True,1,323492,coin,0.9282
+256677,ring,True,2,457290,coin,0.9254
+256677,ring,True,3,322351,coin,0.9166
+256677,ring,True,4,323248,coin,0.9115
+256677,ring,True,5,477816,coin,0.9093
+50258,ring,False,1,39406,coin,0.9713
+50258,ring,False,2,457375,coin,0.9692
+50258,ring,False,3,444864,coin,0.9665
+50258,ring,False,4,323501,coin,0.9608
+50258,ring,False,5,50076,coin,0.9587
+50208,ring,True,1,323037,cylinder seal,0.9324
+50208,ring,True,2,323908,cylinder seal,0.9304
+50208,ring,True,3,558739,cylinder seal,0.9068
+50208,ring,True,4,324996,cylinder seal,0.893
+50208,ring,True,5,323888,cylinder seal,0.892
+712072,ring,True,1,561720,cylinder seal,0.9649
+712072,ring,True,2,323898,cylinder seal,0.9598
+712072,ring,True,3,326915,cylinder seal,0.9593
+712072,ring,True,4,325212,cylinder seal,0.9583
+712072,ring,True,5,321412,cylinder seal,0.9516
+449847,ring,False,1,39387,coin,0.9784
+449847,ring,False,2,39386,coin,0.9783
+449847,ring,False,3,323478,coin,0.9776
+449847,ring,False,4,444860,coin,0.9771
+449847,ring,False,5,453444,coin,0.9767
+479228,ring,True,1,39078,lamp,0.9016
+479228,ring,True,2,325887,lamp,0.8998
+479228,ring,True,3,241685,lamp,0.8967
+479228,ring,True,4,769193,lamp,0.8955
+479228,ring,True,5,241717,lamp,0.886
+326058,ring,True,1,322351,coin,0.9344
+326058,ring,True,2,330152,coin,0.9237
+326058,ring,True,3,469075,coin,0.9232
+326058,ring,True,4,61151,coin,0.9211
+326058,ring,True,5,323501,coin,0.9205
+465577,ring,True,1,240456,bowl,0.9429
+465577,ring,True,2,451765,bowl,0.9374
+465577,ring,True,3,468661,bowl,0.9363
+465577,ring,True,4,448970,bowl,0.9279
+465577,ring,True,5,451751,bowl,0.9263
+449204,ring,False,1,457258,coin,0.9865
+449204,ring,False,2,457082,coin,0.9847
+449204,ring,False,3,457299,coin,0.9837
+449204,ring,False,4,457377,coin,0.9837
+449204,ring,False,5,457686,coin,0.9836
+64323,ring,True,1,61740,figure,0.931
+64323,ring,True,2,318467,figure,0.9247
+64323,ring,True,3,241717,lamp,0.8959
+64323,ring,True,4,42950,figure,0.895
+64323,ring,True,5,317554,figure,0.8921
+325822,ring,True,1,323908,cylinder seal,0.9436
+325822,ring,True,2,561720,cylinder seal,0.938
+325822,ring,True,3,323037,cylinder seal,0.9367
+325822,ring,True,4,326915,cylinder seal,0.9362
+325822,ring,True,5,327811,cylinder seal,0.9273
+243533,ring,True,1,326065,lamp,0.9642
+243533,ring,True,2,323172,lamp,0.9608
+243533,ring,True,3,449814,lamp,0.9545
+243533,ring,True,4,551016,bowl,0.954
+243533,ring,True,5,241583,lamp,0.9503
+243638,ring,False,1,457354,coin,0.9848
+243638,ring,False,2,457290,coin,0.9844
+243638,ring,False,3,322357,coin,0.9843
+243638,ring,False,4,330152,coin,0.9826
+243638,ring,False,5,453441,coin,0.9825
+50148,ring,False,1,318467,figure,0.9386
+50148,ring,False,2,61740,figure,0.9277
+50148,ring,False,3,307661,figure,0.9139
+50148,ring,False,4,39253,figure,0.9095
+50148,ring,False,5,48238,figure,0.9053
+465283,ring,True,1,451374,figure,0.9398
+465283,ring,True,2,314163,figure,0.9354
+465283,ring,True,3,769193,lamp,0.9345
+465283,ring,True,4,39078,lamp,0.9341
+465283,ring,True,5,61740,figure,0.9327
+465295,ring,True,1,240272,bowl,0.9556
+465295,ring,True,2,240456,bowl,0.9462
+465295,ring,True,3,451765,bowl,0.9362
+465295,ring,True,4,468661,bowl,0.9325
+465295,ring,True,5,451751,bowl,0.9322
+478917,ring,False,1,478872,bowl,0.9948
+478917,ring,False,2,249369,lamp,0.9909
+478917,ring,False,3,478673,bowl,0.9862
+478917,ring,False,4,308433,bowl,0.9855
+478917,ring,False,5,478426,bowl,0.9845
+249583,ring,True,1,561720,cylinder seal,0.9186
+249583,ring,True,2,453441,coin,0.9166
+249583,ring,True,3,325212,cylinder seal,0.9056
+249583,ring,True,4,457354,coin,0.9005
+249583,ring,True,5,61151,coin,0.9002
+64234,ring,True,1,61740,figure,0.8928
+64234,ring,True,2,39253,figure,0.888
+64234,ring,True,3,457245,coin,0.886
+64234,ring,True,4,309284,figure,0.8846
+64234,ring,True,5,457680,coin,0.878
+64314,ring,True,1,323911,cylinder seal,0.9187
+64314,ring,True,2,323898,cylinder seal,0.9169
+64314,ring,True,3,323908,cylinder seal,0.9152
+64314,ring,True,4,324573,cylinder seal,0.9123
+64314,ring,True,5,323888,cylinder seal,0.9115
+64320,ring,False,1,309284,figure,0.899
+64320,ring,False,2,39253,figure,0.8843
+64320,ring,False,3,60698,figure,0.8796
+64320,ring,False,4,317554,figure,0.8766
+64320,ring,False,5,318658,figure,0.8738
+477772,ring,False,1,251442,lamp,0.9712
+477772,ring,False,2,241711,lamp,0.9695
+477772,ring,False,3,241715,lamp,0.9684
+477772,ring,False,4,241724,lamp,0.9676
+477772,ring,False,5,255515,lamp,0.9675
+64324,ring,True,1,323037,cylinder seal,0.8899
+64324,ring,True,2,323908,cylinder seal,0.8746
+64324,ring,True,3,558739,cylinder seal,0.8739
+64324,ring,True,4,60698,figure,0.8581
+64324,ring,True,5,50076,coin,0.858
+243471,ring,True,1,323505,coin,0.9774
+243471,ring,True,2,322359,coin,0.9763
+243471,ring,True,3,323501,coin,0.9745
+243471,ring,True,4,469170,coin,0.9738
+243471,ring,True,5,464811,coin,0.9726
+50149,ring,False,1,318467,figure,0.9208
+50149,ring,False,2,61740,figure,0.9172
+50149,ring,False,3,39253,figure,0.9137
+50149,ring,False,4,317554,figure,0.9116
+50149,ring,False,5,60698,figure,0.9015
+243529,ring,False,1,326065,lamp,0.969
+243529,ring,False,2,323172,lamp,0.9687
+243529,ring,False,3,449814,lamp,0.961
+243529,ring,False,4,241583,lamp,0.9607
+243529,ring,False,5,255515,lamp,0.9566
+50210,ring,True,1,50076,coin,0.8984
+50210,ring,True,2,39406,coin,0.8908
+50210,ring,True,3,323501,coin,0.8832
+50210,ring,True,4,322351,coin,0.8807
+50210,ring,True,5,477816,coin,0.8774
+50244,ring,True,1,457680,coin,0.9492
+50244,ring,True,2,457708,coin,0.9423
+50244,ring,True,3,457245,coin,0.94
+50244,ring,True,4,457587,coin,0.9359
+50244,ring,True,5,323478,coin,0.934
+251881,ring,True,1,464911,coin,0.9594
+251881,ring,True,2,323493,coin,0.9547
+251881,ring,True,3,457686,coin,0.9526
+251881,ring,True,4,323492,coin,0.9504
+251881,ring,True,5,457510,coin,0.9437
+50281,ring,True,1,50076,coin,0.9686
+50281,ring,True,2,39406,coin,0.9648
+50281,ring,True,3,323501,coin,0.9606
+50281,ring,True,4,322356,coin,0.9585
+50281,ring,True,5,469170,coin,0.9536
+253776,ring,True,1,241437,lamp,0.9459
+253776,ring,True,2,241685,lamp,0.9454
+253776,ring,True,3,464911,coin,0.937
+253776,ring,True,4,451653,lamp,0.9326
+253776,ring,True,5,451655,lamp,0.9272
+247542,ring,False,1,444863,coin,0.9975
+247542,ring,False,2,322353,coin,0.9975
+247542,ring,False,3,326394,coin,0.997
+247542,ring,False,4,457614,coin,0.997
+247542,ring,False,5,457345,coin,0.9968
+50287,ring,True,1,50076,coin,0.9662
+50287,ring,True,2,39406,coin,0.9442
+50287,ring,True,3,61146,coin,0.9321
+50287,ring,True,4,323501,coin,0.9297
+50287,ring,True,5,322356,coin,0.9214
+324998,ring,False,1,241573,lamp,0.972
+324998,ring,False,2,241683,lamp,0.9706
+324998,ring,False,3,241527,lamp,0.97
+324998,ring,False,4,241763,lamp,0.9691
+324998,ring,False,5,241597,lamp,0.9687
+465145,ring,False,1,469072,coin,0.9714
+465145,ring,False,2,477816,coin,0.9648
+465145,ring,False,3,451751,bowl,0.9583
+465145,ring,False,4,475175,coin,0.9482
+465145,ring,False,5,454764,coin,0.9457
+50133,ring,True,1,309284,figure,0.9173
+50133,ring,True,2,61740,figure,0.9057
+50133,ring,True,3,39253,figure,0.898
+50133,ring,True,4,61190,figure,0.8956
+50133,ring,True,5,38765,figure,0.8876
+465280,ring,True,1,241717,lamp,0.862
+465280,ring,True,2,246189,vase,0.8557
+465280,ring,True,3,322779,lamp,0.8501
+465280,ring,True,4,769193,lamp,0.8473
+465280,ring,True,5,39078,lamp,0.8429
+465499,ring,False,1,241602,lamp,0.9687
+465499,ring,False,2,241600,lamp,0.9635
+465499,ring,False,3,451757,lamp,0.9614
+465499,ring,False,4,448723,lamp,0.9603
+465499,ring,False,5,451652,lamp,0.9574
+465414,ring,False,1,38758,lamp,0.9815
+465414,ring,False,2,448977,bowl,0.9757
+465414,ring,False,3,323234,bowl,0.9751
+465414,ring,False,4,478423,bowl,0.9737
+465414,ring,False,5,449813,lamp,0.9733
+246059,ring,False,1,241717,lamp,0.9754
+246059,ring,False,2,448012,lamp,0.9723
+246059,ring,False,3,251442,lamp,0.9714
+246059,ring,False,4,241711,lamp,0.9698
+246059,ring,False,5,241769,lamp,0.963
+50253,ring,False,1,318467,figure,0.9115
+50253,ring,False,2,61740,figure,0.9061
+50253,ring,False,3,39253,figure,0.9034
+50253,ring,False,4,317554,figure,0.8968
+50253,ring,False,5,309284,figure,0.8946
+248265,ring,False,1,457211,coin,0.9957
+248265,ring,False,2,457372,coin,0.9954
+248265,ring,False,3,457518,coin,0.9953
+248265,ring,False,4,457635,coin,0.9946
+248265,ring,False,5,457232,coin,0.9945
+64238,ring,True,1,241717,lamp,0.9038
+64238,ring,True,2,451655,lamp,0.9012
+64238,ring,True,3,241437,lamp,0.8985
+64238,ring,True,4,241602,lamp,0.8915
+64238,ring,True,5,451653,lamp,0.8857
+327448,ring,False,1,552038,cylinder seal,0.9628
+327448,ring,False,2,552082,cylinder seal,0.9582
+327448,ring,False,3,552081,cylinder seal,0.9554
+327448,ring,False,4,327673,cylinder seal,0.9524
+327448,ring,False,5,323911,cylinder seal,0.9494
+323252,ring,True,1,241602,lamp,0.9291
+323252,ring,True,2,451653,lamp,0.9254
+323252,ring,True,3,451652,lamp,0.9217
+323252,ring,True,4,241597,lamp,0.9122
+323252,ring,True,5,322779,lamp,0.9079
+50246,ring,False,1,457245,coin,0.8735
+50246,ring,False,2,323478,coin,0.8706
+50246,ring,False,3,469087,coin,0.8678
+50246,ring,False,4,444864,coin,0.8661
+50246,ring,False,5,39406,coin,0.8642
+449887,ring,True,1,241717,lamp,0.9495
+449887,ring,True,2,451655,lamp,0.9446
+449887,ring,True,3,241602,lamp,0.9413
+449887,ring,True,4,241597,lamp,0.9357
+449887,ring,True,5,241437,lamp,0.9318
+249584,ring,False,1,246189,vase,0.8577
+249584,ring,False,2,556910,bowl,0.8556
+249584,ring,False,3,323911,cylinder seal,0.8472
+249584,ring,False,4,322779,lamp,0.846
+249584,ring,False,5,326136,bowl,0.845
+50261,ring,False,1,312731,figure,0.9583
+50261,ring,False,2,318467,figure,0.9519
+50261,ring,False,3,316723,figure,0.9413
+50261,ring,False,4,311174,figure,0.9387
+50261,ring,False,5,844987,figure,0.9364
+325821,ring,True,1,323908,cylinder seal,0.9436
+325821,ring,True,2,561720,cylinder seal,0.938
+325821,ring,True,3,323037,cylinder seal,0.9367
+325821,ring,True,4,326915,cylinder seal,0.9362
+325821,ring,True,5,327811,cylinder seal,0.9273
+465975,ring,False,1,323054,bowl,0.9457
+465975,ring,False,2,240272,bowl,0.9449
+465975,ring,False,3,449359,bowl,0.9406
+465975,ring,False,4,451351,bowl,0.9401
+465975,ring,False,5,317574,bowl,0.9273
+50384,ring,True,1,60698,figure,0.8641
+50384,ring,True,2,317554,figure,0.8623
+50384,ring,True,3,318467,figure,0.86
+50384,ring,True,4,50076,coin,0.8582
+50384,ring,True,5,323478,coin,0.8545
+451111,ring,True,1,246189,vase,0.8678
+451111,ring,True,2,477816,coin,0.8667
+451111,ring,True,3,323501,coin,0.8644
+451111,ring,True,4,322779,lamp,0.8638
+451111,ring,True,5,50076,coin,0.8618
+243528,ring,True,1,326065,lamp,0.9483
+243528,ring,True,2,323172,lamp,0.9387
+243528,ring,True,3,449814,lamp,0.9359
+243528,ring,True,4,241583,lamp,0.9278
+243528,ring,True,5,448977,bowl,0.9272
+50130,ring,True,1,317554,figure,0.9445
+50130,ring,True,2,60698,figure,0.9443
+50130,ring,True,3,39253,figure,0.94
+50130,ring,True,4,42950,figure,0.9341
+50130,ring,True,5,309284,figure,0.9339
+446010,ring,True,1,247457,lamp,0.9643
+446010,ring,True,2,241769,lamp,0.9583
+446010,ring,True,3,241580,lamp,0.9564
+446010,ring,True,4,241717,lamp,0.9509
+446010,ring,True,5,447068,lamp,0.95
+322905,ring,True,1,324500,cylinder seal,0.9042
+322905,ring,True,2,327378,cylinder seal,0.893
+322905,ring,True,3,323898,cylinder seal,0.8914
+322905,ring,True,4,561727,cylinder seal,0.8909
+322905,ring,True,5,469072,coin,0.8889
+478984,ring,False,1,247457,lamp,0.9592
+478984,ring,False,2,324403,lamp,0.9589
+478984,ring,False,3,769193,lamp,0.9576
+478984,ring,False,4,241918,lamp,0.952
+478984,ring,False,5,468594,lamp,0.9513
+253679,ring,True,1,61740,figure,0.9621
+253679,ring,True,2,451374,figure,0.9364
+253679,ring,True,3,48238,figure,0.9359
+253679,ring,True,4,446669,figure,0.9264
+253679,ring,True,5,61190,figure,0.9246
+249580,ring,True,1,322779,lamp,0.9149
+249580,ring,True,2,247457,lamp,0.8939
+249580,ring,True,3,47055,bowl,0.8936
+249580,ring,True,4,240456,bowl,0.883
+249580,ring,True,5,241580,lamp,0.883
+50381,ring,False,1,326394,coin,0.9862
+50381,ring,False,2,457524,coin,0.9856
+50381,ring,False,3,323485,coin,0.984
+50381,ring,False,4,453438,coin,0.9839
+50381,ring,False,5,323484,coin,0.9837
+243570,ring,True,1,323492,coin,0.8649
+243570,ring,True,2,469072,coin,0.8641
+243570,ring,True,3,457290,coin,0.8608
+243570,ring,True,4,323248,coin,0.8548
+243570,ring,True,5,477816,coin,0.8514
+53395,ring,True,1,457587,coin,0.9186
+53395,ring,True,2,457708,coin,0.918
+53395,ring,True,3,457680,coin,0.9169
+53395,ring,True,4,464911,coin,0.9163
+53395,ring,True,5,457245,coin,0.9116
+246054,ring,True,1,322779,lamp,0.9197
+246054,ring,True,2,241602,lamp,0.914
+246054,ring,True,3,451652,lamp,0.9004
+246054,ring,True,4,448012,lamp,0.8948
+246054,ring,True,5,448723,lamp,0.892
+50222,ring,False,1,61740,figure,0.9533
+50222,ring,False,2,318467,figure,0.9288
+50222,ring,False,3,39012,figure,0.9287
+50222,ring,False,4,39259,figure,0.9219
+50222,ring,False,5,451374,figure,0.9113
+249585,ring,False,1,457510,coin,0.9666
+249585,ring,False,2,453445,coin,0.961
+249585,ring,False,3,457375,coin,0.9602
+249585,ring,False,4,457640,coin,0.9588
+249585,ring,False,5,444864,coin,0.9581
+53397,ring,True,1,457708,coin,0.9282
+53397,ring,True,2,457245,coin,0.9269
+53397,ring,True,3,457680,coin,0.9209
+53397,ring,True,4,457587,coin,0.9093
+53397,ring,True,5,323478,coin,0.9018
+449656,ring,True,1,323492,coin,0.9387
+449656,ring,True,2,323248,coin,0.918
+449656,ring,True,3,457290,coin,0.9165
+449656,ring,True,4,453451,coin,0.9159
+449656,ring,True,5,457679,coin,0.9157
+451112,ring,True,1,241685,lamp,0.9214
+451112,ring,True,2,241437,lamp,0.9214
+451112,ring,True,3,451655,lamp,0.9097
+451112,ring,True,4,241717,lamp,0.9007
+451112,ring,True,5,322715,lamp,0.8973
+248627,ring,True,1,469075,coin,0.9619
+248627,ring,True,2,453441,coin,0.961
+248627,ring,True,3,322351,coin,0.9609
+248627,ring,True,4,457354,coin,0.9605
+248627,ring,True,5,330152,coin,0.9554
+246768,ring,False,1,322779,lamp,0.922
+246768,ring,False,2,241717,lamp,0.9016
+246768,ring,False,3,241602,lamp,0.8966
+246768,ring,False,4,448012,lamp,0.8963
+246768,ring,False,5,251442,lamp,0.8844
+465276,ring,False,1,451877,bowl,0.9699
+465276,ring,False,2,51242,bowl,0.9686
+465276,ring,False,3,449359,bowl,0.967
+465276,ring,False,4,449477,bowl,0.9662
+465276,ring,False,5,451768,bowl,0.9661
+44820,ring,True,1,457375,coin,0.9783
+44820,ring,True,2,39406,coin,0.9753
+44820,ring,True,3,444864,coin,0.9729
+44820,ring,True,4,457667,coin,0.9693
+44820,ring,True,5,457524,coin,0.9692
+465268,ring,True,1,61740,figure,0.9434
+465268,ring,True,2,61190,figure,0.9003
+465268,ring,True,3,39012,figure,0.892
+465268,ring,True,4,451374,figure,0.8906
+465268,ring,True,5,48238,figure,0.8806
+322538,ring,True,1,241685,lamp,0.909
+322538,ring,True,2,457708,coin,0.9015
+322538,ring,True,3,325887,lamp,0.8981
+322538,ring,True,4,241437,lamp,0.898
+322538,ring,True,5,457245,coin,0.8959
+243648,ring,False,1,451751,bowl,0.9195
+243648,ring,False,2,243823,bowl,0.8884
+243648,ring,False,3,447952,bowl,0.8857
+243648,ring,False,4,469072,coin,0.8803
+243648,ring,False,5,451061,bowl,0.8768
+456926,ring,False,1,241769,lamp,0.9525
+456926,ring,False,2,449570,lamp,0.9449
+456926,ring,False,3,247457,lamp,0.9399
+456926,ring,False,4,478724,lamp,0.9316
+456926,ring,False,5,241717,lamp,0.9316
+64304,ring,True,1,61740,figure,0.9027
+64304,ring,True,2,317554,figure,0.8973
+64304,ring,True,3,39253,figure,0.8948
+64304,ring,True,4,42950,figure,0.8926
+64304,ring,True,5,318467,figure,0.888
+44093,ring,True,1,449327,lamp,0.8877
+44093,ring,True,2,309901,bowl,0.8815
+44093,ring,True,3,247457,lamp,0.8787
+44093,ring,True,4,247490,lamp,0.8673
+44093,ring,True,5,447068,lamp,0.8606
+243646,ring,False,1,451747,lamp,0.9417
+243646,ring,False,2,551017,bowl,0.9358
+243646,ring,False,3,317579,bowl,0.9352
+243646,ring,False,4,309901,bowl,0.9335
+243646,ring,False,5,449648,bowl,0.9318
+446252,ring,True,1,464911,coin,0.9719
+446252,ring,True,2,457679,coin,0.9625
+446252,ring,True,3,464966,coin,0.9578
+446252,ring,True,4,451653,lamp,0.9574
+446252,ring,True,5,457686,coin,0.9567
+453048,ring,False,1,468582,lamp,0.9178
+453048,ring,False,2,448012,lamp,0.9107
+453048,ring,False,3,241689,lamp,0.9026
+453048,ring,False,4,241687,lamp,0.901
+453048,ring,False,5,241688,lamp,0.8962
+50131,ring,True,1,60698,figure,0.914
+50131,ring,True,2,317554,figure,0.9125
+50131,ring,True,3,309284,figure,0.9122
+50131,ring,True,4,39253,figure,0.9012
+50131,ring,True,5,318658,figure,0.8964
+464574,ring,True,1,323501,coin,0.9267
+464574,ring,True,2,322351,coin,0.9241
+464574,ring,True,3,50076,coin,0.9234
+464574,ring,True,4,39406,coin,0.9219
+464574,ring,True,5,469170,coin,0.9187
+449886,ring,True,1,246189,vase,0.9353
+449886,ring,True,2,556508,cylinder seal,0.9125
+449886,ring,True,3,558739,cylinder seal,0.8906
+449886,ring,True,4,559752,cylinder seal,0.8876
+449886,ring,True,5,552082,cylinder seal,0.8823
+446857,ring,True,1,39259,figure,0.9417
+446857,ring,True,2,39012,figure,0.9319
+446857,ring,True,3,61740,figure,0.9246
+446857,ring,True,4,313005,figure,0.9158
+446857,ring,True,5,314163,figure,0.9089
+50120,ring,True,1,444864,coin,0.9476
+50120,ring,True,2,464810,coin,0.9443
+50120,ring,True,3,457510,coin,0.9431
+50120,ring,True,4,323478,coin,0.9421
+50120,ring,True,5,322352,coin,0.942
+326625,ring,False,1,446068,coin,0.9929
+326625,ring,False,2,457664,coin,0.9925
+326625,ring,False,3,457605,coin,0.9919
+326625,ring,False,4,330152,coin,0.9914
+326625,ring,False,5,457466,coin,0.991
+465293,ring,False,1,314163,figure,0.9656
+465293,ring,False,2,312760,figure,0.9653
+465293,ring,False,3,451374,figure,0.9581
+465293,ring,False,4,769193,lamp,0.9515
+465293,ring,False,5,445630,lamp,0.951
+243656,ring,False,1,447068,lamp,0.9565
+243656,ring,False,2,241918,lamp,0.9488
+243656,ring,False,3,449130,lamp,0.9478
+243656,ring,False,4,449327,lamp,0.9413
+243656,ring,False,5,468571,lamp,0.9377
+465285,ring,True,1,39253,figure,0.937
+465285,ring,True,2,309284,figure,0.9332
+465285,ring,True,3,61740,figure,0.9183
+465285,ring,True,4,317554,figure,0.9147
+465285,ring,True,5,60698,figure,0.9133
+551292,ring,False,1,255515,lamp,0.9581
+551292,ring,False,2,323172,lamp,0.9566
+551292,ring,False,3,326065,lamp,0.9526
+551292,ring,False,4,449814,lamp,0.9494
+551292,ring,False,5,241583,lamp,0.9434
+551620,ring,False,1,477816,coin,0.9738
+551620,ring,False,2,322351,coin,0.9678
+551620,ring,False,3,469072,coin,0.967
+551620,ring,False,4,454764,coin,0.9637
+551620,ring,False,5,469075,coin,0.9633
+478916,ring,False,1,241595,lamp,0.9796
+478916,ring,False,2,248872,lamp,0.9781
+478916,ring,False,3,241587,lamp,0.9753
+478916,ring,False,4,478698,lamp,0.9753
+478916,ring,False,5,478706,lamp,0.974
+243706,ring,False,1,309901,bowl,0.9578
+243706,ring,False,2,47055,bowl,0.956
+243706,ring,False,3,309718,bowl,0.9519
+243706,ring,False,4,449548,bowl,0.9517
+243706,ring,False,5,310445,bowl,0.9474
+449655,ring,True,1,561727,cylinder seal,0.9039
+449655,ring,True,2,246189,vase,0.8955
+449655,ring,True,3,324500,cylinder seal,0.8954
+449655,ring,True,4,323911,cylinder seal,0.8941
+449655,ring,True,5,323898,cylinder seal,0.8937
+64317,ring,False,1,322364,coin,0.9932
+64317,ring,False,2,457627,coin,0.9914
+64317,ring,False,3,477846,coin,0.9908
+64317,ring,False,4,323483,coin,0.9904
+64317,ring,False,5,457201,coin,0.9902
+59759,ring,False,1,457375,coin,0.961
+59759,ring,False,2,444864,coin,0.9607
+59759,ring,False,3,323478,coin,0.9599
+59759,ring,False,4,457510,coin,0.9576
+59759,ring,False,5,323493,coin,0.9568
+50260,ring,True,1,318467,figure,0.8789
+50260,ring,True,2,61740,figure,0.8691
+50260,ring,True,3,241717,lamp,0.8683
+50260,ring,True,4,241437,lamp,0.8612
+50260,ring,True,5,769193,lamp,0.8585
+243469,ring,False,1,464810,coin,0.9937
+243469,ring,False,2,322349,coin,0.9926
+243469,ring,False,3,323505,coin,0.9911
+243469,ring,False,4,323509,coin,0.991
+243469,ring,False,5,323510,coin,0.9907
+243479,ring,False,1,241717,lamp,0.9454
+243479,ring,False,2,251442,lamp,0.9368
+243479,ring,False,3,323171,lamp,0.9358
+243479,ring,False,4,323173,lamp,0.9304
+243479,ring,False,5,448012,lamp,0.9296
+256672,ring,True,1,446669,figure,0.9272
+256672,ring,True,2,449448,figure,0.9084
+256672,ring,True,3,318670,figure,0.9044
+256672,ring,True,4,60698,figure,0.9033
+256672,ring,True,5,317554,figure,0.8898
+317667,ring,True,1,452004,bowl,0.9452
+317667,ring,True,2,448970,bowl,0.937
+317667,ring,True,3,240456,bowl,0.9341
+317667,ring,True,4,240272,bowl,0.93
+317667,ring,True,5,443163,bowl,0.9266
+50119,ring,True,1,50076,coin,0.9211
+50119,ring,True,2,323037,cylinder seal,0.8828
+50119,ring,True,3,39406,coin,0.8822
+50119,ring,True,4,323908,cylinder seal,0.8791
+50119,ring,True,5,323501,coin,0.8713
+465467,ring,False,1,241602,lamp,0.9473
+465467,ring,False,2,322779,lamp,0.9303
+465467,ring,False,3,451652,lamp,0.9289
+465467,ring,False,4,451653,lamp,0.9257
+465467,ring,False,5,241597,lamp,0.9221
+243645,ring,True,1,457686,coin,0.9344
+243645,ring,True,2,464911,coin,0.9327
+243645,ring,True,3,457258,coin,0.9306
+243645,ring,True,4,457679,coin,0.9298
+243645,ring,True,5,457209,coin,0.9267
+476384,ring,True,1,322359,coin,0.9682
+476384,ring,True,2,477816,coin,0.9677
+476384,ring,True,3,454764,coin,0.9653
+476384,ring,True,4,469170,coin,0.9642
+476384,ring,True,5,477846,coin,0.9641
+243621,ring,True,1,241602,lamp,0.9547
+243621,ring,True,2,448012,lamp,0.949
+243621,ring,True,3,241573,lamp,0.9475
+243621,ring,True,4,251442,lamp,0.9473
+243621,ring,True,5,241597,lamp,0.9466
+465450,ring,False,1,457416,coin,0.9917
+465450,ring,False,2,39406,coin,0.9915
+465450,ring,False,3,457592,coin,0.9879
+465450,ring,False,4,323509,coin,0.9871
+465450,ring,False,5,444860,coin,0.9865
+246671,ring,True,1,323911,cylinder seal,0.9061
+246671,ring,True,2,323898,cylinder seal,0.9011
+246671,ring,True,3,561727,cylinder seal,0.8992
+246671,ring,True,4,327067,cylinder seal,0.8986
+246671,ring,True,5,570807,cylinder seal,0.8956
+50303,ring,True,1,558738,cylinder seal,0.9557
+50303,ring,True,2,559752,cylinder seal,0.9551
+50303,ring,True,3,556508,cylinder seal,0.9487
+50303,ring,True,4,322366,cylinder seal,0.9479
+50303,ring,True,5,327707,cylinder seal,0.9458
+325877,ring,False,1,322349,coin,0.992
+325877,ring,False,2,457367,coin,0.9909
+325877,ring,False,3,457700,coin,0.9907
+325877,ring,False,4,444862,coin,0.9903
+325877,ring,False,5,457451,coin,0.99
+50224,ring,False,1,316724,figure,0.893
+50224,ring,False,2,318658,figure,0.8909
+50224,ring,False,3,316723,figure,0.8891
+50224,ring,False,4,39253,figure,0.8885
+50224,ring,False,5,309284,figure,0.886
+465288,ring,True,1,556508,cylinder seal,0.9187
+465288,ring,True,2,323911,cylinder seal,0.9181
+465288,ring,True,3,246189,vase,0.9157
+465288,ring,True,4,558739,cylinder seal,0.9152
+465288,ring,True,5,326983,cylinder seal,0.911
+244352,ring,True,1,323492,coin,0.9504
+244352,ring,True,2,457679,coin,0.9372
+244352,ring,True,3,464966,coin,0.9368
+244352,ring,True,4,453451,coin,0.9363
+244352,ring,True,5,323248,coin,0.933
+253681,ring,True,1,61740,figure,0.9728
+253681,ring,True,2,39253,figure,0.9485
+253681,ring,True,3,61190,figure,0.9445
+253681,ring,True,4,318467,figure,0.9431
+253681,ring,True,5,307661,figure,0.9387
+50203,ring,False,1,318467,figure,0.965
+50203,ring,False,2,61740,figure,0.9552
+50203,ring,False,3,309313,figure,0.9474
+50203,ring,False,4,42950,figure,0.9473
+50203,ring,False,5,48238,figure,0.9439
+50259,ring,False,1,39226,figure,0.9392
+50259,ring,False,2,844987,figure,0.9381
+50259,ring,False,3,38929,figure,0.9342
+50259,ring,False,4,312731,figure,0.9342
+50259,ring,False,5,749154,figure,0.9333
+53392,ring,False,1,446669,figure,0.9623
+53392,ring,False,2,48238,figure,0.9451
+53392,ring,False,3,318670,figure,0.9398
+53392,ring,False,4,61740,figure,0.9381
+53392,ring,False,5,449448,figure,0.9358
+465587,ring,False,1,61740,figure,0.9494
+465587,ring,False,2,451374,figure,0.9284
+465587,ring,False,3,48238,figure,0.928
+465587,ring,False,4,307661,figure,0.922
+465587,ring,False,5,313004,figure,0.9168
+245926,ring,False,1,241602,lamp,0.945
+245926,ring,False,2,448723,lamp,0.9392
+245926,ring,False,3,443163,bowl,0.9352
+245926,ring,False,4,448977,bowl,0.9352
+245926,ring,False,5,326065,lamp,0.9344
+50200,ring,True,1,309284,figure,0.885
+50200,ring,True,2,318467,figure,0.8826
+50200,ring,True,3,457245,coin,0.8819
+50200,ring,True,4,39253,figure,0.8818
+50200,ring,True,5,317554,figure,0.8795
+465299,ring,False,1,445630,lamp,0.9543
+465299,ring,False,2,312760,figure,0.9493
+465299,ring,False,3,451374,figure,0.9483
+465299,ring,False,4,451760,lamp,0.9475
+465299,ring,False,5,249686,lamp,0.9462
+50409,ring,True,1,317554,figure,0.9093
+50409,ring,True,2,60698,figure,0.9078
+50409,ring,True,3,39253,figure,0.8973
+50409,ring,True,4,316723,figure,0.8952
+50409,ring,True,5,42950,figure,0.8938
+39382,ring,True,1,61740,figure,0.9626
+39382,ring,True,2,61190,figure,0.9592
+39382,ring,True,3,309284,figure,0.9574
+39382,ring,True,4,39253,figure,0.957
+39382,ring,True,5,38765,figure,0.9503
+50271,ring,True,1,39253,figure,0.9384
+50271,ring,True,2,309284,figure,0.9375
+50271,ring,True,3,317554,figure,0.9346
+50271,ring,True,4,60698,figure,0.9339
+50271,ring,True,5,61190,figure,0.931
+478993,ring,True,1,241602,lamp,0.9152
+478993,ring,True,2,323492,coin,0.9131
+478993,ring,True,3,322779,lamp,0.9052
+478993,ring,True,4,457679,coin,0.8992
+478993,ring,True,5,451653,lamp,0.8983
+465803,ring,False,1,255515,lamp,0.9551
+465803,ring,False,2,451757,lamp,0.9533
+465803,ring,False,3,323172,lamp,0.9522
+465803,ring,False,4,326065,lamp,0.9516
+465803,ring,False,5,451656,lamp,0.9477
+465469,ring,False,1,326065,lamp,0.9466
+465469,ring,False,2,323172,lamp,0.9463
+465469,ring,False,3,255515,lamp,0.9414
+465469,ring,False,4,448012,lamp,0.9332
+465469,ring,False,5,449814,lamp,0.9323

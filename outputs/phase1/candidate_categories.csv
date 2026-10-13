@@ -1,0 +1,54 @@
+category,count,n_departments,top_department,top_dept_share,title_contains_label,metadata_duplicate_rows,fill_Culture,fill_Period,fill_Medium,fill_Object Begin Date,fill_Country,fill_Region,fill_Dimensions
+kylix fragment,8893,1,Greek and Roman Art,1.0,0.0,8801,1.0,1.0,1.0,1.0,0.0,0.0,0.01
+fragment,4540,7,Islamic Art,0.61,0.92,3794,0.39,0.02,1.0,1.0,0.74,0.01,0.88
+piece,3373,1,Asian Art,1.0,0.0,3270,1.0,0.44,1.0,1.0,0.0,0.0,1.0
+print,3227,1,Asian Art,1.0,0.0,1848,1.0,0.93,1.0,1.0,0.0,0.0,1.0
+bowl,2426,8,Asian Art,0.29,0.73,999,0.69,0.48,1.0,1.0,0.5,0.17,0.98
+textile fragment,2140,4,Islamic Art,0.92,0.79,1639,0.08,0.0,1.0,1.0,0.98,0.01,0.97
+figure,1569,6,Asian Art,0.77,0.2,433,0.98,0.59,1.0,1.0,0.22,0.09,1.0
+vase,1426,8,Asian Art,0.87,0.21,493,0.93,0.88,1.0,1.0,0.08,0.01,1.0
+hanging scroll,1126,1,Asian Art,1.0,0.0,211,1.0,0.97,1.0,1.0,0.0,0.0,1.0
+bottle,1125,8,"Arts of Africa, Oceania, and the Americas",0.43,0.73,339,0.79,0.34,1.0,1.0,0.64,0.11,0.99
+ornament,1097,7,"Arts of Africa, Oceania, and the Americas",0.74,0.73,765,0.94,0.17,1.0,1.0,0.77,0.1,0.99
+kylix fragments,1087,1,Greek and Roman Art,1.0,0.0,1039,1.0,1.0,1.0,1.0,0.0,0.0,0.03
+dish,1018,8,Asian Art,0.57,0.55,445,0.78,0.61,1.0,1.0,0.29,0.03,0.99
+jar,981,7,Asian Art,0.39,0.67,323,0.73,0.73,1.0,1.0,0.3,0.28,0.96
+skyphos fragment,976,1,Greek and Roman Art,1.0,0.01,955,1.0,0.99,1.0,1.0,0.0,0.0,0.02
+netsuke,936,1,Asian Art,1.0,0.02,753,1.0,0.94,1.0,1.0,0.0,0.0,1.0
+stamp seal,896,1,Ancient Near Eastern Art,1.0,0.81,427,0.85,0.99,1.0,1.0,0.0,1.0,1.0
+vase fragment,880,3,Greek and Roman Art,0.95,0.82,728,0.92,0.66,1.0,1.0,0.05,0.05,1.0
+sealing,808,3,Egyptian Art,0.72,1.0,781,0.28,1.0,1.0,1.0,0.72,1.0,0.32
+coin,792,5,Islamic Art,0.84,0.88,587,0.16,0.11,1.0,1.0,0.85,0.09,0.26
+panel,746,6,Islamic Art,0.35,0.67,308,0.65,0.17,1.0,1.0,0.64,0.05,0.98
+woodblock print,713,1,Asian Art,1.0,0.0,324,1.0,0.95,1.0,1.0,0.0,0.0,1.0
+plaque,691,8,Medieval Art,0.35,0.7,312,0.92,0.24,1.0,1.0,0.54,0.06,1.0
+lamp,656,6,Greek and Roman Art,0.66,0.99,497,0.75,0.69,1.0,1.0,0.26,0.05,0.9
+cylinder seal,649,2,Ancient Near Eastern Art,0.94,1.0,285,0.71,1.0,1.0,1.0,0.06,0.9,1.0
+pendant,643,8,"Arts of Africa, Oceania, and the Americas",0.47,0.82,240,0.86,0.26,1.0,1.0,0.59,0.23,0.99
+kylikes fragments,638,1,Greek and Roman Art,1.0,0.0,627,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+cup,617,8,Asian Art,0.55,0.48,245,0.91,0.81,1.0,1.0,0.12,0.09,0.99
+bead,587,7,Islamic Art,0.24,0.82,411,0.59,0.46,1.0,1.0,0.32,0.26,0.97
+cuneiform tablet,541,1,Ancient Near Eastern Art,1.0,0.99,138,0.86,0.87,1.0,1.0,0.0,1.0,0.99
+relief,538,8,Ancient Near Eastern Art,0.63,0.29,182,0.95,0.71,1.0,1.0,0.13,0.65,1.0
+ring,518,8,Asian Art,0.42,0.58,305,0.81,0.51,1.0,1.0,0.23,0.06,0.98
+folio from an illustrated manuscript,514,2,Islamic Art,1.0,0.0,53,0.0,0.0,1.0,1.0,0.99,0.03,0.98
+inrō,510,1,Asian Art,1.0,0.16,2,1.0,0.87,1.0,1.0,0.0,0.0,1.0
+jug,502,8,Greek and Roman Art,0.62,0.97,297,0.9,0.75,1.0,1.0,0.18,0.15,0.97
+stencil,498,1,Asian Art,1.0,0.0,489,1.0,0.36,1.0,1.0,0.0,0.0,1.0
+column-krater fragment,477,1,Greek and Roman Art,1.0,0.0,471,1.0,1.0,1.0,1.0,0.0,0.0,0.02
+vessel,469,7,"Arts of Africa, Oceania, and the Americas",0.36,0.76,119,0.9,0.5,1.0,1.0,0.45,0.54,0.98
+illustrated book,459,1,Asian Art,1.0,0.0,91,1.0,0.94,1.0,1.0,0.0,0.0,1.0
+snuff bottle,444,1,Asian Art,1.0,0.07,158,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+ostrakon,433,1,Medieval Art,1.0,1.0,345,1.0,0.0,1.0,1.0,1.0,0.0,1.0
+bracelet,409,7,Islamic Art,0.23,0.8,247,0.65,0.44,1.0,1.0,0.43,0.2,0.93
+folio,408,2,Asian Art,0.97,0.02,309,0.97,0.17,1.0,1.0,0.03,0.0,0.98
+statuette,392,5,Medieval Art,0.54,0.02,82,1.0,0.22,1.0,1.0,0.39,0.01,1.0
+plate,371,7,Asian Art,0.57,0.44,113,0.89,0.66,1.0,1.0,0.2,0.06,1.0
+brooch,350,6,Medieval Art,0.96,0.99,96,0.99,0.01,1.0,1.0,0.17,0.02,1.0
+album leaf,341,2,Asian Art,0.8,0.0,158,0.8,0.8,1.0,1.0,0.2,0.0,1.0
+earring,340,6,Medieval Art,0.33,0.78,249,0.8,0.27,1.0,1.0,0.34,0.11,0.95
+sculpture,329,7,Ancient Near Eastern Art,0.78,0.03,66,0.78,0.76,1.0,1.0,0.08,0.79,1.0
+box,315,7,Asian Art,0.78,0.52,48,0.9,0.73,1.0,1.0,0.14,0.04,1.0
+textile,314,6,Asian Art,0.46,0.47,158,0.98,0.11,0.64,1.0,0.18,0.14,0.99
+handscroll,309,1,Asian Art,1.0,0.0,21,1.0,0.99,1.0,1.0,0.0,0.0,1.0
+painting,303,4,Asian Art,0.89,0.01,81,0.95,0.35,1.0,1.0,0.1,0.0,1.0

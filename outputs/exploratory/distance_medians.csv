@@ -1,0 +1,7 @@
+representation,median train,median val,median known_test,median unknown_test,val / train ratio
+"Raw ViT features (768, no trained head)",26.19,34.305,35.559,45.496,1.31
+"Raw metadata vector (125, no trained head)",9.692,10.043,9.906,12.97,1.036
+"Raw ViT + metadata (893, no trained head)",27.716,37.739,39.172,50.802,1.362
+Trained head: Image only (main result),15.052,16.303,16.559,20.781,1.083
+Trained head: Metadata only (main result),5.262,5.454,5.322,6.556,1.036
+Trained head: Image + Metadata (main result),13.34,14.258,14.262,19.709,1.069

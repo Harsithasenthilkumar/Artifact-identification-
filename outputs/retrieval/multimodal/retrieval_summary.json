@@ -1,0 +1,51 @@
+{
+  "mode": "multimodal",
+  "k": 5,
+  "reference_size": 1677,
+  "search": "faiss.IndexFlatIP",
+  "known_test_sanity": {
+    "precision_at_1": 0.9555555555555556,
+    "precision_at_5": 0.9477777777777778
+  },
+  "mean_top1_similarity_known_test": 0.9907656908035278,
+  "mean_top1_similarity_unknown_test": 0.964046835899353,
+  "per_unseen_category": {
+    "cuneiform tablet": {
+      "queries": 150,
+      "flagged_unknown": 102,
+      "mean_top1_similarity": 0.9621632695198059,
+      "retrieved_category_share": {
+        "cylinder seal": 0.471,
+        "coin": 0.428,
+        "bowl": 0.041,
+        "lamp": 0.033,
+        "figure": 0.023,
+        "vase": 0.004
+      }
+    },
+    "jug": {
+      "queries": 150,
+      "flagged_unknown": 4,
+      "mean_top1_similarity": 0.9884100556373596,
+      "retrieved_category_share": {
+        "vase": 0.927,
+        "lamp": 0.047,
+        "bowl": 0.025,
+        "figure": 0.001
+      }
+    },
+    "ring": {
+      "queries": 150,
+      "flagged_unknown": 86,
+      "mean_top1_similarity": 0.9415671825408936,
+      "retrieved_category_share": {
+        "coin": 0.325,
+        "lamp": 0.249,
+        "figure": 0.217,
+        "cylinder seal": 0.1,
+        "bowl": 0.093,
+        "vase": 0.015
+      }
+    }
+  }
+}

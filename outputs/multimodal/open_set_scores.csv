@@ -1,0 +1,811 @@
+object_id,split,category,is_unknown,mahalanobis_distance,predicted_unknown,nearest_known_class,classifier_prediction,classifier_confidence
+57393,known_test,bowl,False,16.557,False,bowl,bowl,0.998
+451710,known_test,bowl,False,17.275,False,bowl,bowl,0.9994
+449370,known_test,bowl,False,18.175,False,coin,coin,0.9689
+447612,known_test,bowl,False,16.085,False,bowl,bowl,0.9896
+239848,known_test,bowl,False,12.794,False,bowl,bowl,0.9827
+48249,known_test,bowl,False,12.109,False,bowl,bowl,0.984
+308431,known_test,bowl,False,12.639,False,bowl,bowl,0.9993
+451823,known_test,bowl,False,19.086,False,bowl,bowl,0.9734
+326378,known_test,bowl,False,18.597,False,bowl,bowl,0.9331
+444548,known_test,bowl,False,12.7,False,bowl,bowl,0.9773
+51215,known_test,bowl,False,10.632,False,bowl,bowl,0.9976
+243997,known_test,bowl,False,20.337,True,lamp,bowl,0.4118
+245194,known_test,bowl,False,13.517,False,bowl,bowl,0.989
+43283,known_test,bowl,False,11.181,False,bowl,bowl,0.9986
+60907,known_test,bowl,False,12.72,False,bowl,bowl,0.9994
+325884,known_test,bowl,False,13.243,False,bowl,bowl,0.9456
+449539,known_test,bowl,False,18.837,False,bowl,bowl,0.9669
+317578,known_test,bowl,False,19.536,False,bowl,lamp,0.4183
+547547,known_test,bowl,False,14.834,False,bowl,bowl,0.9946
+52595,known_test,bowl,False,12.391,False,bowl,bowl,0.9976
+448973,known_test,bowl,False,13.973,False,bowl,bowl,0.9951
+239846,known_test,bowl,False,17.817,False,bowl,bowl,0.9288
+48121,known_test,bowl,False,18.521,False,bowl,bowl,0.9935
+447178,known_test,bowl,False,13.516,False,bowl,bowl,0.9994
+448268,known_test,bowl,False,15.963,False,bowl,bowl,0.991
+240743,known_test,bowl,False,14.086,False,vase,vase,0.5825
+52221,known_test,bowl,False,9.571,False,bowl,bowl,0.9971
+47732,known_test,bowl,False,24.844,True,vase,vase,0.621
+40988,known_test,bowl,False,14.74,False,bowl,bowl,0.9991
+46798,known_test,bowl,False,13.398,False,bowl,bowl,0.9976
+326757,known_test,bowl,False,13.534,False,bowl,bowl,0.982
+445240,known_test,bowl,False,18.598,False,bowl,bowl,0.9969
+51079,known_test,bowl,False,18.895,False,bowl,bowl,0.9779
+447184,known_test,bowl,False,15.326,False,bowl,bowl,0.9955
+471809,known_test,bowl,False,21.517,True,bowl,bowl,0.9952
+246235,known_test,bowl,False,11.995,False,bowl,bowl,0.9543
+58550,known_test,bowl,False,15.021,False,bowl,bowl,0.8753
+46803,known_test,bowl,False,12.05,False,bowl,bowl,0.999
+316876,known_test,bowl,False,22.274,True,bowl,bowl,0.8529
+323166,known_test,bowl,False,12.095,False,bowl,bowl,0.989
+42456,known_test,bowl,False,16.273,False,bowl,bowl,0.9982
+452611,known_test,bowl,False,15.278,False,bowl,bowl,0.9972
+245396,known_test,bowl,False,12.834,False,bowl,bowl,0.9961
+310665,known_test,bowl,False,14.553,False,bowl,bowl,0.9816
+548393,known_test,bowl,False,12.802,False,bowl,bowl,0.9988
+50721,known_test,bowl,False,19.486,False,bowl,bowl,0.7169
+449343,known_test,bowl,False,21.293,True,bowl,bowl,0.8167
+444612,known_test,bowl,False,12.155,False,bowl,bowl,0.9966
+326461,known_test,bowl,False,19.472,False,bowl,figure,0.3498
+325585,known_test,bowl,False,13.702,False,bowl,bowl,0.9997
+551244,known_test,bowl,False,18.733,False,bowl,bowl,0.8373
+326751,known_test,bowl,False,19.401,False,bowl,bowl,0.7454
+308432,known_test,bowl,False,13.149,False,bowl,bowl,0.9961
+449432,known_test,bowl,False,17.907,False,bowl,bowl,0.9562
+446204,known_test,bowl,False,16.122,False,bowl,bowl,0.9975
+52082,known_test,bowl,False,10.248,False,bowl,bowl,0.9993
+547534,known_test,bowl,False,12.522,False,bowl,bowl,0.9943
+666670,known_test,bowl,False,14.898,False,bowl,bowl,0.9962
+49217,known_test,bowl,False,15.882,False,bowl,bowl,0.9941
+47301,known_test,bowl,False,14.795,False,bowl,bowl,0.9976
+43332,known_test,vase,False,19.037,False,figure,figure,0.5937
+46083,known_test,vase,False,9.441,False,vase,vase,0.999
+50236,known_test,vase,False,16.297,False,vase,vase,0.9859
+52018,known_test,vase,False,12.25,False,vase,vase,0.9998
+60046,known_test,vase,False,22.036,True,vase,vase,0.9918
+50834,known_test,vase,False,12.737,False,vase,vase,1.0
+57441,known_test,vase,False,13.766,False,vase,vase,0.9995
+43852,known_test,vase,False,17.321,False,vase,vase,0.9993
+61018,known_test,vase,False,20.594,True,vase,vase,0.9996
+42094,known_test,vase,False,19.876,False,vase,vase,0.9804
+46555,known_test,vase,False,14.262,False,vase,vase,0.9986
+48693,known_test,vase,False,9.349,False,vase,vase,0.9997
+47347,known_test,vase,False,12.802,False,vase,vase,0.9957
+52517,known_test,vase,False,12.213,False,vase,vase,0.9997
+42155,known_test,vase,False,15.466,False,vase,vase,0.9936
+52810,known_test,vase,False,12.063,False,vase,vase,1.0
+45870,known_test,vase,False,9.255,False,vase,vase,0.9985
+47234,known_test,vase,False,12.459,False,vase,vase,0.8361
+47568,known_test,vase,False,14.811,False,vase,vase,0.9963
+46713,known_test,vase,False,12.326,False,vase,vase,0.9998
+43841,known_test,vase,False,17.405,False,vase,vase,0.9981
+46123,known_test,vase,False,13.619,False,vase,vase,0.9999
+444611,known_test,vase,False,12.924,False,vase,vase,0.9951
+46827,known_test,vase,False,12.689,False,vase,vase,0.9999
+325255,known_test,vase,False,21.944,True,vase,vase,0.6593
+44170,known_test,vase,False,16.873,False,figure,figure,0.9891
+52983,known_test,vase,False,15.973,False,vase,vase,0.9987
+60615,known_test,vase,False,12.313,False,vase,vase,0.9995
+50524,known_test,vase,False,8.949,False,vase,vase,0.9995
+47367,known_test,vase,False,18.834,False,vase,vase,0.9987
+443145,known_test,vase,False,12.945,False,vase,vase,0.9708
+240348,known_test,vase,False,16.841,False,vase,vase,0.9185
+46462,known_test,vase,False,16.014,False,vase,vase,0.9998
+46084,known_test,vase,False,11.936,False,vase,vase,0.9999
+43328,known_test,vase,False,15.706,False,vase,vase,0.9997
+59833,known_test,vase,False,13.099,False,vase,vase,0.9989
+53774,known_test,vase,False,10.162,False,vase,vase,0.9993
+50506,known_test,vase,False,11.745,False,vase,vase,0.9979
+442873,known_test,vase,False,10.432,False,vase,vase,0.9821
+46062,known_test,vase,False,13.987,False,vase,vase,0.9999
+46151,known_test,vase,False,7.642,False,vase,vase,0.9994
+40727,known_test,vase,False,14.616,False,vase,vase,0.99
+46830,known_test,vase,False,18.292,False,vase,vase,0.9896
+60659,known_test,vase,False,18.511,False,figure,figure,0.5271
+47053,known_test,vase,False,11.788,False,vase,vase,0.9991
+48534,known_test,vase,False,16.08,False,vase,vase,0.9925
+246636,known_test,vase,False,13.263,False,bowl,bowl,0.7837
+48745,known_test,vase,False,16.103,False,vase,vase,0.998
+60497,known_test,vase,False,10.714,False,vase,vase,0.9997
+52939,known_test,vase,False,16.398,False,vase,vase,0.9987
+42341,known_test,vase,False,14.079,False,vase,vase,0.9996
+46897,known_test,vase,False,10.487,False,vase,vase,0.9995
+42426,known_test,vase,False,13.812,False,vase,vase,0.9999
+47294,known_test,vase,False,12.052,False,vase,vase,0.9999
+43386,known_test,vase,False,16.161,False,figure,figure,0.9578
+46917,known_test,vase,False,8.598,False,vase,vase,0.9999
+42281,known_test,vase,False,18.728,False,vase,vase,0.9849
+49852,known_test,vase,False,13.088,False,vase,vase,0.9992
+46872,known_test,vase,False,14.541,False,vase,vase,0.9993
+47336,known_test,vase,False,11.188,False,vase,vase,0.9958
+62946,known_test,figure,False,17.273,False,figure,figure,0.9969
+318322,known_test,figure,False,19.881,False,figure,figure,0.9732
+60639,known_test,figure,False,15.651,False,figure,figure,0.9662
+49515,known_test,figure,False,16.904,False,figure,figure,0.996
+43753,known_test,figure,False,16.886,False,figure,figure,0.9205
+38950,known_test,figure,False,11.517,False,figure,figure,0.9999
+78186,known_test,figure,False,13.253,False,figure,figure,0.9983
+46145,known_test,figure,False,16.664,False,figure,figure,0.9949
+47431,known_test,figure,False,18.911,False,figure,figure,0.5646
+61564,known_test,figure,False,18.781,False,figure,figure,0.9993
+316820,known_test,figure,False,23.207,True,figure,figure,0.9189
+39167,known_test,figure,False,11.042,False,figure,figure,0.9998
+61758,known_test,figure,False,14.974,False,figure,figure,0.9992
+56154,known_test,figure,False,12.384,False,figure,figure,0.9998
+56153,known_test,figure,False,12.852,False,figure,figure,0.9988
+444734,known_test,figure,False,18.281,False,lamp,lamp,0.6348
+42382,known_test,figure,False,14.169,False,figure,figure,0.9996
+38946,known_test,figure,False,15.234,False,figure,figure,0.9679
+666536,known_test,figure,False,16.522,False,figure,figure,0.9961
+43251,known_test,figure,False,12.434,False,figure,figure,0.9995
+38328,known_test,figure,False,12.261,False,figure,figure,1.0
+309311,known_test,figure,False,13.468,False,figure,figure,0.9951
+48718,known_test,figure,False,15.066,False,figure,figure,0.9982
+41945,known_test,figure,False,20.244,False,figure,figure,0.9806
+38924,known_test,figure,False,15.88,False,figure,figure,0.9996
+320207,known_test,figure,False,15.041,False,figure,figure,0.9998
+61566,known_test,figure,False,16.8,False,figure,figure,0.9998
+38340,known_test,figure,False,11.389,False,figure,figure,0.9994
+466258,known_test,figure,False,19.879,False,figure,figure,0.9995
+61747,known_test,figure,False,11.012,False,figure,figure,1.0
+314198,known_test,figure,False,17.013,False,figure,figure,0.9936
+315631,known_test,figure,False,21.663,True,figure,figure,0.4967
+50464,known_test,figure,False,14.603,False,figure,figure,0.9764
+705432,known_test,figure,False,11.809,False,figure,figure,0.9999
+42083,known_test,figure,False,18.146,False,figure,figure,0.9951
+37620,known_test,figure,False,12.569,False,figure,figure,0.9998
+61661,known_test,figure,False,13.142,False,figure,figure,0.9993
+73226,known_test,figure,False,14.346,False,figure,figure,0.9995
+62848,known_test,figure,False,14.299,False,figure,figure,0.9995
+52555,known_test,figure,False,15.133,False,figure,figure,0.9727
+315906,known_test,figure,False,20.997,True,figure,figure,0.9132
+39215,known_test,figure,False,14.332,False,figure,figure,0.9995
+45840,known_test,figure,False,17.87,False,figure,figure,0.9975
+48525,known_test,figure,False,16.285,False,figure,figure,0.9883
+61218,known_test,figure,False,15.631,False,figure,figure,0.9986
+41963,known_test,figure,False,15.956,False,figure,figure,0.9989
+667003,known_test,figure,False,11.487,False,figure,figure,0.9999
+61627,known_test,figure,False,15.675,False,figure,figure,0.9993
+39526,known_test,figure,False,15.246,False,figure,figure,0.9992
+61734,known_test,figure,False,12.183,False,figure,figure,0.9999
+38434,known_test,figure,False,14.38,False,figure,figure,0.9947
+47504,known_test,figure,False,16.4,False,figure,figure,0.9531
+41996,known_test,figure,False,13.87,False,figure,figure,0.9997
+38157,known_test,figure,False,13.284,False,figure,figure,0.9994
+72392,known_test,figure,False,14.277,False,figure,figure,0.9996
+48493,known_test,figure,False,17.261,False,figure,figure,0.9946
+44022,known_test,figure,False,16.14,False,figure,figure,0.9981
+38965,known_test,figure,False,14.469,False,figure,figure,1.0
+39044,known_test,figure,False,22.492,True,figure,figure,0.7256
+45842,known_test,figure,False,13.438,False,figure,figure,0.9988
+457699,known_test,coin,False,10.431,False,coin,coin,1.0
+322360,known_test,coin,False,16.389,False,coin,coin,0.9962
+457360,known_test,coin,False,12.363,False,coin,coin,1.0
+457325,known_test,coin,False,13.901,False,coin,coin,1.0
+457165,known_test,coin,False,12.597,False,coin,coin,1.0
+457120,known_test,coin,False,9.798,False,coin,coin,0.9999
+453440,known_test,coin,False,17.913,False,coin,coin,0.9998
+457674,known_test,coin,False,19.675,False,coin,coin,0.9891
+39405,known_test,coin,False,17.939,False,coin,coin,0.9434
+323498,known_test,coin,False,20.029,False,coin,coin,0.9995
+457495,known_test,coin,False,11.79,False,coin,coin,1.0
+323475,known_test,coin,False,11.501,False,coin,coin,1.0
+457407,known_test,coin,False,13.423,False,coin,coin,0.9998
+454763,known_test,coin,False,15.845,False,coin,coin,1.0
+457318,known_test,coin,False,10.809,False,coin,coin,1.0
+457210,known_test,coin,False,12.775,False,coin,coin,1.0
+322355,known_test,coin,False,11.946,False,coin,coin,1.0
+453589,known_test,coin,False,18.179,False,coin,coin,0.9948
+50073,known_test,coin,False,19.955,False,coin,coin,0.8945
+457389,known_test,coin,False,12.737,False,coin,coin,1.0
+457436,known_test,coin,False,16.62,False,coin,coin,0.9998
+457190,known_test,coin,False,12.807,False,coin,coin,0.9999
+457639,known_test,coin,False,12.256,False,coin,coin,1.0
+457178,known_test,coin,False,9.929,False,coin,coin,1.0
+457678,known_test,coin,False,15.648,False,coin,coin,1.0
+470471,known_test,coin,False,16.727,False,coin,coin,0.9993
+457078,known_test,coin,False,12.533,False,coin,coin,1.0
+457549,known_test,coin,False,14.089,False,coin,coin,0.9998
+464907,known_test,coin,False,15.113,False,coin,coin,0.9969
+457650,known_test,coin,False,15.709,False,coin,coin,1.0
+457303,known_test,coin,False,10.706,False,coin,coin,1.0
+457383,known_test,coin,False,11.995,False,coin,coin,1.0
+457099,known_test,coin,False,15.186,False,coin,coin,0.9999
+457262,known_test,coin,False,12.96,False,coin,coin,1.0
+247159,known_test,coin,False,15.665,False,coin,coin,0.9999
+457485,known_test,coin,False,14.924,False,coin,coin,0.9997
+457175,known_test,coin,False,9.367,False,coin,coin,1.0
+457259,known_test,coin,False,12.623,False,coin,coin,1.0
+322365,known_test,coin,False,12.525,False,coin,coin,1.0
+323507,known_test,coin,False,12.596,False,coin,coin,1.0
+457187,known_test,coin,False,16.923,False,coin,coin,1.0
+465912,known_test,coin,False,18.976,False,coin,coin,0.9903
+457483,known_test,coin,False,11.985,False,coin,coin,1.0
+323486,known_test,coin,False,14.312,False,coin,coin,0.9996
+457365,known_test,coin,False,12.205,False,coin,coin,1.0
+457275,known_test,coin,False,12.123,False,coin,coin,1.0
+468737,known_test,coin,False,15.323,False,coin,coin,1.0
+457107,known_test,coin,False,11.12,False,coin,coin,1.0
+457353,known_test,coin,False,10.976,False,coin,coin,1.0
+457349,known_test,coin,False,10.216,False,coin,coin,0.999
+457121,known_test,coin,False,11.177,False,coin,coin,0.9999
+39385,known_test,coin,False,14.304,False,coin,coin,0.9997
+457189,known_test,coin,False,11.528,False,coin,coin,1.0
+457387,known_test,coin,False,14.577,False,coin,coin,1.0
+457577,known_test,coin,False,15.883,False,coin,coin,0.9999
+465759,known_test,coin,False,16.842,False,coin,coin,0.9995
+457080,known_test,coin,False,16.779,False,coin,coin,0.9998
+469172,known_test,coin,False,14.909,False,coin,coin,0.9999
+457125,known_test,coin,False,15.652,False,coin,coin,1.0
+326157,known_test,coin,False,12.756,False,coin,coin,0.9999
+447232,known_test,lamp,False,14.166,False,lamp,lamp,0.829
+450376,known_test,lamp,False,14.263,False,vase,vase,0.8147
+241605,known_test,lamp,False,9.326,False,lamp,lamp,0.9999
+241415,known_test,lamp,False,12.079,False,lamp,lamp,0.9996
+449207,known_test,lamp,False,14.909,False,lamp,lamp,0.9939
+241589,known_test,lamp,False,10.397,False,lamp,lamp,0.9998
+241768,known_test,lamp,False,16.989,False,lamp,lamp,0.9861
+450709,known_test,lamp,False,20.866,True,lamp,lamp,0.522
+244722,known_test,lamp,False,17.738,False,lamp,lamp,0.9348
+241537,known_test,lamp,False,13.079,False,lamp,lamp,0.9996
+241534,known_test,lamp,False,12.236,False,lamp,lamp,0.9998
+241775,known_test,lamp,False,14.222,False,lamp,lamp,0.9997
+546713,known_test,lamp,False,18.321,False,lamp,lamp,0.5325
+36442,known_test,lamp,False,17.621,False,lamp,lamp,0.9028
+241648,known_test,lamp,False,13.671,False,lamp,lamp,0.9994
+749162,known_test,lamp,False,13.295,False,figure,figure,0.9967
+453617,known_test,lamp,False,19.963,False,lamp,lamp,0.6721
+241656,known_test,lamp,False,9.973,False,lamp,lamp,0.9999
+241793,known_test,lamp,False,11.155,False,lamp,lamp,0.9996
+241697,known_test,lamp,False,10.321,False,lamp,lamp,0.9979
+241577,known_test,lamp,False,10.977,False,lamp,lamp,0.9999
+241599,known_test,lamp,False,17.9,False,lamp,lamp,0.978
+241756,known_test,lamp,False,11.253,False,lamp,lamp,0.9999
+556796,known_test,lamp,False,16.282,False,bowl,bowl,0.8739
+450380,known_test,lamp,False,15.479,False,lamp,lamp,0.5616
+252893,known_test,lamp,False,15.532,False,lamp,lamp,0.9895
+244752,known_test,lamp,False,13.858,False,lamp,lamp,0.9968
+327046,known_test,lamp,False,16.691,False,bowl,bowl,0.5054
+448991,known_test,lamp,False,18.979,False,lamp,lamp,0.6684
+241679,known_test,lamp,False,8.365,False,lamp,lamp,0.9973
+322742,known_test,lamp,False,17.922,False,lamp,lamp,0.993
+444509,known_test,lamp,False,15.497,False,bowl,bowl,0.9124
+325342,known_test,lamp,False,16.652,False,lamp,lamp,0.8235
+444794,known_test,lamp,False,12.358,False,lamp,lamp,1.0
+449465,known_test,lamp,False,15.824,False,lamp,lamp,0.9363
+447233,known_test,lamp,False,15.108,False,lamp,lamp,0.8083
+325919,known_test,lamp,False,22.531,True,lamp,lamp,0.7863
+241619,known_test,lamp,False,13.426,False,lamp,lamp,1.0
+449112,known_test,lamp,False,15.352,False,lamp,lamp,0.9858
+255869,known_test,lamp,False,12.298,False,lamp,lamp,0.9993
+448993,known_test,lamp,False,16.864,False,bowl,bowl,0.9381
+247451,known_test,lamp,False,17.166,False,lamp,lamp,0.9951
+241413,known_test,lamp,False,8.188,False,lamp,lamp,0.9985
+256784,known_test,lamp,False,16.8,False,lamp,lamp,0.9987
+449569,known_test,lamp,False,16.926,False,lamp,lamp,0.9007
+256852,known_test,lamp,False,13.082,False,lamp,lamp,0.9997
+241567,known_test,lamp,False,14.169,False,lamp,lamp,0.9934
+322747,known_test,lamp,False,14.474,False,lamp,lamp,0.7754
+241777,known_test,lamp,False,8.183,False,lamp,lamp,0.9955
+468581,known_test,lamp,False,16.17,False,lamp,lamp,0.945
+241468,known_test,lamp,False,14.227,False,lamp,lamp,0.9986
+447977,known_test,lamp,False,16.342,False,lamp,lamp,0.9997
+241657,known_test,lamp,False,10.682,False,lamp,lamp,0.9999
+449208,known_test,lamp,False,13.713,False,lamp,lamp,0.9986
+450379,known_test,lamp,False,19.021,False,lamp,lamp,0.9891
+468593,known_test,lamp,False,15.332,False,lamp,lamp,0.9497
+241746,known_test,lamp,False,9.473,False,lamp,lamp,0.9991
+456282,known_test,lamp,False,17.88,False,bowl,bowl,0.9507
+239871,known_test,lamp,False,16.916,False,lamp,lamp,0.9936
+449579,known_test,lamp,False,16.675,False,lamp,lamp,0.989
+321408,known_test,cylinder seal,False,15.723,False,cylinder seal,cylinder seal,0.9998
+323910,known_test,cylinder seal,False,12.981,False,cylinder seal,cylinder seal,0.9998
+326974,known_test,cylinder seal,False,13.455,False,cylinder seal,cylinder seal,0.9996
+327603,known_test,cylinder seal,False,10.681,False,cylinder seal,cylinder seal,1.0
+327678,known_test,cylinder seal,False,13.366,False,cylinder seal,cylinder seal,0.9999
+324000,known_test,cylinder seal,False,19.226,False,cylinder seal,cylinder seal,0.9995
+327079,known_test,cylinder seal,False,12.352,False,cylinder seal,cylinder seal,1.0
+327194,known_test,cylinder seal,False,13.339,False,cylinder seal,cylinder seal,0.9997
+327282,known_test,cylinder seal,False,11.6,False,cylinder seal,cylinder seal,1.0
+327597,known_test,cylinder seal,False,14.369,False,cylinder seal,cylinder seal,0.9999
+327751,known_test,cylinder seal,False,11.583,False,cylinder seal,cylinder seal,1.0
+325686,known_test,cylinder seal,False,14.152,False,cylinder seal,cylinder seal,0.9993
+321414,known_test,cylinder seal,False,11.283,False,cylinder seal,cylinder seal,1.0
+324511,known_test,cylinder seal,False,13.165,False,cylinder seal,cylinder seal,0.9999
+326418,known_test,cylinder seal,False,12.141,False,cylinder seal,cylinder seal,0.9999
+327785,known_test,cylinder seal,False,11.837,False,cylinder seal,cylinder seal,1.0
+327207,known_test,cylinder seal,False,14.242,False,cylinder seal,cylinder seal,0.9997
+324960,known_test,cylinder seal,False,13.369,False,cylinder seal,cylinder seal,0.9999
+327763,known_test,cylinder seal,False,9.871,False,cylinder seal,cylinder seal,1.0
+324129,known_test,cylinder seal,False,17.543,False,cylinder seal,cylinder seal,0.9982
+324974,known_test,cylinder seal,False,12.92,False,cylinder seal,cylinder seal,1.0
+327076,known_test,cylinder seal,False,10.079,False,cylinder seal,cylinder seal,1.0
+327604,known_test,cylinder seal,False,13.935,False,cylinder seal,cylinder seal,1.0
+323876,known_test,cylinder seal,False,12.849,False,cylinder seal,cylinder seal,0.9999
+327787,known_test,cylinder seal,False,12.215,False,cylinder seal,cylinder seal,1.0
+547402,known_test,cylinder seal,False,20.997,True,cylinder seal,cylinder seal,0.9973
+325479,known_test,cylinder seal,False,16.893,False,cylinder seal,cylinder seal,0.9997
+322128,known_test,cylinder seal,False,12.269,False,cylinder seal,cylinder seal,1.0
+324947,known_test,cylinder seal,False,12.19,False,cylinder seal,cylinder seal,1.0
+327248,known_test,cylinder seal,False,13.242,False,cylinder seal,cylinder seal,0.9999
+557036,known_test,cylinder seal,False,24.727,True,cylinder seal,cylinder seal,0.9335
+327455,known_test,cylinder seal,False,12.147,False,cylinder seal,cylinder seal,1.0
+326962,known_test,cylinder seal,False,11.836,False,cylinder seal,cylinder seal,0.9998
+323915,known_test,cylinder seal,False,12.942,False,cylinder seal,cylinder seal,1.0
+551781,known_test,cylinder seal,False,22.948,True,cylinder seal,cylinder seal,0.9
+321441,known_test,cylinder seal,False,15.276,False,cylinder seal,cylinder seal,0.9999
+325480,known_test,cylinder seal,False,16.581,False,cylinder seal,cylinder seal,0.9994
+557033,known_test,cylinder seal,False,21.026,True,cylinder seal,cylinder seal,0.9917
+321389,known_test,cylinder seal,False,10.613,False,cylinder seal,cylinder seal,1.0
+324515,known_test,cylinder seal,False,10.935,False,cylinder seal,cylinder seal,1.0
+324016,known_test,cylinder seal,False,10.795,False,cylinder seal,cylinder seal,1.0
+321415,known_test,cylinder seal,False,10.66,False,cylinder seal,cylinder seal,1.0
+325770,known_test,cylinder seal,False,11.527,False,cylinder seal,cylinder seal,0.9999
+327073,known_test,cylinder seal,False,14.832,False,cylinder seal,cylinder seal,0.9999
+326730,known_test,cylinder seal,False,13.531,False,cylinder seal,cylinder seal,0.9998
+327657,known_test,cylinder seal,False,13.215,False,cylinder seal,cylinder seal,0.9999
+326725,known_test,cylinder seal,False,17.288,False,cylinder seal,cylinder seal,0.998
+327709,known_test,cylinder seal,False,12.55,False,cylinder seal,cylinder seal,0.9999
+324952,known_test,cylinder seal,False,14.756,False,cylinder seal,cylinder seal,0.9991
+325481,known_test,cylinder seal,False,22.446,True,cylinder seal,cylinder seal,0.9726
+327287,known_test,cylinder seal,False,11.025,False,cylinder seal,cylinder seal,1.0
+321409,known_test,cylinder seal,False,10.432,False,cylinder seal,cylinder seal,1.0
+327263,known_test,cylinder seal,False,16.846,False,cylinder seal,cylinder seal,0.9998
+326921,known_test,cylinder seal,False,17.315,False,cylinder seal,cylinder seal,0.9996
+327620,known_test,cylinder seal,False,14.19,False,cylinder seal,cylinder seal,0.9999
+327683,known_test,cylinder seal,False,10.765,False,cylinder seal,cylinder seal,1.0
+329090,known_test,cylinder seal,False,12.47,False,cylinder seal,cylinder seal,1.0
+326965,known_test,cylinder seal,False,18.892,False,cylinder seal,cylinder seal,0.9955
+324636,known_test,cylinder seal,False,16.132,False,cylinder seal,cylinder seal,0.9999
+327809,known_test,cylinder seal,False,15.343,False,cylinder seal,cylinder seal,0.9999
+322945,unknown_test,jug,True,21.577,True,bowl,bowl,0.6341
+245348,unknown_test,jug,True,15.516,False,vase,vase,0.9741
+651241,unknown_test,jug,True,11.777,False,vase,vase,0.9819
+323160,unknown_test,jug,True,16.491,False,vase,vase,0.9953
+248996,unknown_test,jug,True,14.428,False,vase,vase,0.9925
+240297,unknown_test,jug,True,12.502,False,vase,vase,0.952
+240000,unknown_test,jug,True,16.549,False,vase,vase,0.9483
+240829,unknown_test,jug,True,14.283,False,vase,vase,0.9821
+240090,unknown_test,jug,True,17.899,False,vase,vase,0.9204
+239709,unknown_test,jug,True,11.495,False,vase,vase,0.9884
+240131,unknown_test,jug,True,12.925,False,vase,vase,0.9971
+240029,unknown_test,jug,True,17.835,False,vase,vase,0.8563
+553136,unknown_test,jug,True,11.016,False,vase,vase,0.9934
+245398,unknown_test,jug,True,13.799,False,vase,vase,0.9829
+240165,unknown_test,jug,True,11.103,False,vase,vase,0.9865
+452082,unknown_test,jug,True,13.068,False,vase,vase,0.9253
+545041,unknown_test,jug,True,17.397,False,vase,vase,0.8204
+466228,unknown_test,jug,True,13.692,False,vase,vase,0.6727
+323154,unknown_test,jug,True,12.58,False,vase,vase,0.9946
+239703,unknown_test,jug,True,12.408,False,vase,vase,0.968
+322946,unknown_test,jug,True,12.194,False,vase,vase,0.9917
+240095,unknown_test,jug,True,12.275,False,vase,vase,0.9557
+240928,unknown_test,jug,True,14.859,False,vase,vase,0.7821
+449418,unknown_test,jug,True,15.307,False,vase,vase,0.9863
+240464,unknown_test,jug,True,13.493,False,vase,vase,0.9803
+239985,unknown_test,jug,True,13.412,False,vase,vase,0.8881
+246620,unknown_test,jug,True,14.505,False,vase,vase,0.9903
+255216,unknown_test,jug,True,13.26,False,vase,vase,0.5216
+240742,unknown_test,jug,True,14.949,False,vase,vase,0.6416
+245269,unknown_test,jug,True,12.916,False,vase,vase,0.9594
+468398,unknown_test,jug,True,12.943,False,vase,vase,0.9459
+477283,unknown_test,jug,True,11.748,False,vase,vase,0.9691
+468394,unknown_test,jug,True,12.278,False,vase,vase,0.9544
+47270,unknown_test,jug,True,11.955,False,vase,vase,0.9991
+449071,unknown_test,jug,True,13.098,False,vase,vase,0.9813
+245654,unknown_test,jug,True,13.515,False,vase,vase,0.9961
+240099,unknown_test,jug,True,19.214,False,vase,vase,0.8341
+325378,unknown_test,jug,True,20.065,False,vase,vase,0.9614
+245626,unknown_test,jug,True,12.895,False,vase,vase,0.9818
+449313,unknown_test,jug,True,15.609,False,vase,vase,0.9708
+250083,unknown_test,jug,True,15.31,False,vase,vase,0.8996
+249518,unknown_test,jug,True,14.363,False,vase,vase,0.9896
+323159,unknown_test,jug,True,17.673,False,lamp,lamp,0.5616
+479662,unknown_test,jug,True,16.17,False,vase,vase,0.8837
+463710,unknown_test,jug,True,13.683,False,vase,vase,0.9482
+465878,unknown_test,jug,True,14.702,False,bowl,bowl,0.6088
+252904,unknown_test,jug,True,11.233,False,vase,vase,0.986
+322744,unknown_test,jug,True,13.242,False,vase,vase,0.9656
+240084,unknown_test,jug,True,13.842,False,vase,vase,0.9911
+253132,unknown_test,jug,True,15.695,False,vase,vase,0.9706
+468399,unknown_test,jug,True,11.216,False,vase,vase,0.9856
+250091,unknown_test,jug,True,16.269,False,vase,vase,0.9887
+478438,unknown_test,jug,True,14.884,False,vase,vase,0.9409
+240618,unknown_test,jug,True,11.865,False,vase,vase,0.9869
+240121,unknown_test,jug,True,12.804,False,vase,vase,0.9683
+246204,unknown_test,jug,True,17.117,False,vase,vase,0.9823
+246161,unknown_test,jug,True,10.824,False,vase,vase,0.9565
+323015,unknown_test,jug,True,11.851,False,vase,vase,0.9748
+250230,unknown_test,jug,True,12.745,False,bowl,bowl,0.8846
+245336,unknown_test,jug,True,12.926,False,vase,vase,0.9963
+240168,unknown_test,jug,True,14.875,False,vase,vase,0.9433
+323158,unknown_test,jug,True,15.898,False,vase,vase,0.9974
+240947,unknown_test,jug,True,12.79,False,vase,vase,0.9901
+449067,unknown_test,jug,True,14.782,False,vase,vase,0.7745
+240260,unknown_test,jug,True,12.88,False,vase,vase,0.9963
+552297,unknown_test,jug,True,13.071,False,vase,vase,0.9347
+239951,unknown_test,jug,True,12.446,False,vase,vase,0.9372
+240441,unknown_test,jug,True,12.259,False,vase,vase,0.9891
+240328,unknown_test,jug,True,12.817,False,vase,vase,0.9667
+465884,unknown_test,jug,True,15.85,False,vase,vase,0.8301
+240142,unknown_test,jug,True,12.669,False,vase,vase,0.9753
+240013,unknown_test,jug,True,14.988,False,vase,vase,0.5821
+240123,unknown_test,jug,True,12.312,False,vase,vase,0.9135
+322999,unknown_test,jug,True,10.835,False,vase,vase,0.9849
+240634,unknown_test,jug,True,23.411,True,lamp,vase,0.5079
+250573,unknown_test,jug,True,11.968,False,vase,vase,0.8188
+465879,unknown_test,jug,True,13.168,False,vase,vase,0.8504
+477279,unknown_test,jug,True,14.814,False,vase,vase,0.9501
+245170,unknown_test,jug,True,10.668,False,vase,vase,0.9581
+245441,unknown_test,jug,True,14.548,False,vase,vase,0.9954
+240543,unknown_test,jug,True,15.007,False,vase,vase,0.9583
+651287,unknown_test,jug,True,13.638,False,vase,vase,0.989
+249332,unknown_test,jug,True,14.057,False,vase,vase,0.979
+325376,unknown_test,jug,True,17.946,False,vase,vase,0.9836
+240006,unknown_test,jug,True,16.643,False,lamp,lamp,0.9475
+544806,unknown_test,jug,True,12.596,False,vase,vase,0.9769
+245169,unknown_test,jug,True,14.418,False,vase,vase,0.9713
+449404,unknown_test,jug,True,13.439,False,vase,vase,0.929
+251561,unknown_test,jug,True,12.88,False,vase,vase,0.956
+245335,unknown_test,jug,True,12.84,False,vase,vase,0.9849
+240144,unknown_test,jug,True,11.796,False,vase,vase,0.9881
+323157,unknown_test,jug,True,18.24,False,vase,vase,0.997
+249316,unknown_test,jug,True,15.083,False,vase,vase,0.9899
+240453,unknown_test,jug,True,14.28,False,vase,vase,0.9548
+243965,unknown_test,jug,True,22.45,True,lamp,lamp,0.9308
+254500,unknown_test,jug,True,14.646,False,vase,vase,0.9787
+465881,unknown_test,jug,True,12.695,False,vase,vase,0.9607
+310675,unknown_test,jug,True,15.937,False,vase,vase,0.6622
+255006,unknown_test,jug,True,18.923,False,vase,vase,0.8514
+468395,unknown_test,jug,True,12.861,False,vase,vase,0.9882
+468400,unknown_test,jug,True,13.314,False,vase,vase,0.987
+449399,unknown_test,jug,True,14.817,False,vase,vase,0.9876
+476285,unknown_test,jug,True,12.351,False,vase,vase,0.9444
+240001,unknown_test,jug,True,15.006,False,vase,vase,0.8424
+239716,unknown_test,jug,True,11.208,False,vase,vase,0.9874
+240127,unknown_test,jug,True,14.776,False,vase,vase,0.5043
+244842,unknown_test,jug,True,15.132,False,vase,vase,0.9979
+239984,unknown_test,jug,True,11.046,False,vase,vase,0.9663
+765030,unknown_test,jug,True,12.697,False,vase,vase,0.9975
+322987,unknown_test,jug,True,12.636,False,vase,vase,0.9709
+463968,unknown_test,jug,True,15.401,False,vase,vase,0.888
+324308,unknown_test,jug,True,15.644,False,vase,vase,0.9477
+245270,unknown_test,jug,True,13.608,False,vase,vase,0.9258
+325515,unknown_test,jug,True,20.688,True,vase,vase,0.9718
+466618,unknown_test,jug,True,17.114,False,vase,vase,0.7418
+323232,unknown_test,jug,True,10.54,False,vase,vase,0.965
+240136,unknown_test,jug,True,13.746,False,vase,vase,0.9776
+62877,unknown_test,jug,True,13.145,False,vase,vase,0.9961
+323152,unknown_test,jug,True,14.182,False,vase,vase,0.9069
+244660,unknown_test,jug,True,12.775,False,vase,vase,0.9858
+240452,unknown_test,jug,True,13.436,False,vase,vase,0.9399
+240156,unknown_test,jug,True,12.865,False,vase,vase,0.9664
+249473,unknown_test,jug,True,15.01,False,vase,vase,0.7819
+245748,unknown_test,jug,True,11.003,False,vase,vase,0.9938
+245334,unknown_test,jug,True,12.76,False,vase,vase,0.9831
+240287,unknown_test,jug,True,12.796,False,vase,vase,0.9641
+468555,unknown_test,jug,True,15.834,False,vase,vase,0.9569
+239730,unknown_test,jug,True,13.161,False,vase,vase,0.9953
+246732,unknown_test,jug,True,12.581,False,vase,vase,0.9869
+240069,unknown_test,jug,True,18.617,False,vase,vase,0.8287
+463533,unknown_test,jug,True,17.992,False,vase,vase,0.5428
+250572,unknown_test,jug,True,12.211,False,vase,vase,0.9063
+553134,unknown_test,jug,True,12.409,False,vase,vase,0.9693
+246143,unknown_test,jug,True,12.809,False,vase,vase,0.5735
+240092,unknown_test,jug,True,14.762,False,vase,vase,0.9672
+449073,unknown_test,jug,True,16.18,False,vase,vase,0.9787
+239712,unknown_test,jug,True,14.352,False,vase,vase,0.9587
+240172,unknown_test,jug,True,13.792,False,vase,vase,0.9956
+245694,unknown_test,jug,True,16.803,False,vase,vase,0.9913
+475755,unknown_test,jug,True,12.867,False,vase,vase,0.8916
+243991,unknown_test,jug,True,14.535,False,vase,vase,0.9312
+240970,unknown_test,jug,True,11.518,False,vase,vase,0.9931
+248808,unknown_test,jug,True,12.849,False,vase,vase,0.929
+323716,unknown_test,jug,True,15.554,False,vase,vase,0.9975
+476287,unknown_test,jug,True,12.3,False,vase,vase,0.9693
+449403,unknown_test,jug,True,16.46,False,vase,vase,0.9536
+250106,unknown_test,jug,True,15.083,False,vase,vase,0.9759
+244837,unknown_test,jug,True,11.86,False,vase,vase,0.9841
+248950,unknown_test,jug,True,14.224,False,vase,vase,0.9955
+468382,unknown_test,jug,True,14.275,False,vase,vase,0.8555
+322091,unknown_test,cuneiform tablet,True,22.031,True,coin,coin,0.8034
+322464,unknown_test,cuneiform tablet,True,21.098,True,cylinder seal,coin,0.5774
+321716,unknown_test,cuneiform tablet,True,19.462,False,cylinder seal,cylinder seal,0.7246
+321769,unknown_test,cuneiform tablet,True,20.582,True,coin,coin,0.9916
+321541,unknown_test,cuneiform tablet,True,20.715,True,bowl,cylinder seal,0.5663
+321951,unknown_test,cuneiform tablet,True,20.835,True,cylinder seal,cylinder seal,0.7413
+321973,unknown_test,cuneiform tablet,True,22.677,True,coin,coin,0.9937
+321970,unknown_test,cuneiform tablet,True,22.967,True,coin,coin,0.8065
+327068,unknown_test,cuneiform tablet,True,20.199,False,cylinder seal,cylinder seal,0.9904
+322023,unknown_test,cuneiform tablet,True,25.185,True,cylinder seal,cylinder seal,0.714
+325862,unknown_test,cuneiform tablet,True,19.259,False,cylinder seal,cylinder seal,0.8571
+322042,unknown_test,cuneiform tablet,True,24.166,True,coin,coin,0.6105
+328925,unknown_test,cuneiform tablet,True,21.067,True,coin,coin,0.7668
+321846,unknown_test,cuneiform tablet,True,20.092,False,lamp,coin,0.6719
+321802,unknown_test,cuneiform tablet,True,18.113,False,cylinder seal,cylinder seal,0.9818
+322021,unknown_test,cuneiform tablet,True,23.81,True,cylinder seal,coin,0.8075
+321817,unknown_test,cuneiform tablet,True,23.587,True,coin,coin,0.9596
+322052,unknown_test,cuneiform tablet,True,25.175,True,cylinder seal,cylinder seal,0.5525
+322070,unknown_test,cuneiform tablet,True,18.801,False,lamp,lamp,0.885
+321826,unknown_test,cuneiform tablet,True,23.676,True,bowl,bowl,0.568
+321526,unknown_test,cuneiform tablet,True,19.576,False,cylinder seal,cylinder seal,0.9975
+321624,unknown_test,cuneiform tablet,True,17.165,False,coin,coin,0.9745
+321697,unknown_test,cuneiform tablet,True,23.582,True,bowl,coin,0.7224
+321707,unknown_test,cuneiform tablet,True,21.551,True,cylinder seal,cylinder seal,0.8044
+321685,unknown_test,cuneiform tablet,True,23.375,True,cylinder seal,cylinder seal,0.5627
+321836,unknown_test,cuneiform tablet,True,17.357,False,lamp,coin,0.5966
+321554,unknown_test,cuneiform tablet,True,20.87,True,cylinder seal,cylinder seal,0.9068
+321839,unknown_test,cuneiform tablet,True,22.358,True,coin,coin,0.9852
+321748,unknown_test,cuneiform tablet,True,22.173,True,cylinder seal,cylinder seal,0.8145
+321732,unknown_test,cuneiform tablet,True,19.451,False,cylinder seal,cylinder seal,0.887
+321557,unknown_test,cuneiform tablet,True,19.607,False,cylinder seal,cylinder seal,0.9984
+321834,unknown_test,cuneiform tablet,True,21.579,True,coin,coin,0.9469
+322445,unknown_test,cuneiform tablet,True,18.944,False,cylinder seal,cylinder seal,0.9912
+321754,unknown_test,cuneiform tablet,True,22.706,True,coin,coin,0.9892
+322022,unknown_test,cuneiform tablet,True,25.208,True,coin,coin,0.8864
+322009,unknown_test,cuneiform tablet,True,25.408,True,cylinder seal,cylinder seal,0.5529
+326712,unknown_test,cuneiform tablet,True,27.003,True,coin,coin,0.8902
+322094,unknown_test,cuneiform tablet,True,22.441,True,lamp,coin,0.4666
+322455,unknown_test,cuneiform tablet,True,15.692,False,cylinder seal,cylinder seal,0.9986
+322463,unknown_test,cuneiform tablet,True,20.256,False,cylinder seal,cylinder seal,0.998
+321971,unknown_test,cuneiform tablet,True,23.188,True,cylinder seal,cylinder seal,0.6616
+321903,unknown_test,cuneiform tablet,True,18.69,False,coin,coin,0.9984
+321807,unknown_test,cuneiform tablet,True,20.834,True,cylinder seal,cylinder seal,0.9298
+321999,unknown_test,cuneiform tablet,True,18.078,False,coin,coin,0.8181
+322054,unknown_test,cuneiform tablet,True,21.043,True,figure,coin,0.3705
+321988,unknown_test,cuneiform tablet,True,16.095,False,coin,coin,0.9981
+321760,unknown_test,cuneiform tablet,True,20.586,True,bowl,cylinder seal,0.4033
+322099,unknown_test,cuneiform tablet,True,25.059,True,bowl,coin,0.8126
+321686,unknown_test,cuneiform tablet,True,23.109,True,cylinder seal,cylinder seal,0.6828
+321530,unknown_test,cuneiform tablet,True,22.981,True,cylinder seal,cylinder seal,0.7252
+321810,unknown_test,cuneiform tablet,True,18.062,False,coin,coin,0.9986
+321706,unknown_test,cuneiform tablet,True,22.682,True,cylinder seal,cylinder seal,0.9427
+321940,unknown_test,cuneiform tablet,True,20.193,False,coin,coin,0.9994
+321965,unknown_test,cuneiform tablet,True,23.275,True,cylinder seal,coin,0.8711
+325500,unknown_test,cuneiform tablet,True,22.16,True,coin,coin,0.9984
+322083,unknown_test,cuneiform tablet,True,18.775,False,coin,coin,0.9538
+321786,unknown_test,cuneiform tablet,True,19.862,False,cylinder seal,cylinder seal,0.7333
+321691,unknown_test,cuneiform tablet,True,20.334,True,bowl,coin,0.5162
+322000,unknown_test,cuneiform tablet,True,21.453,True,coin,coin,0.9925
+321814,unknown_test,cuneiform tablet,True,23.76,True,coin,coin,0.9813
+321550,unknown_test,cuneiform tablet,True,16.641,False,cylinder seal,cylinder seal,0.9983
+321757,unknown_test,cuneiform tablet,True,18.022,False,coin,coin,0.9799
+322105,unknown_test,cuneiform tablet,True,23.077,True,lamp,figure,0.4606
+328932,unknown_test,cuneiform tablet,True,22.045,True,bowl,coin,0.793
+321875,unknown_test,cuneiform tablet,True,20.756,True,figure,figure,0.912
+321955,unknown_test,cuneiform tablet,True,21.594,True,coin,coin,0.9986
+321764,unknown_test,cuneiform tablet,True,19.163,False,cylinder seal,cylinder seal,0.6619
+321758,unknown_test,cuneiform tablet,True,20.279,False,cylinder seal,coin,0.7992
+321736,unknown_test,cuneiform tablet,True,24.623,True,lamp,coin,0.7842
+321997,unknown_test,cuneiform tablet,True,21.465,True,coin,coin,0.9881
+321539,unknown_test,cuneiform tablet,True,19.809,False,cylinder seal,cylinder seal,0.9647
+321939,unknown_test,cuneiform tablet,True,22.302,True,coin,coin,0.7895
+321735,unknown_test,cuneiform tablet,True,24.239,True,lamp,coin,0.791
+321987,unknown_test,cuneiform tablet,True,25.002,True,bowl,coin,0.905
+321688,unknown_test,cuneiform tablet,True,19.995,False,cylinder seal,cylinder seal,0.8034
+322059,unknown_test,cuneiform tablet,True,18.982,False,coin,coin,0.9939
+321948,unknown_test,cuneiform tablet,True,23.252,True,cylinder seal,cylinder seal,0.5578
+322473,unknown_test,cuneiform tablet,True,18.568,False,cylinder seal,cylinder seal,0.9406
+321680,unknown_test,cuneiform tablet,True,19.921,False,bowl,bowl,0.5377
+321874,unknown_test,cuneiform tablet,True,19.538,False,coin,coin,0.9998
+321870,unknown_test,cuneiform tablet,True,19.558,False,coin,coin,0.9552
+322095,unknown_test,cuneiform tablet,True,19.346,False,lamp,lamp,0.8761
+321844,unknown_test,cuneiform tablet,True,15.669,False,lamp,coin,0.6448
+321742,unknown_test,cuneiform tablet,True,23.095,True,coin,coin,0.9987
+322450,unknown_test,cuneiform tablet,True,21.48,True,cylinder seal,cylinder seal,0.9536
+321865,unknown_test,cuneiform tablet,True,22.442,True,lamp,figure,0.2786
+322104,unknown_test,cuneiform tablet,True,25.059,True,bowl,coin,0.8126
+321950,unknown_test,cuneiform tablet,True,21.012,True,coin,coin,0.9369
+322103,unknown_test,cuneiform tablet,True,20.832,True,coin,coin,0.8876
+321712,unknown_test,cuneiform tablet,True,21.118,True,lamp,cylinder seal,0.3947
+322453,unknown_test,cuneiform tablet,True,19.273,False,cylinder seal,cylinder seal,0.9968
+321949,unknown_test,cuneiform tablet,True,25.297,True,cylinder seal,vase,0.3832
+321773,unknown_test,cuneiform tablet,True,20.529,True,cylinder seal,cylinder seal,0.8826
+321529,unknown_test,cuneiform tablet,True,19.172,False,cylinder seal,cylinder seal,0.9959
+321796,unknown_test,cuneiform tablet,True,23.023,True,cylinder seal,cylinder seal,0.7788
+321776,unknown_test,cuneiform tablet,True,19.392,False,cylinder seal,cylinder seal,0.9228
+328926,unknown_test,cuneiform tablet,True,20.192,False,coin,coin,0.8485
+321710,unknown_test,cuneiform tablet,True,20.265,False,cylinder seal,cylinder seal,0.9454
+325503,unknown_test,cuneiform tablet,True,20.624,True,coin,coin,0.9985
+321725,unknown_test,cuneiform tablet,True,22.269,True,cylinder seal,cylinder seal,0.8757
+328793,unknown_test,cuneiform tablet,True,23.588,True,coin,coin,0.9432
+321805,unknown_test,cuneiform tablet,True,21.307,True,lamp,coin,0.6987
+322460,unknown_test,cuneiform tablet,True,18.268,False,cylinder seal,cylinder seal,0.9952
+325843,unknown_test,cuneiform tablet,True,20.54,True,cylinder seal,cylinder seal,0.9903
+321972,unknown_test,cuneiform tablet,True,22.58,True,bowl,bowl,0.5208
+322043,unknown_test,cuneiform tablet,True,20.444,True,lamp,coin,0.6735
+321825,unknown_test,cuneiform tablet,True,19.89,False,cylinder seal,cylinder seal,0.997
+325091,unknown_test,cuneiform tablet,True,23.612,True,cylinder seal,cylinder seal,0.9157
+321741,unknown_test,cuneiform tablet,True,23.072,True,cylinder seal,coin,0.689
+321540,unknown_test,cuneiform tablet,True,22.201,True,coin,coin,0.9939
+327384,unknown_test,cuneiform tablet,True,22.368,True,cylinder seal,coin,0.7139
+321867,unknown_test,cuneiform tablet,True,20.416,True,lamp,lamp,0.5313
+321791,unknown_test,cuneiform tablet,True,20.299,False,coin,coin,0.9917
+321772,unknown_test,cuneiform tablet,True,20.343,True,coin,coin,0.9052
+325501,unknown_test,cuneiform tablet,True,18.989,False,coin,coin,0.9994
+321929,unknown_test,cuneiform tablet,True,22.22,True,cylinder seal,coin,0.5357
+321854,unknown_test,cuneiform tablet,True,22.127,True,bowl,bowl,0.8179
+321699,unknown_test,cuneiform tablet,True,22.445,True,cylinder seal,cylinder seal,0.6342
+321782,unknown_test,cuneiform tablet,True,23.578,True,cylinder seal,coin,0.8281
+321855,unknown_test,cuneiform tablet,True,22.592,True,figure,figure,0.7176
+321910,unknown_test,cuneiform tablet,True,20.644,True,coin,coin,0.9931
+321763,unknown_test,cuneiform tablet,True,23.0,True,cylinder seal,cylinder seal,0.7575
+322067,unknown_test,cuneiform tablet,True,24.074,True,coin,coin,0.9086
+325846,unknown_test,cuneiform tablet,True,18.949,False,cylinder seal,cylinder seal,0.9813
+325860,unknown_test,cuneiform tablet,True,22.255,True,cylinder seal,cylinder seal,0.9589
+321794,unknown_test,cuneiform tablet,True,22.386,True,cylinder seal,cylinder seal,0.8822
+328928,unknown_test,cuneiform tablet,True,21.406,True,lamp,lamp,0.6895
+325845,unknown_test,cuneiform tablet,True,23.072,True,cylinder seal,cylinder seal,0.8007
+322012,unknown_test,cuneiform tablet,True,20.422,True,coin,coin,0.9322
+321534,unknown_test,cuneiform tablet,True,17.544,False,cylinder seal,cylinder seal,0.996
+321981,unknown_test,cuneiform tablet,True,21.935,True,cylinder seal,cylinder seal,0.7292
+326715,unknown_test,cuneiform tablet,True,17.008,False,cylinder seal,cylinder seal,0.9978
+321731,unknown_test,cuneiform tablet,True,22.989,True,cylinder seal,cylinder seal,0.4851
+321944,unknown_test,cuneiform tablet,True,25.807,True,cylinder seal,cylinder seal,0.5857
+321982,unknown_test,cuneiform tablet,True,23.562,True,cylinder seal,cylinder seal,0.3255
+321803,unknown_test,cuneiform tablet,True,22.717,True,coin,coin,0.9669
+321770,unknown_test,cuneiform tablet,True,20.518,True,cylinder seal,cylinder seal,0.9921
+325269,unknown_test,cuneiform tablet,True,21.673,True,cylinder seal,cylinder seal,0.927
+321789,unknown_test,cuneiform tablet,True,23.778,True,coin,coin,0.9105
+321619,unknown_test,cuneiform tablet,True,21.698,True,bowl,bowl,0.8242
+322066,unknown_test,cuneiform tablet,True,22.132,True,bowl,coin,0.8763
+322109,unknown_test,cuneiform tablet,True,23.067,True,bowl,bowl,0.5425
+322026,unknown_test,cuneiform tablet,True,23.672,True,figure,coin,0.6875
+324341,unknown_test,cuneiform tablet,True,27.326,True,cylinder seal,vase,0.7845
+322467,unknown_test,cuneiform tablet,True,17.616,False,cylinder seal,cylinder seal,0.9942
+321787,unknown_test,cuneiform tablet,True,24.106,True,coin,coin,0.9813
+321713,unknown_test,cuneiform tablet,True,24.167,True,coin,coin,0.7867
+321994,unknown_test,cuneiform tablet,True,23.806,True,bowl,coin,0.3148
+321869,unknown_test,cuneiform tablet,True,25.064,True,bowl,coin,0.6387
+321558,unknown_test,cuneiform tablet,True,19.827,False,cylinder seal,cylinder seal,0.9941
+249638,unknown_test,ring,True,21.198,True,coin,coin,0.8274
+50300,unknown_test,ring,True,21.033,True,figure,figure,0.4728
+253536,unknown_test,ring,True,22.547,True,lamp,coin,0.3927
+50285,unknown_test,ring,True,20.343,True,figure,cylinder seal,0.4816
+49980,unknown_test,ring,True,20.176,False,figure,figure,0.6442
+464789,unknown_test,ring,True,22.972,True,figure,figure,0.4916
+243488,unknown_test,ring,True,24.576,True,bowl,bowl,0.3377
+243524,unknown_test,ring,True,21.569,True,bowl,bowl,0.46
+60694,unknown_test,ring,True,22.18,True,vase,vase,0.8743
+253680,unknown_test,ring,True,17.507,False,coin,coin,0.9994
+464790,unknown_test,ring,True,21.64,True,figure,coin,0.8411
+478913,unknown_test,ring,True,15.915,False,lamp,lamp,0.8553
+50268,unknown_test,ring,True,18.111,False,figure,figure,0.455
+478914,unknown_test,ring,True,17.763,False,lamp,lamp,0.9853
+477773,unknown_test,ring,True,19.199,False,bowl,bowl,0.8398
+246055,unknown_test,ring,True,20.147,False,lamp,lamp,0.4111
+51925,unknown_test,ring,True,20.609,True,lamp,bowl,0.4858
+50274,unknown_test,ring,True,20.809,True,coin,coin,0.7047
+245930,unknown_test,ring,True,18.384,False,coin,coin,0.9399
+50380,unknown_test,ring,True,24.722,True,figure,coin,0.5366
+323884,unknown_test,ring,True,21.998,True,coin,coin,0.8861
+256677,unknown_test,ring,True,23.792,True,coin,coin,0.7467
+50258,unknown_test,ring,True,19.516,False,coin,coin,0.9595
+50208,unknown_test,ring,True,20.983,True,figure,cylinder seal,0.4844
+712072,unknown_test,ring,True,21.502,True,coin,coin,0.6448
+449847,unknown_test,ring,True,19.969,False,coin,coin,0.9888
+479228,unknown_test,ring,True,20.773,True,lamp,lamp,0.4192
+326058,unknown_test,ring,True,21.977,True,cylinder seal,coin,0.7171
+465577,unknown_test,ring,True,23.394,True,lamp,bowl,0.582
+449204,unknown_test,ring,True,17.536,False,coin,coin,0.9983
+64323,unknown_test,ring,True,23.195,True,figure,figure,0.4993
+325822,unknown_test,ring,True,22.649,True,figure,cylinder seal,0.4829
+243533,unknown_test,ring,True,20.872,True,lamp,lamp,0.679
+243638,unknown_test,ring,True,20.07,False,coin,coin,0.9916
+50148,unknown_test,ring,True,19.291,False,figure,figure,0.6459
+465283,unknown_test,ring,True,21.839,True,lamp,lamp,0.6362
+465295,unknown_test,ring,True,22.377,True,bowl,bowl,0.7083
+478917,unknown_test,ring,True,16.021,False,bowl,bowl,0.8157
+249583,unknown_test,ring,True,21.847,True,lamp,coin,0.4795
+64234,unknown_test,ring,True,23.292,True,figure,coin,0.4297
+64314,unknown_test,ring,True,22.614,True,figure,cylinder seal,0.5741
+64320,unknown_test,ring,True,20.214,False,figure,figure,0.4142
+477772,unknown_test,ring,True,16.594,False,lamp,lamp,0.8961
+64324,unknown_test,ring,True,22.791,True,figure,figure,0.4009
+243471,unknown_test,ring,True,21.941,True,coin,coin,0.9894
+50149,unknown_test,ring,True,20.159,False,figure,figure,0.6092
+243529,unknown_test,ring,True,19.838,False,lamp,lamp,0.7809
+50210,unknown_test,ring,True,23.3,True,figure,coin,0.5725
+50244,unknown_test,ring,True,22.57,True,coin,coin,0.9145
+251881,unknown_test,ring,True,24.233,True,coin,coin,0.9601
+50281,unknown_test,ring,True,21.317,True,coin,coin,0.9451
+253776,unknown_test,ring,True,25.239,True,coin,coin,0.7053
+247542,unknown_test,ring,True,13.448,False,coin,coin,1.0
+50287,unknown_test,ring,True,22.074,True,figure,coin,0.8287
+324998,unknown_test,ring,True,19.788,False,lamp,lamp,0.9091
+465145,unknown_test,ring,True,18.236,False,lamp,coin,0.6591
+50133,unknown_test,ring,True,20.696,True,figure,figure,0.4675
+465280,unknown_test,ring,True,21.84,True,lamp,lamp,0.4668
+465499,unknown_test,ring,True,18.211,False,lamp,lamp,0.82
+465414,unknown_test,ring,True,19.011,False,lamp,bowl,0.5461
+246059,unknown_test,ring,True,18.584,False,lamp,lamp,0.9214
+50253,unknown_test,ring,True,20.037,False,figure,figure,0.4795
+248265,unknown_test,ring,True,15.351,False,coin,coin,1.0
+64238,unknown_test,ring,True,25.128,True,lamp,lamp,0.4342
+327448,unknown_test,ring,True,19.2,False,cylinder seal,cylinder seal,0.7406
+323252,unknown_test,ring,True,23.608,True,lamp,lamp,0.5253
+50246,unknown_test,ring,True,19.306,False,figure,coin,0.3947
+449887,unknown_test,ring,True,20.67,True,lamp,lamp,0.7254
+249584,unknown_test,ring,True,19.457,False,lamp,bowl,0.2596
+50261,unknown_test,ring,True,16.585,False,figure,figure,0.7063
+325821,unknown_test,ring,True,22.649,True,figure,cylinder seal,0.4829
+465975,unknown_test,ring,True,16.688,False,lamp,bowl,0.5027
+50384,unknown_test,ring,True,21.036,True,figure,coin,0.3641
+451111,unknown_test,ring,True,22.929,True,coin,coin,0.3932
+243528,unknown_test,ring,True,21.919,True,lamp,lamp,0.6757
+50130,unknown_test,ring,True,21.087,True,figure,figure,0.8478
+446010,unknown_test,ring,True,21.168,True,lamp,lamp,0.8821
+322905,unknown_test,ring,True,21.871,True,lamp,coin,0.3359
+478984,unknown_test,ring,True,19.408,False,lamp,lamp,0.8569
+253679,unknown_test,ring,True,23.012,True,figure,figure,0.728
+249580,unknown_test,ring,True,23.364,True,lamp,lamp,0.4183
+50381,unknown_test,ring,True,16.056,False,coin,coin,0.9871
+243570,unknown_test,ring,True,22.831,True,lamp,coin,0.3352
+53395,unknown_test,ring,True,21.236,True,coin,coin,0.7521
+246054,unknown_test,ring,True,23.662,True,lamp,lamp,0.676
+50222,unknown_test,ring,True,19.609,False,figure,figure,0.4867
+249585,unknown_test,ring,True,18.833,False,coin,coin,0.8684
+53397,unknown_test,ring,True,23.513,True,coin,coin,0.7519
+449656,unknown_test,ring,True,22.911,True,coin,coin,0.7119
+451112,unknown_test,ring,True,20.715,True,lamp,lamp,0.4409
+248627,unknown_test,ring,True,23.52,True,coin,coin,0.9023
+246768,unknown_test,ring,True,19.956,False,lamp,lamp,0.6821
+465276,unknown_test,ring,True,18.169,False,bowl,bowl,0.9129
+44820,unknown_test,ring,True,21.035,True,coin,coin,0.9917
+465268,unknown_test,ring,True,21.968,True,figure,figure,0.4344
+322538,unknown_test,ring,True,20.559,True,lamp,coin,0.4879
+243648,unknown_test,ring,True,20.113,False,bowl,bowl,0.3591
+456926,unknown_test,ring,True,19.493,False,lamp,lamp,0.7276
+64304,unknown_test,ring,True,22.156,True,figure,figure,0.5414
+44093,unknown_test,ring,True,21.76,True,figure,lamp,0.3547
+243646,unknown_test,ring,True,18.515,False,bowl,bowl,0.4284
+446252,unknown_test,ring,True,22.475,True,coin,coin,0.8935
+453048,unknown_test,ring,True,19.971,False,lamp,lamp,0.8492
+50131,unknown_test,ring,True,20.312,True,figure,figure,0.5651
+464574,unknown_test,ring,True,20.959,True,coin,coin,0.6992
+449886,unknown_test,ring,True,22.542,True,lamp,cylinder seal,0.3857
+446857,unknown_test,ring,True,20.333,True,lamp,figure,0.4065
+50120,unknown_test,ring,True,21.08,True,coin,coin,0.8425
+326625,unknown_test,ring,True,17.591,False,coin,coin,0.9995
+465293,unknown_test,ring,True,19.875,False,lamp,lamp,0.6242
+243656,unknown_test,ring,True,18.472,False,lamp,lamp,0.7189
+465285,unknown_test,ring,True,21.363,True,figure,figure,0.6727
+551292,unknown_test,ring,True,19.991,False,lamp,lamp,0.8038
+551620,unknown_test,ring,True,19.96,False,coin,coin,0.9143
+478916,unknown_test,ring,True,15.738,False,lamp,lamp,0.9658
+243706,unknown_test,ring,True,18.863,False,bowl,bowl,0.5403
+449655,unknown_test,ring,True,25.162,True,lamp,cylinder seal,0.4831
+64317,unknown_test,ring,True,15.667,False,coin,coin,0.9966
+59759,unknown_test,ring,True,19.622,False,coin,coin,0.9658
+50260,unknown_test,ring,True,22.616,True,figure,lamp,0.3546
+243469,unknown_test,ring,True,15.947,False,coin,coin,0.9999
+243479,unknown_test,ring,True,19.983,False,lamp,lamp,0.8868
+256672,unknown_test,ring,True,23.881,True,lamp,figure,0.7884
+317667,unknown_test,ring,True,22.652,True,lamp,bowl,0.5406
+50119,unknown_test,ring,True,22.955,True,figure,coin,0.5388
+465467,unknown_test,ring,True,19.659,False,lamp,lamp,0.5826
+243645,unknown_test,ring,True,21.821,True,coin,coin,0.8202
+476384,unknown_test,ring,True,21.669,True,coin,coin,0.962
+243621,unknown_test,ring,True,20.313,True,lamp,lamp,0.7809
+465450,unknown_test,ring,True,16.992,False,coin,coin,0.9997
+246671,unknown_test,ring,True,22.138,True,bowl,cylinder seal,0.4495
+50303,unknown_test,ring,True,20.579,True,bowl,cylinder seal,0.6664
+325877,unknown_test,ring,True,15.993,False,coin,coin,0.9993
+50224,unknown_test,ring,True,17.569,False,figure,figure,0.453
+465288,unknown_test,ring,True,22.221,True,lamp,cylinder seal,0.5967
+244352,unknown_test,ring,True,22.058,True,coin,coin,0.8289
+253681,unknown_test,ring,True,21.033,True,figure,figure,0.8795
+50203,unknown_test,ring,True,19.39,False,figure,figure,0.8291
+50259,unknown_test,ring,True,16.375,False,figure,figure,0.6276
+53392,unknown_test,ring,True,19.542,False,figure,figure,0.8653
+465587,unknown_test,ring,True,19.668,False,lamp,figure,0.5926
+245926,unknown_test,ring,True,19.972,False,lamp,lamp,0.5761
+50200,unknown_test,ring,True,21.009,True,figure,coin,0.3906
+465299,unknown_test,ring,True,19.051,False,lamp,lamp,0.679
+50409,unknown_test,ring,True,21.02,True,figure,figure,0.5838
+39382,unknown_test,ring,True,20.589,True,figure,figure,0.9016
+50271,unknown_test,ring,True,20.315,True,figure,figure,0.7374
+478993,unknown_test,ring,True,22.73,True,lamp,coin,0.4678
+465803,unknown_test,ring,True,19.75,False,lamp,lamp,0.8292
+465469,unknown_test,ring,True,18.459,False,lamp,lamp,0.7167

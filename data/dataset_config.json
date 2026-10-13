@@ -1,0 +1,22 @@
+{
+  "known": [
+    "bowl",
+    "vase",
+    "figure",
+    "coin",
+    "lamp",
+    "cylinder seal"
+  ],
+  "unseen": [
+    "jug",
+    "cuneiform tablet",
+    "ring"
+  ],
+  "seed": 42,
+  "train_frac": 0.7,
+  "val_frac": 0.15,
+  "test_frac": 0.15,
+  "n_known_per_class": 400,
+  "n_unseen_per_class": 150,
+  "max_per_signature": 5
+}

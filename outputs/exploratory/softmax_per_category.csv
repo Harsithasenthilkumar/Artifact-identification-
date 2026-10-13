@@ -1,0 +1,4 @@
+model,softmax AUROC,AUROC cuneiform tablet,AUROC jug,AUROC ring
+Image only,0.8667,0.8826,0.7897,0.9279
+Metadata only,0.7327,0.6554,0.7938,0.7489
+Image + Metadata,0.8632,0.8555,0.823,0.9112

@@ -1,0 +1,7 @@
+Comparison,Mean difference,95% CI low,95% CI high,CI excludes 0
+Known accuracy: Image + Metadata - Image only,0.0031,-0.0056,0.0139,False
+Mahalanobis AUROC: Image + Metadata - Image only,0.0607,0.0443,0.077,True
+Mahalanobis AUROC: Image + Metadata - Metadata only,0.0665,0.0218,0.11,True
+Mahalanobis AUROC: Image only - Metadata only,0.0058,-0.0392,0.0522,False
+Image only: Softmax AUROC - Mahalanobis AUROC,0.1507,0.1189,0.1838,True
+Image + Metadata: Softmax AUROC - Mahalanobis AUROC,0.0862,0.0541,0.1179,True

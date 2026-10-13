@@ -1,0 +1,22 @@
+# Raw MET dump (~300 MB, over GitHub's 100 MB limit) - download link is in inspect_met.py
+data/MetObjects.csv
+
+# Downloaded artifact images and thumbnails
+data/images/
+outputs/phase1/thumbs/
+
+# Python / environment
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Presentation files
+*.pptx

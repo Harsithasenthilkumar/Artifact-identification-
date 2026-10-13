@@ -1,0 +1,2121 @@
+category,Object ID,status,has_image,n_additional_images
+album leaf,451289,ok,True,5
+album leaf,51763,ok,True,0
+album leaf,51744,ok,True,0
+album leaf,45764,ok,True,0
+album leaf,53575,ok,True,0
+album leaf,54749,ok,True,0
+album leaf,54676,ok,True,0
+album leaf,54673,ok,True,0
+album leaf,454625,ok,True,5
+album leaf,40440,ok,True,0
+album leaf,53573,ok,True,0
+album leaf,54748,ok,True,0
+album leaf,57222,ok,True,0
+album leaf,70090,ok,True,0
+album leaf,51738,ok,True,0
+album leaf,54622,ok,True,0
+album leaf,51772,ok,True,0
+album leaf,54617,ok,True,0
+album leaf,54627,ok,True,0
+album leaf,36091,ok,True,0
+album leaf,54710,ok,True,0
+album leaf,49159,ok,True,0
+album leaf,451268,ok,True,3
+album leaf,51773,ok,True,0
+album leaf,54615,ok,True,0
+album leaf,51610,ok,True,0
+album leaf,51735,ok,True,0
+album leaf,54642,ok,True,0
+album leaf,54609,ok,True,0
+album leaf,451281,ok,True,4
+album leaf,54671,ok,True,0
+album leaf,45677,ok,True,0
+album leaf,51687,ok,True,0
+album leaf,57214,ok,True,0
+album leaf,51504,ok,True,0
+album leaf,36063,ok,True,0
+album leaf,54734,ok,True,0
+album leaf,451975,ok,True,1
+album leaf,51739,ok,True,0
+album leaf,51501,ok,True,0
+bead,639379,ok,True,0
+bead,322794,ok,True,0
+bead,557112,ok,True,5
+bead,325488,ok,True,0
+bead,249945,ok,True,0
+bead,60599,ok,True,0
+bead,323081,ok,True,0
+bead,249790,ok,True,1
+bead,856157,ok,True,2
+bead,249209,ok,True,0
+bead,856158,ok,True,2
+bead,43183,not_found,False,0
+bead,327176,ok,True,0
+bead,308967,ok,True,0
+bead,450840,ok,True,0
+bead,249651,ok,True,0
+bead,249943,ok,True,0
+bead,327153,ok,True,0
+bead,477072,ok,True,4
+bead,249791,ok,True,1
+bead,322427,ok,True,0
+bead,252149,ok,True,2
+bead,42991,ok,True,0
+bead,856750,ok,True,1
+bead,249917,ok,True,0
+bead,43168,not_found,False,0
+bead,43155,not_found,False,0
+bead,856787,ok,True,0
+bead,323066,ok,True,0
+bead,43129,not_found,False,0
+bead,457868,ok,True,2
+bead,253657,ok,True,0
+bead,856788,ok,True,0
+bead,315372,ok,True,0
+bead,60565,ok,True,0
+bead,325209,ok,True,1
+bead,322550,ok,True,3
+bead,249755,ok,True,1
+bead,453023,ok,True,0
+bead,856391,ok,True,0
+bottle,465669,ok,True,0
+bottle,550919,ok,True,3
+bottle,310655,ok,True,2
+bottle,47691,ok,True,4
+bottle,449440,ok,True,0
+bottle,308640,ok,True,0
+bottle,316366,ok,False,0
+bottle,308546,ok,True,1
+bottle,827587,ok,True,5
+bottle,445282,ok,True,3
+bottle,308412,ok,True,1
+bottle,313287,ok,True,2
+bottle,447026,ok,True,3
+bottle,308622,ok,True,0
+bottle,46637,ok,True,1
+bottle,307868,ok,True,0
+bottle,50026,ok,True,0
+bottle,239668,ok,True,0
+bottle,309448,ok,True,1
+bottle,245228,ok,True,0
+bottle,307873,ok,True,1
+bottle,314364,ok,True,0
+bottle,315759,ok,True,0
+bottle,308609,ok,True,1
+bottle,308404,ok,True,1
+bottle,244597,ok,True,0
+bottle,245224,ok,True,0
+bottle,42531,ok,True,0
+bottle,47375,ok,True,2
+bottle,246902,ok,True,0
+bottle,308450,ok,True,0
+bottle,323230,ok,True,0
+bottle,308542,ok,True,1
+bottle,309325,ok,True,1
+bottle,310355,ok,True,0
+bottle,48663,ok,True,0
+bottle,308465,ok,True,1
+bottle,47394,ok,True,0
+bottle,312606,http_403,False,0
+bottle,47029,ok,True,0
+bowl,326504,ok,True,0
+bowl,49278,ok,True,1
+bowl,314174,ok,True,0
+bowl,50519,ok,True,2
+bowl,52389,http_403,False,0
+bowl,43842,ok,True,1
+bowl,253643,ok,True,0
+bowl,308342,ok,True,0
+bowl,478845,ok,True,0
+bowl,46457,ok,True,0
+bowl,64484,ok,True,3
+bowl,316831,ok,True,1
+bowl,453299,ok,True,2
+bowl,453850,ok,True,5
+bowl,50658,ok,True,4
+bowl,451868,ok,True,2
+bowl,308312,ok,True,1
+bowl,449611,ok,True,3
+bowl,448540,ok,True,2
+bowl,449035,ok,True,10
+bowl,50746,ok,True,3
+bowl,245430,ok,True,0
+bowl,313317,ok,False,0
+bowl,245729,ok,True,0
+bowl,449494,ok,True,8
+bowl,308328,ok,True,0
+bowl,833908,ok,False,0
+bowl,324652,ok,True,2
+bowl,308572,ok,True,0
+bowl,447158,ok,True,1
+bowl,52416,ok,True,0
+bowl,239851,ok,True,0
+bowl,47338,ok,True,0
+bowl,449414,ok,True,4
+bowl,52761,ok,True,1
+bowl,544132,ok,True,2
+bowl,451181,ok,True,4
+bowl,308422,ok,True,0
+bowl,449370,ok,True,0
+bowl,318465,ok,True,4
+box,60903,ok,True,1
+box,40267,ok,True,2
+box,57956,ok,True,16
+box,42571,ok,True,11
+box,48810,ok,True,2
+box,62236,ok,True,5
+box,40235,ok,True,4
+box,40174,ok,True,4
+box,40933,ok,True,0
+box,44347,ok,True,1
+box,58075,ok,True,7
+box,58355,ok,True,3
+box,57935,ok,True,6
+box,40540,ok,True,1
+box,57769,ok,True,2
+box,59845,ok,True,2
+box,60925,ok,True,1
+box,464125,ok,True,7
+box,444617,ok,True,2
+box,40348,ok,True,1
+box,39681,ok,True,1
+box,310304,ok,True,0
+box,62213,ok,True,3
+box,57962,ok,True,13
+box,468512,ok,True,7
+box,454739,ok,True,2
+box,55973,ok,True,11
+box,471733,ok,True,7
+box,42530,ok,True,2
+box,57779,ok,True,3
+box,667294,ok,True,1
+box,57802,ok,True,2
+box,40532,ok,True,2
+box,454752,ok,True,18
+box,464133,ok,True,8
+box,471563,ok,True,7
+box,53643,ok,True,25
+box,39468,ok,True,1
+box,670964,ok,True,1
+box,53415,ok,True,1
+bracelet,316607,ok,True,0
+bracelet,256668,ok,True,1
+bracelet,256025,not_found,False,0
+bracelet,244350,http_403,False,0
+bracelet,64290,ok,True,0
+bracelet,45535,ok,True,0
+bracelet,545082,ok,True,0
+bracelet,325165,ok,True,2
+bracelet,464037,ok,True,3
+bracelet,325600,ok,True,0
+bracelet,256031,ok,True,0
+bracelet,325164,ok,True,1
+bracelet,446224,ok,True,0
+bracelet,453006,ok,True,0
+bracelet,315764,ok,True,2
+bracelet,242998,ok,True,1
+bracelet,464955,ok,True,0
+bracelet,239930,ok,True,0
+bracelet,42845,not_found,False,0
+bracelet,239929,ok,True,0
+bracelet,446768,ok,True,2
+bracelet,327031,ok,True,0
+bracelet,44511,ok,True,0
+bracelet,124879,ok,True,0
+bracelet,323250,ok,True,0
+bracelet,53350,ok,True,0
+bracelet,468419,ok,True,5
+bracelet,322564,ok,True,0
+bracelet,446041,ok,True,0
+bracelet,244362,ok,True,0
+bracelet,552335,ok,True,0
+bracelet,324679,ok,True,0
+bracelet,326030,ok,True,0
+bracelet,42853,not_found,False,0
+bracelet,444695,ok,True,3
+bracelet,37653,ok,True,0
+bracelet,446733,ok,True,3
+bracelet,446981,ok,True,4
+bracelet,246437,ok,True,0
+bracelet,446026,ok,True,0
+brooch,465241,ok,True,1
+brooch,478176,ok,True,0
+brooch,469061,ok,True,0
+brooch,465798,ok,True,0
+brooch,465239,http_403,False,0
+brooch,466248,ok,True,1
+brooch,468449,ok,True,1
+brooch,465766,ok,True,1
+brooch,466261,ok,True,3
+brooch,465345,ok,True,0
+brooch,464890,ok,True,0
+brooch,465125,ok,True,1
+brooch,465297,ok,True,0
+brooch,465128,ok,True,0
+brooch,465333,ok,True,1
+brooch,464837,ok,True,0
+brooch,468302,ok,True,0
+brooch,464896,ok,True,0
+brooch,464854,ok,True,2
+brooch,465094,ok,True,0
+brooch,465797,ok,True,0
+brooch,464843,ok,True,0
+brooch,465342,ok,True,0
+brooch,466245,ok,True,0
+brooch,464920,ok,True,0
+brooch,464822,ok,True,0
+brooch,465821,ok,True,0
+brooch,463127,ok,True,0
+brooch,464990,ok,True,1
+brooch,465371,ok,True,0
+brooch,468293,ok,True,1
+brooch,465337,ok,True,1
+brooch,464817,ok,True,0
+brooch,465095,ok,True,0
+brooch,466286,ok,True,15
+brooch,464853,ok,True,0
+brooch,464840,ok,True,0
+brooch,464828,ok,True,0
+brooch,465396,ok,True,0
+brooch,468473,ok,True,3
+coin,457646,ok,True,1
+coin,457472,ok,True,1
+coin,457544,ok,True,1
+coin,457552,ok,True,1
+coin,453438,ok,True,3
+coin,323498,ok,True,1
+coin,457216,ok,True,1
+coin,457459,ok,True,1
+coin,454764,ok,True,4
+coin,457533,ok,True,3
+coin,457139,ok,True,1
+coin,457153,ok,True,1
+coin,457166,ok,True,1
+coin,323501,ok,True,1
+coin,457148,ok,True,1
+coin,457709,ok,True,1
+coin,457170,ok,True,1
+coin,453436,ok,True,3
+coin,457663,ok,True,1
+coin,457466,ok,True,1
+coin,457353,ok,True,1
+coin,457131,ok,True,1
+coin,457324,ok,True,1
+coin,457400,ok,True,1
+coin,457235,ok,True,1
+coin,322357,ok,True,1
+coin,457376,ok,True,1
+coin,457264,ok,True,1
+coin,457320,ok,True,1
+coin,457694,ok,True,1
+coin,457496,ok,True,1
+coin,457150,ok,True,1
+coin,457457,ok,True,1
+coin,457602,ok,True,1
+coin,323248,ok,True,1
+coin,322350,ok,True,1
+coin,457189,ok,True,1
+coin,457568,ok,True,1
+coin,457237,ok,True,1
+coin,457397,ok,True,1
+column-krater fragment,750523,ok,True,1
+column-krater fragment,728830,ok,True,1
+column-krater fragment,728941,ok,True,1
+column-krater fragment,728871,ok,True,1
+column-krater fragment,728878,ok,True,1
+column-krater fragment,728918,ok,True,1
+column-krater fragment,729094,ok,True,1
+column-krater fragment,729002,ok,True,1
+column-krater fragment,729080,ok,True,1
+column-krater fragment,728806,ok,True,1
+column-krater fragment,729146,ok,True,1
+column-krater fragment,729143,ok,True,1
+column-krater fragment,729102,ok,True,1
+column-krater fragment,750517,ok,True,1
+column-krater fragment,728882,ok,True,1
+column-krater fragment,749960,ok,True,1
+column-krater fragment,728827,ok,True,1
+column-krater fragment,728902,ok,True,1
+column-krater fragment,749927,ok,True,1
+column-krater fragment,728995,ok,True,1
+column-krater fragment,729194,ok,True,1
+column-krater fragment,729068,ok,True,1
+column-krater fragment,728987,ok,True,1
+column-krater fragment,749886,ok,True,1
+column-krater fragment,728796,ok,True,1
+column-krater fragment,729179,ok,True,1
+column-krater fragment,728808,ok,True,1
+column-krater fragment,728893,ok,True,1
+column-krater fragment,749972,ok,True,1
+column-krater fragment,729013,ok,True,1
+column-krater fragment,729085,ok,True,1
+column-krater fragment,728999,ok,True,1
+column-krater fragment,749937,ok,True,1
+column-krater fragment,729027,ok,True,1
+column-krater fragment,728853,ok,True,1
+column-krater fragment,729045,ok,True,1
+column-krater fragment,728815,ok,True,1
+column-krater fragment,749952,ok,True,1
+column-krater fragment,728969,ok,True,1
+column-krater fragment,728875,ok,True,1
+cuneiform tablet,321869,ok,True,1
+cuneiform tablet,321707,ok,True,1
+cuneiform tablet,322038,ok,True,1
+cuneiform tablet,321720,ok,True,2
+cuneiform tablet,324590,ok,True,1
+cuneiform tablet,321711,ok,True,2
+cuneiform tablet,321980,ok,True,1
+cuneiform tablet,324588,ok,True,2
+cuneiform tablet,322025,ok,True,1
+cuneiform tablet,322070,ok,True,0
+cuneiform tablet,321532,ok,True,6
+cuneiform tablet,321752,ok,True,2
+cuneiform tablet,322101,ok,True,1
+cuneiform tablet,321709,ok,True,1
+cuneiform tablet,321953,ok,True,1
+cuneiform tablet,321834,ok,True,1
+cuneiform tablet,325504,ok,True,2
+cuneiform tablet,321736,ok,True,1
+cuneiform tablet,328922,ok,True,1
+cuneiform tablet,321689,ok,True,2
+cuneiform tablet,322060,ok,True,1
+cuneiform tablet,321823,ok,True,2
+cuneiform tablet,321981,ok,True,1
+cuneiform tablet,321803,ok,True,1
+cuneiform tablet,322072,ok,True,0
+cuneiform tablet,321528,ok,True,4
+cuneiform tablet,321817,ok,True,1
+cuneiform tablet,322074,ok,True,1
+cuneiform tablet,321536,ok,True,5
+cuneiform tablet,321994,ok,True,2
+cuneiform tablet,328923,ok,True,1
+cuneiform tablet,321812,ok,True,1
+cuneiform tablet,321917,ok,True,1
+cuneiform tablet,322087,ok,True,1
+cuneiform tablet,322467,ok,True,2
+cuneiform tablet,328915,ok,True,1
+cuneiform tablet,322105,ok,True,1
+cuneiform tablet,321706,ok,True,3
+cuneiform tablet,321835,ok,True,1
+cuneiform tablet,321949,ok,True,1
+cup,41898,ok,True,0
+cup,465747,ok,True,0
+cup,46294,not_found,False,0
+cup,60675,http_403,False,0
+cup,46802,ok,True,0
+cup,477747,ok,True,0
+cup,52597,ok,True,1
+cup,239879,ok,True,0
+cup,62993,ok,True,0
+cup,249108,ok,True,0
+cup,52967,ok,True,2
+cup,324040,ok,True,2
+cup,51132,ok,True,3
+cup,46905,ok,True,4
+cup,39508,ok,True,0
+cup,50789,ok,True,0
+cup,465671,ok,True,0
+cup,250119,ok,True,0
+cup,48020,ok,True,2
+cup,455543,ok,True,4
+cup,310539,ok,True,0
+cup,45916,ok,True,0
+cup,52325,ok,True,3
+cup,42387,ok,True,4
+cup,50697,ok,True,0
+cup,327554,ok,True,2
+cup,52333,ok,True,1
+cup,244845,ok,True,0
+cup,444493,ok,True,6
+cup,449831,ok,True,0
+cup,41877,ok,True,7
+cup,47211,ok,True,4
+cup,463502,ok,True,0
+cup,44975,ok,True,0
+cup,46844,ok,True,1
+cup,246174,ok,True,0
+cup,47238,ok,True,4
+cup,477328,ok,True,1
+cup,46944,ok,True,5
+cup,50348,ok,True,3
+cylinder seal,570791,ok,True,7
+cylinder seal,324950,ok,True,0
+cylinder seal,328761,ok,True,1
+cylinder seal,327618,ok,True,3
+cylinder seal,322558,ok,True,3
+cylinder seal,327637,ok,True,6
+cylinder seal,324512,ok,True,3
+cylinder seal,323915,ok,True,0
+cylinder seal,324996,ok,True,3
+cylinder seal,326907,ok,True,0
+cylinder seal,329060,ok,True,0
+cylinder seal,326921,ok,True,0
+cylinder seal,325770,ok,True,1
+cylinder seal,323779,ok,True,3
+cylinder seal,327652,ok,True,0
+cylinder seal,325719,ok,True,0
+cylinder seal,327244,ok,True,3
+cylinder seal,327817,ok,True,3
+cylinder seal,322547,ok,True,3
+cylinder seal,321398,ok,True,3
+cylinder seal,327198,ok,True,0
+cylinder seal,322391,ok,True,3
+cylinder seal,327199,ok,True,0
+cylinder seal,321447,ok,True,3
+cylinder seal,327754,ok,True,3
+cylinder seal,327207,ok,True,0
+cylinder seal,324508,ok,True,4
+cylinder seal,326975,ok,True,0
+cylinder seal,327728,ok,False,0
+cylinder seal,321420,ok,True,3
+cylinder seal,560673,ok,True,2
+cylinder seal,321448,ok,True,3
+cylinder seal,324505,ok,True,0
+cylinder seal,327669,ok,True,6
+cylinder seal,327770,ok,True,3
+cylinder seal,324602,ok,True,1
+cylinder seal,323891,ok,True,0
+cylinder seal,327257,ok,True,0
+cylinder seal,324610,ok,True,1
+cylinder seal,324351,ok,True,3
+dish,62860,ok,True,2
+dish,467586,ok,True,2
+dish,245293,ok,True,0
+dish,39692,ok,True,1
+dish,42543,ok,True,1
+dish,446943,ok,True,3
+dish,48067,ok,True,1
+dish,471773,ok,True,1
+dish,51989,ok,True,4
+dish,246211,ok,True,0
+dish,471779,ok,True,2
+dish,56237,ok,True,0
+dish,49281,ok,True,1
+dish,65588,ok,True,0
+dish,467546,ok,True,1
+dish,325046,ok,True,0
+dish,313206,ok,True,0
+dish,47863,ok,True,3
+dish,451490,ok,True,3
+dish,52234,ok,True,1
+dish,471768,ok,True,2
+dish,245197,ok,True,0
+dish,40752,ok,True,0
+dish,43989,ok,True,1
+dish,51164,ok,True,1
+dish,449545,ok,True,0
+dish,447226,ok,True,2
+dish,43272,ok,True,2
+dish,246611,ok,True,0
+dish,46737,ok,True,1
+dish,748016,ok,True,1
+dish,52566,ok,True,0
+dish,40853,ok,True,0
+dish,451116,ok,True,2
+dish,49235,ok,True,1
+dish,47034,ok,True,0
+dish,52231,ok,True,1
+dish,42196,ok,True,0
+dish,50215,ok,True,2
+dish,471793,ok,True,1
+earring,465573,ok,True,1
+earring,245959,ok,True,0
+earring,243024,ok,True,0
+earring,62320,ok,True,3
+earring,245976,ok,True,0
+earring,465086,ok,True,0
+earring,446781,ok,True,1
+earring,465432,ok,True,1
+earring,560925,ok,True,1
+earring,50105,ok,True,0
+earring,245974,ok,True,0
+earring,464028,ok,True,2
+earring,465179,ok,True,1
+earring,326684,not_found,False,0
+earring,242912,ok,True,3
+earring,444693,ok,True,1
+earring,245961,ok,True,0
+earring,469015,ok,True,0
+earring,465184,ok,True,2
+earring,44764,ok,True,0
+earring,465489,ok,True,1
+earring,64335,ok,True,0
+earring,442859,ok,True,0
+earring,245963,ok,True,0
+earring,325034,ok,True,3
+earring,242605,ok,True,0
+earring,242906,ok,True,0
+earring,453012,ok,True,0
+earring,323061,ok,True,1
+earring,468363,ok,True,3
+earring,446239,ok,True,0
+earring,60541,ok,True,3
+earring,242902,ok,True,3
+earring,468999,ok,True,0
+earring,64434,ok,True,0
+earring,39466,ok,True,0
+earring,465824,ok,True,0
+earring,469059,ok,True,0
+earring,242934,ok,True,0
+earring,64432,ok,True,0
+figure,316724,http_403,False,0
+figure,61705,ok,True,2
+figure,42178,ok,True,3
+figure,61656,ok,True,2
+figure,75586,ok,True,3
+figure,62840,ok,True,0
+figure,64450,not_found,False,0
+figure,61525,ok,True,2
+figure,666534,ok,True,1
+figure,44381,ok,True,0
+figure,38291,ok,True,0
+figure,42124,ok,True,2
+figure,38257,ok,True,0
+figure,307631,ok,True,3
+figure,62853,ok,True,0
+figure,43382,ok,True,0
+figure,61775,ok,True,4
+figure,39151,ok,True,0
+figure,466258,ok,True,3
+figure,39158,ok,True,0
+figure,38140,ok,True,0
+figure,475292,ok,True,2
+figure,316690,ok,True,1
+figure,38139,ok,True,0
+figure,38529,ok,True,0
+figure,38970,ok,True,1
+figure,61218,ok,True,1
+figure,52560,ok,True,0
+figure,43188,not_found,False,0
+figure,42912,not_found,False,0
+figure,61704,ok,True,0
+figure,62944,ok,True,0
+figure,49109,ok,True,2
+figure,309550,ok,True,0
+figure,61816,ok,True,2
+figure,38724,ok,True,0
+figure,48472,ok,True,0
+figure,39259,ok,True,0
+figure,72381,ok,True,2
+figure,39013,ok,True,0
+folio,37930,ok,True,1
+folio,74985,ok,True,2
+folio,75025,http_403,False,0
+folio,37883,ok,True,1
+folio,37892,ok,True,1
+folio,37937,ok,True,1
+folio,62150,ok,True,1
+folio,75101,ok,True,1
+folio,75012,ok,True,1
+folio,75033,ok,True,1
+folio,75134,ok,True,1
+folio,37938,ok,True,2
+folio,75052,ok,True,1
+folio,811194,ok,True,1
+folio,74856,ok,True,3
+folio,74887,ok,True,1
+folio,74878,ok,True,0
+folio,74998,ok,True,2
+folio,37847,ok,True,1
+folio,74898,ok,True,2
+folio,37906,ok,True,1
+folio,827574,ok,True,0
+folio,75053,ok,True,1
+folio,75001,ok,True,2
+folio,75047,ok,True,1
+folio,75074,ok,True,1
+folio,37944,ok,True,1
+folio,74912,ok,True,2
+folio,74873,ok,True,1
+folio,37853,ok,True,1
+folio,55248,ok,True,1
+folio,37958,ok,True,3
+folio,37788,ok,True,1
+folio,38017,ok,True,1
+folio,75020,ok,True,1
+folio,75032,ok,True,1
+folio,37907,ok,True,0
+folio,75081,ok,True,1
+folio,37942,ok,True,1
+folio,75093,ok,True,2
+folio from an illustrated manuscript,452654,ok,True,1
+folio from an illustrated manuscript,455547,ok,True,1
+folio from an illustrated manuscript,453265,ok,True,2
+folio from an illustrated manuscript,451422,ok,True,0
+folio from an illustrated manuscript,456074,ok,True,3
+folio from an illustrated manuscript,451325,ok,True,1
+folio from an illustrated manuscript,452116,ok,True,3
+folio from an illustrated manuscript,704540,ok,True,1
+folio from an illustrated manuscript,452755,ok,True,1
+folio from an illustrated manuscript,452159,ok,True,4
+folio from an illustrated manuscript,453085,ok,True,2
+folio from an illustrated manuscript,453075,ok,True,1
+folio from an illustrated manuscript,452639,ok,True,1
+folio from an illustrated manuscript,449004,ok,True,2
+folio from an illustrated manuscript,446293,ok,True,3
+folio from an illustrated manuscript,452754,ok,True,4
+folio from an illustrated manuscript,448372,ok,True,3
+folio from an illustrated manuscript,446600,ok,True,1
+folio from an illustrated manuscript,451958,ok,True,0
+folio from an illustrated manuscript,452049,ok,True,2
+folio from an illustrated manuscript,452134,ok,True,1
+folio from an illustrated manuscript,452121,ok,True,1
+folio from an illustrated manuscript,452631,ok,True,1
+folio from an illustrated manuscript,452120,ok,True,2
+folio from an illustrated manuscript,451315,ok,True,1
+folio from an illustrated manuscript,452162,ok,True,2
+folio from an illustrated manuscript,448279,ok,True,3
+folio from an illustrated manuscript,453104,ok,True,2
+folio from an illustrated manuscript,453065,ok,True,2
+folio from an illustrated manuscript,452753,ok,True,1
+folio from an illustrated manuscript,452156,ok,True,2
+folio from an illustrated manuscript,452767,ok,True,3
+folio from an illustrated manuscript,451402,ok,True,4
+folio from an illustrated manuscript,446292,ok,True,2
+folio from an illustrated manuscript,448183,ok,True,4
+folio from an illustrated manuscript,453122,ok,True,3
+folio from an illustrated manuscript,455045,ok,True,4
+folio from an illustrated manuscript,452137,ok,True,2
+folio from an illustrated manuscript,448184,ok,True,3
+folio from an illustrated manuscript,451826,ok,True,1
+fragment,467195,ok,True,0
+fragment,466492,ok,True,0
+fragment,478725,ok,True,1
+fragment,741446,ok,True,1
+fragment,447334,ok,True,1
+fragment,695311,ok,True,4
+fragment,467210,ok,True,0
+fragment,741084,ok,True,1
+fragment,445400,ok,True,0
+fragment,740957,ok,True,1
+fragment,447274,ok,True,0
+fragment,467124,ok,True,0
+fragment,479278,ok,True,0
+fragment,452434,ok,True,1
+fragment,462737,ok,True,2
+fragment,741675,ok,True,1
+fragment,741253,ok,True,1
+fragment,695387,ok,True,4
+fragment,741772,ok,True,1
+fragment,451563,ok,True,0
+fragment,475314,ok,True,0
+fragment,479225,ok,True,0
+fragment,448787,ok,True,0
+fragment,477074,ok,True,0
+fragment,39287,ok,True,0
+fragment,479190,ok,True,0
+fragment,38645,ok,True,3
+fragment,741822,ok,True,1
+fragment,467313,ok,True,0
+fragment,741431,ok,True,1
+fragment,477079,ok,True,0
+fragment,64882,ok,True,4
+fragment,741464,ok,True,1
+fragment,742200,ok,True,1
+fragment,43440,ok,True,1
+fragment,741507,ok,True,1
+fragment,474977,ok,True,0
+fragment,69612,ok,True,2
+fragment,741379,ok,True,1
+fragment,451560,ok,True,0
+handscroll,670939,ok,True,6
+handscroll,36059,ok,True,9
+handscroll,40311,ok,True,11
+handscroll,40454,ok,True,11
+handscroll,39657,ok,True,11
+handscroll,40509,ok,True,21
+handscroll,45520,ok,True,28
+handscroll,51532,ok,True,15
+handscroll,51806,ok,True,5
+handscroll,40057,ok,True,30
+handscroll,44592,ok,True,18
+handscroll,51366,ok,True,9
+handscroll,816199,ok,True,16
+handscroll,853798,ok,True,12
+handscroll,670917,ok,True,9
+handscroll,670941,ok,True,22
+handscroll,36035,ok,True,11
+handscroll,50829,ok,True,11
+handscroll,51367,ok,True,9
+handscroll,51418,ok,True,8
+handscroll,42329,ok,True,2
+handscroll,45657,ok,True,7
+handscroll,49099,ok,True,5
+handscroll,51640,ok,True,12
+handscroll,44593,ok,True,14
+handscroll,51477,ok,True,9
+handscroll,45749,ok,True,19
+handscroll,39919,ok,True,13
+handscroll,65123,ok,True,23
+handscroll,51870,ok,True,7
+handscroll,45674,ok,True,7
+handscroll,36032,ok,True,11
+handscroll,44849,ok,True,24
+handscroll,53552,ok,True,6
+handscroll,45523,ok,True,6
+handscroll,45624,ok,True,24
+handscroll,40056,ok,True,11
+handscroll,36123,ok,True,16
+handscroll,51584,ok,True,24
+handscroll,45780,ok,True,3
+hanging scroll,853194,ok,True,1
+hanging scroll,853187,ok,True,1
+hanging scroll,57250,ok,True,2
+hanging scroll,40447,ok,True,1
+hanging scroll,829381,ok,True,2
+hanging scroll,49239,ok,True,0
+hanging scroll,77184,ok,True,2
+hanging scroll,49067,ok,True,1
+hanging scroll,857953,ok,True,1
+hanging scroll,671047,ok,True,3
+hanging scroll,48941,ok,True,1
+hanging scroll,60451,ok,True,9
+hanging scroll,714942,ok,True,1
+hanging scroll,49181,ok,True,1
+hanging scroll,38065,ok,True,0
+hanging scroll,45798,ok,True,1
+hanging scroll,44590,ok,True,7
+hanging scroll,45617,ok,True,1
+hanging scroll,53408,ok,True,1
+hanging scroll,45682,ok,True,1
+hanging scroll,45803,ok,True,2
+hanging scroll,61278,ok,True,2
+hanging scroll,74813,ok,True,11
+hanging scroll,49153,ok,True,1
+hanging scroll,48913,ok,True,0
+hanging scroll,45642,ok,True,12
+hanging scroll,45676,ok,True,2
+hanging scroll,36113,ok,True,1
+hanging scroll,39933,ok,True,1
+hanging scroll,45736,ok,True,1
+hanging scroll,48984,ok,True,2
+hanging scroll,667348,ok,True,1
+hanging scroll,49063,ok,True,3
+hanging scroll,51715,ok,True,0
+hanging scroll,57161,ok,True,2
+hanging scroll,42489,ok,True,2
+hanging scroll,48997,ok,True,3
+hanging scroll,40010,ok,True,3
+hanging scroll,59004,ok,True,1
+hanging scroll,39553,ok,True,1
+illustrated book,57809,ok,True,31
+illustrated book,57539,ok,True,85
+illustrated book,65706,ok,True,27
+illustrated book,78798,ok,True,32
+illustrated book,57845,ok,True,32
+illustrated book,74275,ok,True,42
+illustrated book,78758,ok,True,54
+illustrated book,78577,ok,True,23
+illustrated book,74261,ok,True,0
+illustrated book,57666,ok,True,51
+illustrated book,78818,ok,True,32
+illustrated book,78650,ok,True,32
+illustrated book,57669,ok,True,39
+illustrated book,78627,ok,True,41
+illustrated book,75841,ok,True,27
+illustrated book,78771,ok,True,29
+illustrated book,73592,ok,True,73
+illustrated book,75844,ok,True,18
+illustrated book,78812,ok,True,53
+illustrated book,36460,ok,True,71
+illustrated book,57661,ok,True,38
+illustrated book,75858,ok,True,13
+illustrated book,744432,ok,True,48
+illustrated book,57549,ok,True,42
+illustrated book,73590,ok,True,22
+illustrated book,78587,ok,True,0
+illustrated book,57663,ok,True,0
+illustrated book,57673,ok,True,14
+illustrated book,57811,ok,True,55
+illustrated book,45255,ok,True,15
+illustrated book,57570,ok,True,18
+illustrated book,74322,ok,True,1
+illustrated book,744427,ok,True,28
+illustrated book,78575,ok,True,37
+illustrated book,78717,ok,True,60
+illustrated book,78614,ok,True,58
+illustrated book,78762,ok,True,16
+illustrated book,75845,ok,True,22
+illustrated book,57668,ok,True,96
+illustrated book,78617,ok,True,22
+inrō,58929,ok,True,5
+inrō,58895,ok,True,5
+inrō,58923,ok,True,3
+inrō,58880,ok,True,4
+inrō,58788,ok,True,5
+inrō,52113,ok,True,5
+inrō,58719,ok,True,8
+inrō,58381,ok,True,2
+inrō,59026,ok,True,2
+inrō,58766,ok,True,4
+inrō,58841,ok,True,3
+inrō,58613,ok,True,2
+inrō,58474,ok,True,4
+inrō,58642,ok,True,5
+inrō,58565,ok,True,3
+inrō,58398,ok,True,3
+inrō,58722,ok,True,4
+inrō,58670,ok,True,4
+inrō,58739,ok,True,4
+inrō,58375,ok,True,1
+inrō,59027,ok,True,3
+inrō,45441,ok,True,4
+inrō,58643,ok,True,7
+inrō,58834,ok,True,5
+inrō,58866,ok,True,4
+inrō,58898,ok,True,5
+inrō,58564,ok,True,3
+inrō,45504,ok,True,5
+inrō,58894,ok,True,5
+inrō,58395,ok,True,3
+inrō,58801,ok,True,1
+inrō,58488,ok,True,3
+inrō,58784,ok,True,6
+inrō,58378,ok,True,1
+inrō,58603,ok,True,5
+inrō,58726,ok,True,9
+inrō,58789,ok,True,4
+inrō,58457,ok,True,2
+inrō,58611,ok,True,2
+inrō,58521,ok,True,1
+jar,449040,ok,True,1
+jar,310196,ok,True,1
+jar,46544,ok,True,1
+jar,323003,ok,True,0
+jar,44423,ok,True,0
+jar,446961,ok,True,2
+jar,449169,ok,True,2
+jar,324311,ok,True,0
+jar,670987,ok,True,0
+jar,52514,ok,True,2
+jar,248870,ok,True,1
+jar,44424,ok,True,0
+jar,316622,ok,False,0
+jar,325417,ok,True,0
+jar,564821,ok,True,0
+jar,543888,ok,True,0
+jar,44722,ok,True,3
+jar,318466,ok,True,3
+jar,322401,ok,True,0
+jar,551021,ok,True,1
+jar,465872,ok,True,6
+jar,325697,ok,True,0
+jar,248945,ok,True,0
+jar,326491,ok,True,0
+jar,454610,ok,True,4
+jar,245239,ok,True,0
+jar,447160,ok,True,0
+jar,52639,ok,True,1
+jar,62704,ok,True,0
+jar,468165,ok,True,7
+jar,40206,ok,True,0
+jar,42309,ok,True,1
+jar,448969,ok,True,1
+jar,326151,ok,True,0
+jar,48465,not_found,False,0
+jar,444477,ok,True,2
+jar,44742,ok,True,0
+jar,52732,ok,True,2
+jar,449464,ok,True,0
+jar,327351,ok,True,0
+jug,248923,ok,True,0
+jug,240095,ok,True,2
+jug,252579,ok,True,0
+jug,240543,ok,True,0
+jug,240159,ok,True,0
+jug,250083,ok,True,0
+jug,449116,ok,True,0
+jug,240232,ok,True,0
+jug,240088,ok,True,0
+jug,245697,ok,True,0
+jug,239697,ok,True,0
+jug,244658,ok,True,0
+jug,255238,http_403,False,0
+jug,240120,ok,True,0
+jug,325378,ok,True,0
+jug,449079,ok,True,5
+jug,668677,ok,True,3
+jug,239726,ok,True,0
+jug,322402,ok,True,0
+jug,463533,ok,True,7
+jug,643549,http_403,False,0
+jug,651241,ok,True,1
+jug,245348,ok,True,0
+jug,245351,ok,True,0
+jug,240098,ok,True,1
+jug,477278,ok,True,1
+jug,478667,ok,True,3
+jug,449404,ok,True,0
+jug,240150,ok,True,2
+jug,323024,ok,True,0
+jug,253550,ok,True,0
+jug,245343,ok,True,0
+jug,469065,ok,True,5
+jug,240751,ok,True,0
+jug,48281,ok,True,4
+jug,323015,ok,True,0
+jug,249224,ok,True,1
+jug,240092,ok,True,0
+jug,245268,ok,True,0
+jug,240070,ok,True,0
+kylikes fragments,768662,ok,True,1
+kylikes fragments,768625,ok,True,1
+kylikes fragments,753170,ok,True,1
+kylikes fragments,774014,ok,True,1
+kylikes fragments,774035,ok,True,1
+kylikes fragments,753169,ok,True,1
+kylikes fragments,774025,ok,True,1
+kylikes fragments,764379,ok,True,1
+kylikes fragments,768648,ok,True,1
+kylikes fragments,773921,ok,True,1
+kylikes fragments,773919,ok,True,1
+kylikes fragments,774029,ok,True,1
+kylikes fragments,773806,ok,True,1
+kylikes fragments,773923,ok,True,1
+kylikes fragments,773937,ok,True,1
+kylikes fragments,773851,ok,True,1
+kylikes fragments,768610,ok,True,1
+kylikes fragments,772219,ok,True,1
+kylikes fragments,768651,ok,True,1
+kylikes fragments,773798,ok,True,1
+kylikes fragments,753325,ok,True,1
+kylikes fragments,753122,ok,True,1
+kylikes fragments,768738,ok,True,1
+kylikes fragments,773942,ok,True,1
+kylikes fragments,753491,ok,True,1
+kylikes fragments,768693,ok,True,1
+kylikes fragments,768584,ok,True,1
+kylikes fragments,772225,ok,True,1
+kylikes fragments,764315,ok,True,1
+kylikes fragments,773794,ok,True,1
+kylikes fragments,774036,ok,True,1
+kylikes fragments,768691,ok,True,1
+kylikes fragments,764497,ok,True,1
+kylikes fragments,759747,ok,True,1
+kylikes fragments,755951,ok,True,1
+kylikes fragments,768658,ok,True,1
+kylikes fragments,772205,ok,True,1
+kylikes fragments,768649,ok,True,1
+kylikes fragments,773914,ok,True,1
+kylikes fragments,774146,ok,True,1
+kylix fragment,762659,ok,True,1
+kylix fragment,695810,ok,True,1
+kylix fragment,709568,ok,True,1
+kylix fragment,683823,ok,True,1
+kylix fragment,683557,ok,True,1
+kylix fragment,709596,ok,True,1
+kylix fragment,695883,ok,True,1
+kylix fragment,692077,ok,True,1
+kylix fragment,718583,ok,True,1
+kylix fragment,704026,ok,True,1
+kylix fragment,718846,ok,True,1
+kylix fragment,766039,ok,True,1
+kylix fragment,668557,ok,True,1
+kylix fragment,718737,ok,True,1
+kylix fragment,678432,ok,True,1
+kylix fragment,704325,ok,True,1
+kylix fragment,721605,ok,True,1
+kylix fragment,719019,ok,True,1
+kylix fragment,772227,ok,True,1
+kylix fragment,698908,ok,True,1
+kylix fragment,713423,ok,True,1
+kylix fragment,668531,ok,True,1
+kylix fragment,753429,ok,True,1
+kylix fragment,703537,ok,True,1
+kylix fragment,699377,ok,True,1
+kylix fragment,713802,ok,True,1
+kylix fragment,721512,ok,True,1
+kylix fragment,709741,ok,True,1
+kylix fragment,696134,ok,True,1
+kylix fragment,768591,ok,True,1
+kylix fragment,703760,ok,True,1
+kylix fragment,670385,ok,True,1
+kylix fragment,667699,ok,True,1
+kylix fragment,753415,ok,True,1
+kylix fragment,768602,ok,True,1
+kylix fragment,683442,ok,True,1
+kylix fragment,689361,ok,True,1
+kylix fragment,689307,ok,True,1
+kylix fragment,718785,ok,True,1
+kylix fragment,704057,ok,True,1
+kylix fragments,695787,ok,True,1
+kylix fragments,667556,ok,True,1
+kylix fragments,691997,ok,True,1
+kylix fragments,704336,ok,True,1
+kylix fragments,693477,http_403,False,0
+kylix fragments,667657,ok,True,1
+kylix fragments,699054,ok,True,1
+kylix fragments,695790,ok,True,1
+kylix fragments,692063,ok,True,1
+kylix fragments,678324,ok,True,1
+kylix fragments,678403,ok,True,1
+kylix fragments,669533,ok,True,1
+kylix fragments,678504,ok,True,1
+kylix fragments,713616,ok,True,1
+kylix fragments,686998,ok,True,1
+kylix fragments,713922,ok,True,1
+kylix fragments,667696,ok,True,1
+kylix fragments,678530,ok,True,1
+kylix fragments,676700,ok,True,1
+kylix fragments,678335,ok,True,1
+kylix fragments,687001,ok,True,1
+kylix fragments,678356,ok,True,1
+kylix fragments,678350,ok,True,1
+kylix fragments,678323,ok,True,1
+kylix fragments,676749,ok,True,1
+kylix fragments,695791,ok,True,1
+kylix fragments,667664,ok,True,1
+kylix fragments,699296,ok,True,1
+kylix fragments,667599,ok,True,1
+kylix fragments,693433,ok,True,1
+kylix fragments,695780,ok,True,1
+kylix fragments,721745,ok,True,1
+kylix fragments,676782,ok,True,1
+kylix fragments,713624,ok,True,1
+kylix fragments,678552,ok,True,1
+kylix fragments,667547,ok,True,1
+kylix fragments,713678,ok,True,1
+kylix fragments,695801,ok,True,1
+kylix fragments,774099,ok,True,1
+kylix fragments,683387,ok,True,1
+lamp,241604,ok,True,1
+lamp,241679,ok,True,1
+lamp,241508,ok,True,0
+lamp,478693,ok,True,0
+lamp,447989,ok,True,0
+lamp,241547,ok,True,1
+lamp,241648,ok,True,1
+lamp,241674,ok,True,1
+lamp,241479,ok,True,1
+lamp,241632,ok,True,1
+lamp,241575,ok,True,2
+lamp,241516,ok,True,1
+lamp,447994,ok,True,0
+lamp,454755,ok,True,0
+lamp,241538,ok,True,1
+lamp,478699,ok,True,0
+lamp,241476,ok,True,1
+lamp,241539,ok,True,1
+lamp,254564,ok,True,0
+lamp,241625,ok,True,1
+lamp,241810,ok,True,1
+lamp,241485,ok,True,1
+lamp,448006,ok,True,0
+lamp,449812,ok,True,0
+lamp,451135,ok,True,0
+lamp,450375,ok,True,1
+lamp,241462,ok,True,1
+lamp,450709,ok,True,4
+lamp,241624,ok,True,0
+lamp,241497,ok,True,0
+lamp,241567,ok,True,1
+lamp,241384,ok,True,2
+lamp,241570,ok,True,1
+lamp,241685,ok,True,0
+lamp,241560,ok,True,2
+lamp,241420,ok,True,1
+lamp,449861,ok,True,0
+lamp,556798,ok,True,0
+lamp,241593,ok,True,2
+lamp,241515,ok,True,0
+netsuke,59356,ok,True,2
+netsuke,59105,http_403,False,0
+netsuke,59244,ok,True,5
+netsuke,59988,ok,True,4
+netsuke,60032,ok,True,1
+netsuke,59131,ok,True,2
+netsuke,59689,ok,True,5
+netsuke,59121,ok,True,4
+netsuke,59754,ok,True,0
+netsuke,59362,ok,True,2
+netsuke,59750,ok,True,1
+netsuke,59282,ok,True,1
+netsuke,59285,ok,True,2
+netsuke,59706,ok,True,2
+netsuke,59688,ok,True,1
+netsuke,60094,ok,True,0
+netsuke,59704,ok,True,1
+netsuke,60379,ok,True,1
+netsuke,60279,ok,True,1
+netsuke,59279,ok,True,4
+netsuke,60001,ok,True,5
+netsuke,60293,ok,True,5
+netsuke,62371,ok,True,0
+netsuke,59064,ok,True,5
+netsuke,59358,ok,True,3
+netsuke,60171,ok,True,1
+netsuke,60024,ok,True,3
+netsuke,60075,ok,True,5
+netsuke,59243,ok,True,0
+netsuke,59301,ok,True,1
+netsuke,59827,ok,True,2
+netsuke,59102,ok,True,4
+netsuke,59073,ok,True,1
+netsuke,60191,ok,True,3
+netsuke,59289,ok,True,1
+netsuke,60038,ok,True,1
+netsuke,59982,ok,True,1
+netsuke,59315,ok,True,4
+netsuke,60079,ok,True,0
+netsuke,59155,ok,True,1
+ornament,44818,ok,True,0
+ornament,313420,ok,True,1
+ornament,48191,ok,True,0
+ornament,314297,ok,True,1
+ornament,312249,ok,True,0
+ornament,57454,ok,True,0
+ornament,315099,ok,True,0
+ornament,47148,ok,True,0
+ornament,59572,ok,True,0
+ornament,314473,ok,True,0
+ornament,313750,ok,True,0
+ornament,308779,ok,True,0
+ornament,312995,ok,True,0
+ornament,315201,ok,True,0
+ornament,325111,ok,True,1
+ornament,315292,ok,True,0
+ornament,313402,ok,True,0
+ornament,312962,ok,True,0
+ornament,309290,ok,True,0
+ornament,314716,ok,True,0
+ornament,325097,ok,True,1
+ornament,308695,ok,True,0
+ornament,308845,ok,True,0
+ornament,309987,ok,True,1
+ornament,54295,ok,True,0
+ornament,307529,ok,True,0
+ornament,444665,ok,True,1
+ornament,310682,ok,True,0
+ornament,308809,ok,True,0
+ornament,314870,ok,True,0
+ornament,50097,ok,True,0
+ornament,308989,ok,True,0
+ornament,57446,ok,True,0
+ornament,308754,ok,True,0
+ornament,325782,ok,True,1
+ornament,315141,ok,True,1
+ornament,62250,ok,True,4
+ornament,315199,ok,True,1
+ornament,314713,ok,True,0
+ornament,314485,ok,True,0
+ostrakon,478530,http_403,False,0
+ostrakon,474520,ok,True,1
+ostrakon,474626,ok,True,1
+ostrakon,474472,ok,True,1
+ostrakon,474871,ok,True,8
+ostrakon,475042,ok,True,1
+ostrakon,474758,ok,True,1
+ostrakon,474600,ok,True,3
+ostrakon,474613,ok,True,1
+ostrakon,475445,ok,True,1
+ostrakon,474597,ok,True,1
+ostrakon,474514,ok,True,1
+ostrakon,474708,ok,True,1
+ostrakon,474840,ok,True,1
+ostrakon,474482,ok,True,1
+ostrakon,474902,ok,True,1
+ostrakon,474779,ok,True,1
+ostrakon,474517,ok,True,1
+ostrakon,474437,ok,True,1
+ostrakon,474786,ok,True,1
+ostrakon,474792,ok,True,1
+ostrakon,474869,ok,True,1
+ostrakon,474860,ok,True,1
+ostrakon,474498,ok,True,1
+ostrakon,474794,ok,True,1
+ostrakon,474643,ok,True,1
+ostrakon,474593,ok,True,1
+ostrakon,474899,ok,True,1
+ostrakon,474847,ok,True,1
+ostrakon,474773,ok,True,1
+ostrakon,474571,ok,True,1
+ostrakon,474907,ok,True,1
+ostrakon,474810,ok,True,1
+ostrakon,474538,ok,True,1
+ostrakon,478535,ok,True,1
+ostrakon,474522,ok,True,1
+ostrakon,474803,ok,True,1
+ostrakon,474585,ok,True,1
+ostrakon,474828,ok,True,1
+ostrakon,478544,ok,True,1
+painting,57306,ok,True,0
+painting,74683,http_403,False,0
+painting,45800,ok,True,0
+painting,74736,ok,True,1
+painting,38043,ok,True,0
+painting,37835,ok,True,1
+painting,48919,ok,True,0
+painting,74674,ok,True,1
+painting,470873,ok,True,1
+painting,37960,ok,True,0
+painting,37803,ok,True,2
+painting,45711,ok,True,1
+painting,38012,ok,True,1
+painting,57302,ok,True,0
+painting,48918,ok,True,0
+painting,38013,ok,True,1
+painting,51563,ok,True,0
+painting,64842,ok,True,0
+painting,658681,ok,True,1
+painting,471903,ok,True,0
+painting,57192,ok,True,0
+painting,470874,ok,True,1
+painting,470877,ok,True,1
+painting,37916,ok,True,1
+painting,55034,ok,True,1
+painting,473058,ok,True,0
+painting,75235,ok,True,1
+painting,39641,ok,True,0
+painting,74691,ok,True,1
+painting,45719,ok,True,1
+painting,54796,ok,True,0
+painting,473161,ok,True,0
+painting,65594,ok,True,1
+painting,37992,ok,True,1
+painting,37876,ok,True,1
+painting,57295,http_403,False,0
+painting,40335,ok,True,0
+painting,45070,ok,True,2
+painting,37915,ok,True,1
+painting,38040,ok,True,0
+panel,313105,ok,True,0
+panel,445054,ok,True,0
+panel,69152,ok,True,0
+panel,70741,ok,True,3
+panel,448229,ok,True,1
+panel,463107,ok,True,0
+panel,445029,ok,True,1
+panel,308208,ok,True,1
+panel,466292,ok,True,0
+panel,446285,ok,True,5
+panel,445055,ok,True,1
+panel,446827,ok,True,9
+panel,452220,ok,True,0
+panel,448230,ok,True,1
+panel,445671,ok,True,1
+panel,68442,ok,True,3
+panel,470260,ok,True,0
+panel,448933,ok,True,0
+panel,307949,ok,True,0
+panel,479734,ok,True,0
+panel,51250,ok,True,0
+panel,471212,ok,True,1
+panel,446952,ok,True,1
+panel,471422,ok,True,0
+panel,472145,ok,True,0
+panel,445091,ok,True,1
+panel,312674,ok,True,0
+panel,467939,ok,True,0
+panel,471059,ok,True,1
+panel,445026,ok,True,1
+panel,445094,ok,True,1
+panel,448929,ok,True,0
+panel,445141,ok,True,1
+panel,457717,ok,True,2
+panel,68285,ok,True,0
+panel,68487,ok,True,0
+panel,467825,ok,True,1
+panel,445109,ok,True,1
+panel,445118,ok,True,4
+panel,448966,ok,True,12
+pendant,479634,ok,True,1
+pendant,316517,ok,True,0
+pendant,322887,ok,True,1
+pendant,313021,ok,True,0
+pendant,50101,ok,True,0
+pendant,317452,ok,True,1
+pendant,463514,ok,True,6
+pendant,316678,ok,True,0
+pendant,466118,ok,True,1
+pendant,307665,ok,True,0
+pendant,316284,ok,True,1
+pendant,307789,ok,True,1
+pendant,309113,ok,True,0
+pendant,50414,ok,True,0
+pendant,75242,ok,True,1
+pendant,313201,ok,True,1
+pendant,317367,ok,True,0
+pendant,256041,ok,True,0
+pendant,50098,ok,True,0
+pendant,40581,ok,True,0
+pendant,317460,ok,True,0
+pendant,50065,ok,True,0
+pendant,314315,ok,True,0
+pendant,44050,ok,True,1
+pendant,327525,ok,True,0
+pendant,313084,ok,True,0
+pendant,446796,ok,True,1
+pendant,317301,ok,True,0
+pendant,320328,ok,True,0
+pendant,43352,ok,True,0
+pendant,309540,ok,True,4
+pendant,44304,ok,True,0
+pendant,314210,ok,True,0
+pendant,312754,ok,True,1
+pendant,446235,ok,True,5
+pendant,309938,ok,True,0
+pendant,64343,ok,True,0
+pendant,464665,ok,True,1
+pendant,309939,ok,True,0
+pendant,313247,ok,True,0
+piece,72068,http_403,False,0
+piece,66726,ok,True,0
+piece,71916,ok,True,0
+piece,65875,ok,True,0
+piece,72048,ok,True,0
+piece,66364,ok,True,0
+piece,70300,ok,True,0
+piece,65804,ok,True,0
+piece,65960,ok,True,0
+piece,74585,ok,True,0
+piece,71683,ok,True,0
+piece,66145,ok,True,0
+piece,67456,ok,True,0
+piece,71529,ok,True,0
+piece,66168,ok,True,0
+piece,66584,ok,True,0
+piece,66877,ok,True,0
+piece,71418,ok,True,0
+piece,66270,ok,True,0
+piece,71366,ok,True,0
+piece,69534,ok,True,0
+piece,65885,ok,True,0
+piece,66507,ok,True,0
+piece,66610,ok,True,0
+piece,66528,ok,True,0
+piece,71067,ok,True,0
+piece,71323,ok,True,0
+piece,66955,ok,True,0
+piece,66412,ok,True,0
+piece,71843,ok,True,0
+piece,67528,ok,True,0
+piece,67069,ok,True,0
+piece,71471,ok,True,1
+piece,66221,ok,True,0
+piece,65941,ok,True,2
+piece,67272,ok,True,0
+piece,71864,ok,True,1
+piece,66056,ok,True,0
+piece,70756,ok,True,0
+piece,71424,ok,True,0
+plaque,446244,ok,True,0
+plaque,478980,ok,True,1
+plaque,315536,ok,True,1
+plaque,316490,ok,True,2
+plaque,315598,ok,True,1
+plaque,312302,ok,True,1
+plaque,446245,ok,True,0
+plaque,65192,ok,True,0
+plaque,316487,ok,True,1
+plaque,315535,ok,True,1
+plaque,315593,ok,True,2
+plaque,65181,ok,True,0
+plaque,464422,ok,True,0
+plaque,42943,ok,True,0
+plaque,464774,ok,True,1
+plaque,449519,ok,True,2
+plaque,464433,ok,True,1
+plaque,467371,ok,True,2
+plaque,468316,ok,True,1
+plaque,544735,ok,True,0
+plaque,322720,ok,True,1
+plaque,316488,ok,True,1
+plaque,315569,ok,True,2
+plaque,451949,ok,True,4
+plaque,446286,ok,True,1
+plaque,315669,ok,True,0
+plaque,315529,ok,True,1
+plaque,40050,ok,True,0
+plaque,464399,ok,True,2
+plaque,464019,ok,True,1
+plaque,61188,ok,True,1
+plaque,465541,ok,True,1
+plaque,61859,ok,True,1
+plaque,49717,ok,True,0
+plaque,322805,ok,True,1
+plaque,315514,ok,True,1
+plaque,312696,ok,True,1
+plaque,452216,ok,True,0
+plaque,315523,ok,True,1
+plaque,61186,ok,True,0
+plate,468513,ok,True,2
+plate,46511,ok,True,0
+plate,42495,ok,True,1
+plate,464377,ok,True,11
+plate,47457,ok,True,0
+plate,250794,ok,True,0
+plate,47767,ok,True,0
+plate,49401,ok,True,0
+plate,454756,ok,True,2
+plate,50185,ok,True,1
+plate,249076,ok,True,0
+plate,46990,ok,True,0
+plate,51241,ok,True,1
+plate,47424,ok,True,2
+plate,52223,ok,True,2
+plate,444521,ok,True,6
+plate,37451,ok,True,1
+plate,248504,ok,True,0
+plate,468522,ok,True,8
+plate,48823,ok,True,0
+plate,42299,ok,True,0
+plate,53641,ok,True,1
+plate,47703,ok,True,0
+plate,250263,ok,True,0
+plate,316779,ok,True,0
+plate,50793,ok,True,0
+plate,246243,ok,True,0
+plate,63641,ok,True,1
+plate,63608,ok,True,0
+plate,698318,ok,True,0
+plate,46319,ok,True,2
+plate,49330,ok,True,0
+plate,47038,ok,True,0
+plate,468986,ok,True,1
+plate,449326,ok,True,4
+plate,49390,ok,True,0
+plate,47553,ok,True,0
+plate,45936,http_403,False,0
+plate,51239,ok,True,0
+plate,52955,ok,True,0
+print,54983,ok,True,0
+print,37031,ok,True,0
+print,54924,ok,True,0
+print,37081,ok,True,0
+print,36742,ok,True,0
+print,36531,ok,True,0
+print,56067,ok,True,0
+print,55280,ok,True,0
+print,56851,ok,True,0
+print,55828,ok,True,0
+print,54826,ok,True,0
+print,36628,ok,True,0
+print,54869,ok,True,0
+print,54330,ok,True,0
+print,56600,ok,True,0
+print,36693,ok,True,12
+print,36713,ok,True,0
+print,36999,ok,True,0
+print,56717,ok,True,0
+print,55031,ok,True,0
+print,36732,ok,True,0
+print,73558,ok,True,0
+print,36667,ok,True,0
+print,56424,ok,True,0
+print,55484,ok,True,0
+print,54985,ok,True,0
+print,36679,ok,True,0
+print,37273,ok,True,0
+print,54336,ok,True,0
+print,63391,ok,True,0
+print,36616,ok,True,0
+print,399803,ok,True,0
+print,55235,ok,True,0
+print,73531,ok,True,0
+print,73432,ok,True,0
+print,36964,ok,True,0
+print,45055,ok,True,0
+print,54867,ok,True,0
+print,55595,ok,True,0
+print,54338,ok,True,0
+relief,467968,ok,True,1
+relief,72824,ok,True,0
+relief,325663,ok,True,1
+relief,322140,ok,True,0
+relief,463868,ok,True,4
+relief,307443,ok,True,2
+relief,470903,ok,True,1
+relief,325749,ok,True,0
+relief,322143,ok,True,0
+relief,462886,ok,True,0
+relief,38141,ok,True,0
+relief,324262,ok,True,4
+relief,326686,not_found,False,0
+relief,76737,ok,True,2
+relief,324227,ok,True,0
+relief,472221,ok,True,0
+relief,467466,ok,True,10
+relief,322594,ok,True,0
+relief,445966,ok,True,5
+relief,40598,ok,True,0
+relief,470902,ok,True,1
+relief,325753,ok,True,1
+relief,463555,ok,True,7
+relief,324206,ok,True,1
+relief,323613,ok,True,0
+relief,38118,ok,True,0
+relief,325662,ok,True,1
+relief,325670,ok,True,1
+relief,38239,ok,True,5
+relief,325668,ok,True,0
+relief,322618,ok,True,0
+relief,468484,ok,True,10
+relief,325870,ok,True,0
+relief,324690,ok,True,1
+relief,546669,http_403,False,0
+relief,467461,ok,True,10
+relief,324693,ok,True,1
+relief,62046,ok,True,1
+relief,325874,ok,True,0
+relief,324689,ok,True,1
+ring,64195,ok,True,0
+ring,50388,ok,True,0
+ring,44305,ok,True,0
+ring,50261,ok,True,0
+ring,465298,ok,True,1
+ring,253684,ok,True,2
+ring,257444,ok,True,1
+ring,50246,ok,True,0
+ring,64299,ok,True,0
+ring,50411,ok,True,1
+ring,243479,ok,True,0
+ring,251881,ok,True,1
+ring,50273,ok,True,0
+ring,50282,ok,True,0
+ring,50119,ok,True,0
+ring,465284,ok,True,4
+ring,50255,ok,True,0
+ring,50146,ok,True,1
+ring,64300,ok,True,0
+ring,50393,ok,True,1
+ring,64312,ok,True,0
+ring,50259,ok,True,1
+ring,50431,ok,True,0
+ring,446009,ok,True,1
+ring,243481,ok,True,0
+ring,249584,ok,True,0
+ring,50253,ok,True,0
+ring,446777,ok,True,1
+ring,468418,ok,True,4
+ring,453011,ok,True,3
+ring,465975,ok,True,1
+ring,450415,ok,True,4
+ring,256677,ok,True,0
+ring,50118,ok,True,0
+ring,50249,ok,True,0
+ring,466242,ok,True,7
+ring,64309,ok,True,0
+ring,243597,ok,True,0
+ring,50254,ok,True,0
+ring,323884,ok,True,0
+sculpture,39340,ok,True,0
+sculpture,324897,ok,True,0
+sculpture,324615,ok,True,10
+sculpture,322755,ok,True,1
+sculpture,324147,ok,True,0
+sculpture,324154,ok,True,0
+sculpture,324112,ok,True,0
+sculpture,330882,ok,True,2
+sculpture,471850,ok,True,4
+sculpture,326621,ok,True,2
+sculpture,325246,ok,True,1
+sculpture,472310,ok,True,2
+sculpture,323988,ok,True,3
+sculpture,322915,ok,True,1
+sculpture,328794,ok,True,0
+sculpture,324606,ok,True,0
+sculpture,324338,ok,True,1
+sculpture,711870,ok,True,1
+sculpture,324105,ok,True,0
+sculpture,325248,ok,True,1
+sculpture,38959,ok,True,3
+sculpture,322751,ok,True,1
+sculpture,324327,ok,True,1
+sculpture,469881,ok,True,0
+sculpture,322137,ok,True,0
+sculpture,324201,ok,True,1
+sculpture,464596,ok,True,12
+sculpture,327527,ok,True,3
+sculpture,449853,ok,True,1
+sculpture,327278,ok,True,1
+sculpture,328941,ok,True,0
+sculpture,466404,ok,True,4
+sculpture,326160,ok,True,0
+sculpture,327142,ok,True,2
+sculpture,329710,ok,True,2
+sculpture,471051,ok,True,6
+sculpture,325407,ok,True,2
+sculpture,322977,ok,True,0
+sculpture,322570,ok,True,1
+sculpture,323578,ok,True,2
+sealing,565413,ok,True,1
+sealing,546588,ok,True,1
+sealing,546519,http_403,False,0
+sealing,557531,ok,True,1
+sealing,560472,ok,True,1
+sealing,565894,ok,True,1
+sealing,323536,ok,True,0
+sealing,546539,ok,True,1
+sealing,560383,ok,True,1
+sealing,560507,ok,True,0
+sealing,323331,ok,True,0
+sealing,546523,ok,True,1
+sealing,560476,ok,True,0
+sealing,572496,ok,True,1
+sealing,565345,ok,True,1
+sealing,560360,ok,True,1
+sealing,560359,ok,True,1
+sealing,323374,ok,True,0
+sealing,565378,ok,True,1
+sealing,560465,ok,True,0
+sealing,323404,ok,True,0
+sealing,323332,ok,True,0
+sealing,558068,ok,True,0
+sealing,558565,ok,True,1
+sealing,323302,ok,True,0
+sealing,323293,ok,True,0
+sealing,560333,ok,True,1
+sealing,323548,ok,True,0
+sealing,323549,ok,True,0
+sealing,323343,ok,True,0
+sealing,546598,ok,True,1
+sealing,565353,ok,True,1
+sealing,560468,ok,True,1
+sealing,546542,ok,True,1
+sealing,565770,ok,True,1
+sealing,323286,ok,True,0
+sealing,557547,ok,True,0
+sealing,560330,ok,True,1
+sealing,323328,ok,True,0
+sealing,323457,ok,True,0
+skyphos fragment,737137,ok,True,1
+skyphos fragment,737541,ok,True,1
+skyphos fragment,737111,ok,True,1
+skyphos fragment,737459,ok,True,1
+skyphos fragment,736982,ok,True,1
+skyphos fragment,737485,ok,True,1
+skyphos fragment,753447,ok,True,1
+skyphos fragment,739971,ok,True,1
+skyphos fragment,753451,ok,True,1
+skyphos fragment,737095,ok,True,1
+skyphos fragment,753439,ok,True,1
+skyphos fragment,736983,ok,True,1
+skyphos fragment,737526,ok,True,1
+skyphos fragment,737175,ok,True,1
+skyphos fragment,737478,ok,True,1
+skyphos fragment,753460,ok,True,1
+skyphos fragment,736992,ok,True,1
+skyphos fragment,739943,ok,True,1
+skyphos fragment,753013,ok,True,1
+skyphos fragment,737247,ok,True,1
+skyphos fragment,737010,ok,True,1
+skyphos fragment,737018,ok,True,1
+skyphos fragment,766139,ok,True,1
+skyphos fragment,737260,ok,True,1
+skyphos fragment,737387,ok,True,1
+skyphos fragment,752857,ok,True,1
+skyphos fragment,737313,ok,True,1
+skyphos fragment,753002,ok,True,1
+skyphos fragment,737383,ok,True,1
+skyphos fragment,737239,ok,True,1
+skyphos fragment,736939,ok,True,1
+skyphos fragment,736946,ok,True,1
+skyphos fragment,737405,ok,True,1
+skyphos fragment,737195,ok,True,1
+skyphos fragment,737477,ok,True,1
+skyphos fragment,737508,ok,True,1
+skyphos fragment,768227,ok,True,1
+skyphos fragment,753433,ok,True,1
+skyphos fragment,739924,ok,True,1
+skyphos fragment,752805,ok,True,1
+snuff bottle,41617,ok,True,0
+snuff bottle,41322,ok,True,0
+snuff bottle,41230,ok,True,1
+snuff bottle,41685,ok,True,0
+snuff bottle,41231,ok,True,0
+snuff bottle,41569,ok,True,0
+snuff bottle,41751,ok,True,1
+snuff bottle,41433,ok,True,0
+snuff bottle,41325,ok,True,2
+snuff bottle,41759,ok,True,0
+snuff bottle,41765,ok,True,1
+snuff bottle,41237,ok,True,0
+snuff bottle,41750,ok,True,0
+snuff bottle,41701,ok,True,0
+snuff bottle,41614,ok,True,0
+snuff bottle,41739,ok,True,0
+snuff bottle,41647,ok,True,0
+snuff bottle,41295,ok,True,0
+snuff bottle,41235,ok,True,0
+snuff bottle,41684,ok,True,0
+snuff bottle,41079,ok,True,1
+snuff bottle,41448,ok,True,0
+snuff bottle,41207,ok,True,0
+snuff bottle,41723,ok,True,0
+snuff bottle,41132,ok,True,0
+snuff bottle,41541,ok,True,1
+snuff bottle,41756,ok,True,3
+snuff bottle,41418,ok,True,1
+snuff bottle,50481,ok,True,5
+snuff bottle,41305,ok,True,0
+snuff bottle,41732,ok,True,0
+snuff bottle,41238,ok,True,2
+snuff bottle,41180,ok,True,1
+snuff bottle,41296,ok,True,0
+snuff bottle,41591,ok,True,2
+snuff bottle,41560,ok,True,0
+snuff bottle,41234,ok,True,0
+snuff bottle,41764,ok,True,0
+snuff bottle,41768,ok,True,4
+snuff bottle,41550,ok,True,0
+stamp seal,326872,ok,True,0
+stamp seal,323935,ok,True,3
+stamp seal,325951,ok,True,0
+stamp seal,326883,ok,True,0
+stamp seal,321485,ok,True,0
+stamp seal,322335,ok,True,0
+stamp seal,322345,ok,True,0
+stamp seal,323133,ok,True,0
+stamp seal,322232,ok,True,0
+stamp seal,322151,http_403,False,0
+stamp seal,322152,ok,True,3
+stamp seal,326884,ok,True,0
+stamp seal,324967,ok,True,0
+stamp seal,322284,ok,True,3
+stamp seal,323217,ok,True,0
+stamp seal,327470,ok,True,0
+stamp seal,326446,ok,True,0
+stamp seal,326816,ok,True,0
+stamp seal,328752,ok,True,0
+stamp seal,321658,ok,True,3
+stamp seal,322339,ok,True,0
+stamp seal,324062,ok,True,1
+stamp seal,322214,ok,True,3
+stamp seal,326662,ok,True,0
+stamp seal,326408,ok,True,0
+stamp seal,326663,ok,True,0
+stamp seal,321476,ok,True,0
+stamp seal,326836,ok,True,0
+stamp seal,321564,ok,True,3
+stamp seal,323834,ok,True,0
+stamp seal,326627,ok,True,0
+stamp seal,322158,ok,True,3
+stamp seal,327093,ok,True,0
+stamp seal,322275,ok,True,0
+stamp seal,322228,ok,True,3
+stamp seal,326740,ok,True,0
+stamp seal,321468,ok,True,0
+stamp seal,322221,ok,True,3
+stamp seal,327383,ok,True,0
+stamp seal,326909,http_403,False,0
+statuette,61587,ok,True,0
+statuette,471040,ok,True,0
+statuette,468341,ok,True,5
+statuette,51304,ok,True,3
+statuette,479673,ok,True,3
+statuette,466327,ok,True,11
+statuette,41983,ok,True,0
+statuette,467745,ok,True,6
+statuette,464006,ok,True,6
+statuette,463751,ok,True,6
+statuette,38843,ok,True,0
+statuette,466590,ok,True,8
+statuette,471927,ok,True,8
+statuette,464223,ok,True,6
+statuette,471041,ok,True,4
+statuette,478728,ok,True,1
+statuette,463795,ok,True,10
+statuette,478493,ok,True,0
+statuette,471979,ok,True,2
+statuette,478464,ok,True,0
+statuette,38885,ok,True,0
+statuette,553622,ok,True,4
+statuette,478481,ok,True,0
+statuette,37640,ok,True,0
+statuette,463839,ok,True,7
+statuette,463190,ok,True,5
+statuette,61586,ok,True,0
+statuette,41971,ok,True,0
+statuette,61819,ok,True,3
+statuette,61585,ok,True,0
+statuette,464131,ok,True,8
+statuette,468707,ok,True,7
+statuette,471946,ok,True,0
+statuette,478552,ok,True,0
+statuette,61637,ok,True,0
+statuette,478944,ok,True,2
+statuette,463836,ok,True,6
+statuette,52550,ok,True,0
+statuette,61582,ok,True,0
+statuette,39354,ok,True,0
+stencil,70711,ok,True,0
+stencil,69223,ok,True,0
+stencil,69400,ok,True,0
+stencil,69336,ok,True,0
+stencil,69406,ok,True,0
+stencil,70530,ok,True,0
+stencil,69314,ok,True,0
+stencil,69139,ok,True,0
+stencil,70025,ok,True,0
+stencil,64388,ok,True,0
+stencil,69256,ok,True,0
+stencil,69434,ok,True,0
+stencil,70059,ok,True,0
+stencil,69360,ok,True,0
+stencil,69253,ok,True,0
+stencil,70177,ok,True,0
+stencil,70677,ok,True,0
+stencil,69111,ok,True,0
+stencil,69294,ok,True,0
+stencil,70712,ok,True,0
+stencil,69446,ok,True,0
+stencil,69988,ok,True,0
+stencil,70716,http_403,False,0
+stencil,69222,ok,True,0
+stencil,69147,ok,True,0
+stencil,69245,ok,True,0
+stencil,70140,ok,True,0
+stencil,70705,ok,True,0
+stencil,69227,ok,True,0
+stencil,69214,ok,True,0
+stencil,70664,ok,True,0
+stencil,69226,ok,True,0
+stencil,69297,ok,True,0
+stencil,53218,ok,True,0
+stencil,70035,ok,True,0
+stencil,69229,http_403,False,0
+stencil,69377,ok,True,0
+stencil,69348,ok,True,0
+stencil,70660,ok,True,0
+stencil,69943,ok,True,0
+textile,75306,ok,True,2
+textile,67983,ok,True,0
+textile,463288,ok,True,2
+textile,68007,ok,True,0
+textile,465908,ok,True,1
+textile,463238,ok,True,2
+textile,65023,ok,True,0
+textile,51486,ok,True,1
+textile,463311,ok,True,1
+textile,463291,ok,True,1
+textile,468125,ok,True,2
+textile,463235,ok,True,1
+textile,463307,ok,True,1
+textile,67995,ok,True,0
+textile,68026,ok,True,0
+textile,463230,ok,True,2
+textile,67992,ok,True,0
+textile,328835,ok,True,0
+textile,328836,ok,True,0
+textile,325990,ok,True,0
+textile,39740,ok,True,1
+textile,68076,ok,True,0
+textile,67996,ok,True,0
+textile,127992,ok,True,1
+textile,468144,ok,True,2
+textile,68069,ok,True,0
+textile,468136,ok,True,1
+textile,463258,ok,True,1
+textile,320144,not_found,False,0
+textile,325992,ok,True,4
+textile,328831,ok,True,0
+textile,68028,ok,True,0
+textile,309769,ok,True,4
+textile,463240,ok,True,3
+textile,468126,ok,True,1
+textile,468121,ok,True,3
+textile,463300,ok,True,2
+textile,39727,ok,True,0
+textile,68010,ok,True,0
+textile,325994,ok,True,0
+textile fragment,448285,ok,True,0
+textile fragment,450730,http_403,False,0
+textile fragment,448025,ok,True,3
+textile fragment,475245,ok,True,2
+textile fragment,444068,ok,True,3
+textile fragment,443722,ok,True,0
+textile fragment,444103,ok,True,0
+textile fragment,443342,ok,True,0
+textile fragment,452912,ok,True,3
+textile fragment,444349,ok,True,1
+textile fragment,443941,ok,True,0
+textile fragment,445659,ok,True,0
+textile fragment,475223,ok,True,2
+textile fragment,444222,ok,True,0
+textile fragment,444090,ok,True,8
+textile fragment,443826,ok,True,0
+textile fragment,443349,ok,True,1
+textile fragment,454451,ok,True,1
+textile fragment,450722,ok,True,8
+textile fragment,443313,ok,True,0
+textile fragment,451101,ok,True,7
+textile fragment,443457,ok,True,4
+textile fragment,448060,ok,True,1
+textile fragment,443667,ok,True,1
+textile fragment,443453,ok,True,0
+textile fragment,443487,ok,True,2
+textile fragment,443586,ok,True,1
+textile fragment,452399,ok,True,3
+textile fragment,443377,ok,True,1
+textile fragment,444023,ok,True,1
+textile fragment,474223,ok,True,0
+textile fragment,443944,ok,True,0
+textile fragment,444140,ok,True,1
+textile fragment,443810,ok,True,0
+textile fragment,443401,ok,True,2
+textile fragment,444138,ok,True,1
+textile fragment,448101,ok,True,1
+textile fragment,444258,ok,True,0
+textile fragment,444330,ok,True,1
+textile fragment,315708,ok,True,0
+vase,42257,ok,True,0
+vase,61974,ok,True,3
+vase,46693,ok,True,2
+vase,46126,ok,True,0
+vase,51161,ok,True,2
+vase,47857,ok,True,0
+vase,48546,ok,True,1
+vase,46954,ok,True,1
+vase,42004,ok,True,0
+vase,47234,ok,True,3
+vase,46074,ok,True,1
+vase,51032,ok,True,0
+vase,61018,ok,True,0
+vase,52605,ok,True,3
+vase,45990,ok,True,5
+vase,444742,ok,True,3
+vase,43860,ok,True,2
+vase,42190,ok,True,5
+vase,45832,ok,True,0
+vase,40735,ok,True,0
+vase,41951,ok,True,0
+vase,46306,ok,True,2
+vase,60621,ok,True,1
+vase,47589,ok,True,6
+vase,42147,ok,True,1
+vase,46104,ok,True,4
+vase,43264,ok,True,0
+vase,48644,ok,True,0
+vase,76452,ok,True,3
+vase,48768,ok,True,3
+vase,42426,ok,True,0
+vase,52937,ok,True,2
+vase,246615,ok,True,0
+vase,48343,ok,True,1
+vase,50900,not_found,False,0
+vase,78006,ok,True,1
+vase,40721,ok,True,0
+vase,43339,ok,True,0
+vase,445631,ok,True,4
+vase,59831,ok,True,0
+vase fragment,250309,ok,True,0
+vase fragment,249135,ok,True,0
+vase fragment,253266,ok,True,1
+vase fragment,250294,ok,True,0
+vase fragment,248544,ok,True,0
+vase fragment,252801,ok,True,0
+vase fragment,252686,ok,True,0
+vase fragment,250501,http_403,False,0
+vase fragment,253298,ok,True,0
+vase fragment,247692,ok,True,1
+vase fragment,250438,ok,True,0
+vase fragment,252819,ok,True,0
+vase fragment,560850,ok,True,0
+vase fragment,250306,ok,True,0
+vase fragment,252713,ok,True,0
+vase fragment,247672,ok,True,0
+vase fragment,251295,ok,True,0
+vase fragment,248524,ok,True,0
+vase fragment,247793,ok,True,0
+vase fragment,253006,ok,True,2
+vase fragment,252794,ok,True,0
+vase fragment,250433,ok,True,0
+vase fragment,253261,ok,True,0
+vase fragment,247731,ok,True,0
+vase fragment,247697,ok,True,1
+vase fragment,252806,ok,True,0
+vase fragment,253285,ok,True,1
+vase fragment,247751,ok,True,0
+vase fragment,252799,ok,True,0
+vase fragment,247733,ok,True,0
+vase fragment,247680,ok,True,0
+vase fragment,253268,ok,True,1
+vase fragment,247764,ok,True,0
+vase fragment,250440,ok,True,0
+vase fragment,252729,ok,True,0
+vase fragment,250188,ok,True,0
+vase fragment,250206,ok,True,0
+vase fragment,247745,ok,True,0
+vase fragment,253289,ok,True,0
+vase fragment,251318,ok,True,0
+vessel,50032,ok,True,4
+vessel,61071,ok,True,3
+vessel,43741,ok,True,0
+vessel,478720,ok,True,0
+vessel,449923,ok,True,0
+vessel,317581,ok,True,0
+vessel,316588,ok,True,0
+vessel,37650,ok,True,0
+vessel,325897,ok,True,1
+vessel,59850,ok,True,6
+vessel,61320,ok,True,3
+vessel,478666,ok,True,1
+vessel,327543,ok,True,0
+vessel,449974,ok,True,2
+vessel,626809,not_found,False,0
+vessel,449914,ok,True,0
+vessel,312618,not_found,False,0
+vessel,76738,ok,True,3
+vessel,449924,ok,True,3
+vessel,61286,ok,True,1
+vessel,37425,ok,True,6
+vessel,828443,ok,True,4
+vessel,37652,ok,True,2
+vessel,318296,ok,True,3
+vessel,61279,ok,True,0
+vessel,316544,ok,True,0
+vessel,478474,ok,True,0
+vessel,61243,ok,True,3
+vessel,42420,ok,True,0
+vessel,313363,ok,True,0
+vessel,310384,ok,True,0
+vessel,317591,ok,True,0
+vessel,308613,ok,True,1
+vessel,327500,ok,True,1
+vessel,39622,ok,True,2
+vessel,44397,ok,True,0
+vessel,327315,ok,True,0
+vessel,761272,ok,True,1
+vessel,324629,ok,True,0
+vessel,310674,ok,True,0
+woodblock print,39656,ok,True,0
+woodblock print,54987,ok,True,0
+woodblock print,36676,ok,True,0
+woodblock print,54831,ok,True,0
+woodblock print,73482,ok,True,0
+woodblock print,55612,ok,True,0
+woodblock print,37102,ok,True,0
+woodblock print,57005,ok,True,0
+woodblock print,37264,ok,True,0
+woodblock print,73473,ok,True,0
+woodblock print,57024,ok,True,0
+woodblock print,37306,ok,True,0
+woodblock print,56390,ok,True,0
+woodblock print,37286,ok,True,0
+woodblock print,54135,ok,True,0
+woodblock print,55494,ok,True,0
+woodblock print,54382,ok,True,0
+woodblock print,54527,ok,True,0
+woodblock print,843993,ok,True,0
+woodblock print,55405,ok,True,0
+woodblock print,36979,ok,True,0
+woodblock print,54136,ok,True,0
+woodblock print,76561,ok,True,0
+woodblock print,56848,ok,True,0
+woodblock print,54022,ok,True,0
+woodblock print,45035,ok,True,0
+woodblock print,54230,ok,True,0
+woodblock print,37162,ok,True,0
+woodblock print,37288,ok,True,0
+woodblock print,55225,ok,True,0
+woodblock print,54961,ok,True,0
+woodblock print,37369,ok,True,0
+woodblock print,55756,ok,True,0
+woodblock print,55903,ok,True,0
+woodblock print,37283,ok,True,0
+woodblock print,55736,ok,True,0
+woodblock print,37210,ok,True,0
+woodblock print,56148,ok,True,0
+woodblock print,49932,ok,True,0
+woodblock print,54980,ok,True,0

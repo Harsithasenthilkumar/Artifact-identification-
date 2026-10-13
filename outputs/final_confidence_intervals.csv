@@ -1,0 +1,10 @@
+Model,Metric,Value,95% CI low,95% CI high
+Image only,Known accuracy,0.9472,0.9194,0.9694
+Image only,Mahalanobis AUROC,0.7164,0.6817,0.7508
+Image only,Softmax AUROC,0.8667,0.8401,0.8927
+Metadata only,Known accuracy,0.8056,0.7639,0.8444
+Metadata only,Mahalanobis AUROC,0.7094,0.6749,0.745
+Metadata only,Softmax AUROC,0.7327,0.6975,0.7671
+Image + Metadata,Known accuracy,0.95,0.9277,0.9722
+Image + Metadata,Mahalanobis AUROC,0.7771,0.7474,0.8069
+Image + Metadata,Softmax AUROC,0.8632,0.8329,0.89

@@ -1,0 +1,70 @@
+{
+  "mode": "multimodal",
+  "regularization_lambda": 0.0016753420932218432,
+  "threshold": 20.299228472408053,
+  "threshold_rule": "95th percentile of validation (known-only) distances",
+  "val_fpr": 0.05013927576601671,
+  "auroc": 0.7770679012345678,
+  "softmax_baseline_auroc": 0.8632283950617284,
+  "TP": 192,
+  "TN": 341,
+  "FP": 19,
+  "FN": 258,
+  "recall": 0.4266666666666667,
+  "fpr": 0.05277777777777778,
+  "precision": 0.909952606635071,
+  "f1": 0.5809379727685325,
+  "per_unseen_category": {
+    "cuneiform tablet": {
+      "auroc": 0.9482222222222221,
+      "detected_as_unknown": 0.68,
+      "nearest_known_class_counts": {
+        "cylinder seal": 68,
+        "coin": 46,
+        "bowl": 17,
+        "lamp": 15,
+        "figure": 4
+      }
+    },
+    "jug": {
+      "auroc": 0.4597407407407408,
+      "detected_as_unknown": 0.02666666666666667,
+      "nearest_known_class_counts": {
+        "vase": 143,
+        "lamp": 4,
+        "bowl": 3
+      }
+    },
+    "ring": {
+      "auroc": 0.9232407407407407,
+      "detected_as_unknown": 0.5733333333333334,
+      "nearest_known_class_counts": {
+        "lamp": 54,
+        "figure": 43,
+        "coin": 39,
+        "bowl": 11,
+        "cylinder seal": 2,
+        "vase": 1
+      }
+    }
+  },
+  "known_test_accepted": 341,
+  "accuracy_on_accepted_known": 0.9501466275659824,
+  "threshold_sensitivity": {
+    "p90": {
+      "recall": 0.5822,
+      "fpr": 0.1167,
+      "f1": 0.695
+    },
+    "p95": {
+      "recall": 0.4267,
+      "fpr": 0.0528,
+      "f1": 0.5809
+    },
+    "p99": {
+      "recall": 0.1289,
+      "fpr": 0.0083,
+      "f1": 0.227
+    }
+  }
+}

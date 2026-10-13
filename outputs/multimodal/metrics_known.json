@@ -1,0 +1,68 @@
+{
+  "mode": "multimodal",
+  "n_known_test": 360,
+  "best_epoch": 3,
+  "accuracy": 0.95,
+  "macro_f1": 0.9497948277577137,
+  "macro_recall": 0.9499999999999998,
+  "per_class_recall": {
+    "bowl": 0.917,
+    "vase": 0.917,
+    "figure": 0.983,
+    "coin": 1.0,
+    "lamp": 0.883,
+    "cylinder seal": 1.0
+  },
+  "mean_confidence_correct": 0.9741244912147522,
+  "mean_confidence_wrong": 0.7454812526702881,
+  "confusion_matrix": [
+    [
+      55,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      55,
+      4,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      59,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      60,
+      0,
+      0
+    ],
+    [
+      5,
+      1,
+      1,
+      0,
+      53,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      60
+    ]
+  ]
+}
